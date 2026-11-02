@@ -1,0 +1,747 @@
+{
+  "GLOBAL": {
+    "ENABLED": true,
+    "FETCH_LIMIT": 2,
+    "ID_FORMAT": "{ServiceId}.{Source.lower()}",
+    "ADD_REBROADCAST_TO_TITLE": false,
+    "ADD_EPNUM_TO_TITLE": true,
+    "ADD_DESCRIPTION": true,
+    "ADD_XMLTV_NS": false,
+    "ADD_CHANNEL_ICON": true,
+    "HTTP_PROXY": null
+  },
+  "KT": {
+    "MY_CHANNELS": [
+      {
+        "ServiceId": "9",
+        "Id": "KBS1.kr",
+        "Name": "KBS1"
+      },
+      {
+        "ServiceId": "7",
+        "Id": "KBS2.kr",
+        "Name": "KBS2"
+      },
+      {
+        "ServiceId": "11",
+        "Id": "MBC.kr",
+        "Name": "MBC"
+      },
+      {
+        "ServiceId": "5",
+        "Id": "SBS.kr",
+        "Name": "SBS"
+      },
+      {
+        "ServiceId": "15",
+        "Id": "JTBC.kr",
+        "Name": "JTBC"
+      },
+      {
+        "ServiceId": "18",
+        "Id": "채널A.kr",
+        "Name": "채널A"
+      },
+      {
+        "ServiceId": "16",
+        "Id": "MBN.kr",
+        "Name": "MBN"
+      },
+      {
+        "ServiceId": "3",
+        "Id": "tvN.kr",
+        "Name": "tvN"
+      },
+      {
+        "ServiceId": "95",
+        "Id": "EBS2.kr",
+        "Name": "EBS2"
+      },
+      {
+        "ServiceId": "24",
+        "Id": "YTN.kr",
+        "Name": "YTN"
+      },
+      {
+        "ServiceId": "159",
+        "Id": "YTN2.kr",
+        "Name": "YTN2"
+      },
+      {
+        "ServiceId": "23",
+        "Id": "KRBD1400001ED",
+        "Name": "연합뉴스TV"
+      },
+      {
+        "ServiceId": "51",
+        "Id": "SPOTV.kr",
+        "Name": "SPOTV"
+      },
+      {
+        "ServiceId": "52",
+        "Id": "SPOTV2.kr",
+        "Name": "SPOTV2"
+      },
+      {
+        "ServiceId": "135",
+        "Id": "AUTO.spotvplus",
+        "Name": "SPOTV PLUS"
+      },
+      {
+        "ServiceId": "59",
+        "Id": "KBS N SPORTS.kr",
+        "Name": "KBS N Sports"
+      },
+      {
+        "ServiceId": "60",
+        "Id": "MBC스포츠 플러스.kr",
+        "Name": "MBC SPORTS+"
+      },
+      {
+        "ServiceId": "58",
+        "Id": "SBS스포츠.kr",
+        "Name": "SBS Sports"
+      },
+      {
+        "ServiceId": "57",
+        "Id": "SBSGolf.kr",
+        "Name": "SBSGOLF"
+      },
+      {
+        "ServiceId": "62",
+        "Id": "SBSGolf2.kr",
+        "Name": "SBS Golf2"
+      },
+      {
+        "ServiceId": "54",
+        "Id": "tvN SPORTS.kr",
+        "Name": "tvN SPORTS"
+      },
+      {
+        "ServiceId": "61",
+        "Id": "JTBC SPORTS.kr",
+        "Name": "JTBC SPORTS"
+      },
+      {
+        "ServiceId": "56",
+        "Id": "JTBCGolf.kr",
+        "Name": "JTBC Golf"
+      },
+      {
+        "ServiceId": "70",
+        "Id": "ENA SPORTS.kr",
+        "Name": "ENA SPORTS"
+      },
+      {
+        "ServiceId": "133",
+        "Id": "AUTO.스크린골프존",
+        "Name": "스크린골프존"
+      },
+      {
+        "ServiceId": "33",
+        "Id": "OCN.kr",
+        "Name": "OCN"
+      },
+      {
+        "ServiceId": "48",
+        "Id": "OCN Movies.kr",
+        "Name": "OCN Movies"
+      },
+      {
+        "ServiceId": "76",
+        "Id": "OCN Movies2.kr",
+        "Name": "OCN Movies2"
+      },
+      {
+        "ServiceId": "104",
+        "Id": "THE MOVIE.kr",
+        "Name": "THE MOVIE"
+      },
+      {
+        "ServiceId": "103",
+        "Id": "Mplex.kr",
+        "Name": "mplex"
+      },
+      {
+        "ServiceId": "105",
+        "Id": "kortv.cinetree",
+        "Name": "CINETREE"
+      },
+      {
+        "ServiceId": "106",
+        "Id": "kortv.스크린",
+        "Name": "스크린"
+      },
+      {
+        "ServiceId": "158",
+        "Id": "KBSLIFE.kr",
+        "Name": "KBS LIFE"
+      },
+      {
+        "ServiceId": "35",
+        "Id": "KBSDrama.kr",
+        "Name": "KBS Drama"
+      },
+      {
+        "ServiceId": "83",
+        "Id": "KBSStory.kr",
+        "Name": "KBS Story"
+      },
+      {
+        "ServiceId": "999",
+        "Id": "KBSJoy.kr",
+        "Name": "KBS Joy"
+      },
+      {
+        "ServiceId": "29",
+        "Id": "MBCEvery1.kr",
+        "Name": "MBC Every1"
+      },
+      {
+        "ServiceId": "80",
+        "Id": "MBCON.kr",
+        "Name": "MBC ON"
+      },
+      {
+        "ServiceId": "137",
+        "Id": "MBCM.kr",
+        "Name": "MBC M"
+      },
+      {
+        "ServiceId": "164",
+        "Id": "MBCNnet.kr",
+        "Name": "MBC NET"
+      },
+      {
+        "ServiceId": "37",
+        "Id": "SBSPlus.kr",
+        "Name": "SBS Plus"
+      },
+      {
+        "ServiceId": "43",
+        "Id": "SBSfunE.kr",
+        "Name": "SBS funE"
+      },
+      {
+        "ServiceId": "66",
+        "Id": "SBSF!L.kr",
+        "Name": "SBS LIFE"
+      },
+      {
+        "ServiceId": "25",
+        "Id": "SBSBiz.kr",
+        "Name": "SBS Biz"
+      },
+      {
+        "ServiceId": "39",
+        "Id": "JTBC2.kr",
+        "Name": "JTBC2"
+      },
+      {
+        "ServiceId": "75",
+        "Id": "JTBC4.kr",
+        "Name": "JTBC4"
+      },
+      {
+        "ServiceId": "98",
+        "Id": "채널A플러스.kr",
+        "Name": "채널A 플러스"
+      },
+      {
+        "ServiceId": "40",
+        "Id": "tvNShow.kr",
+        "Name": "tvN SHOW"
+      },
+      {
+        "ServiceId": "34",
+        "Id": "tvNStory.kr",
+        "Name": "tvN STORY"
+      },
+      {
+        "ServiceId": "45",
+        "Id": "tvNDrama.kr",
+        "Name": "tvN DRAMA"
+      },
+      {
+        "ServiceId": "27",
+        "Id": "Mnet.kr",
+        "Name": "Mnet"
+      },
+      {
+        "ServiceId": "87",
+        "Id": "KSTAR.kr",
+        "Name": "K STAR"
+      },
+      {
+        "ServiceId": "1",
+        "Id": "ENA.kr",
+        "Name": "ENA"
+      },
+      {
+        "ServiceId": "73",
+        "Id": "AsiaN.kr",
+        "Name": "AsiaN"
+      },
+      {
+        "ServiceId": "998",
+        "Id": "E채널.kr",
+        "Name": "E채널"
+      },
+      {
+        "ServiceId": "26",
+        "Id": "OBS.kr",
+        "Name": "OBS"
+      },
+      {
+        "ServiceId": "81",
+        "Id": "OBSW.kr",
+        "Name": "OBS W"
+      },
+      {
+        "ServiceId": "53",
+        "Id": "IBSPORTS.kr",
+        "Name": "IB SPORTS"
+      },
+      {
+        "ServiceId": "85",
+        "Id": "코미디TV.kr",
+        "Name": "코미디TV"
+      },
+      {
+        "ServiceId": "67",
+        "Id": "GTV.kr",
+        "Name": "GTV"
+      },
+      {
+        "ServiceId": "86",
+        "Id": "OLIFE.kr",
+        "Name": "OLIFE"
+      },
+      {
+        "ServiceId": "50",
+        "Id": "더라이프.kr",
+        "Name": "더라이프"
+      },
+      {
+        "ServiceId": "266",
+        "Id": "AUTO.더라이프2",
+        "Name": "더라이프2"
+      },
+      {
+        "ServiceId": "144",
+        "Id": "실버아이TV.kr",
+        "Name": "실버아이TV"
+      },
+      {
+        "ServiceId": "110",
+        "Id": "중화TV.kr",
+        "Name": "중화TV"
+      },
+      {
+        "ServiceId": "165",
+        "Id": "AUTO.채널i",
+        "Name": "채널i"
+      },
+      {
+        "ServiceId": "113",
+        "Id": "kortv.nxt",
+        "Name": "NXT"
+      },
+      {
+        "ServiceId": "134",
+        "Id": "kortv.storytv",
+        "Name": "STORYTV"
+      },
+      {
+        "ServiceId": "276",
+        "Id": "kortv.리빙tv",
+        "Name": "리빙TV"
+      },
+      {
+        "ServiceId": "132",
+        "Id": "kortv.생활체육tv",
+        "Name": "생활체육TV"
+      },
+      {
+        "ServiceId": "148",
+        "Id": "kortv.아이넷라이프",
+        "Name": "아이넷라이프"
+      },
+      {
+        "ServiceId": "108",
+        "Id": "kortv.채널j",
+        "Name": "채널 J"
+      },
+      {
+        "ServiceId": "149",
+        "Id": "kortv.edgeon",
+        "Name": "EDGE ON"
+      },
+      {
+        "ServiceId": "265",
+        "Id": "kortv.elike",
+        "Name": "E-LIKE"
+      },
+      {
+        "ServiceId": "167",
+        "Id": "kortv.maxports",
+        "Name": "MAXPORTS"
+      },
+      {
+        "ServiceId": "71",
+        "Id": "kortv.funtv",
+        "Name": "FUN TV"
+      },
+      {
+        "ServiceId": "79",
+        "Id": "kortv.edgetv",
+        "Name": "Edge TV"
+      },
+      {
+        "ServiceId": "68",
+        "Id": "kortv.cntv",
+        "Name": "CNTV"
+      },
+      {
+        "ServiceId": "126",
+        "Id": "AUTO.브레인tv",
+        "Name": "브레인TV"
+      },
+      {
+        "ServiceId": "122",
+        "Id": "바둑TV.kr",
+        "Name": "바둑TV"
+      },
+      {
+        "ServiceId": "123",
+        "Id": "K바둑.kr",
+        "Name": "K바둑"
+      },
+      {
+        "ServiceId": "120",
+        "Id": "FTV.kr",
+        "Name": "FTV"
+      },
+      {
+        "ServiceId": "226",
+        "Id": "polaristv.kr",
+        "Name": "폴라리스TV"
+      },
+      {
+        "ServiceId": "267",
+        "Id": "RNA.kr",
+        "Name": "RNA"
+      },
+      {
+        "ServiceId": "214",
+        "Id": "tbSTV.kr",
+        "Name": "TBS TV"
+      },
+      {
+        "ServiceId": "217",
+        "Id": "육아방송.kr",
+        "Name": "육아방송"
+      },
+      {
+        "ServiceId": "92",
+        "Id": "아이넷TV.kr",
+        "Name": "아이넷TV"
+      },
+      {
+        "ServiceId": "142",
+        "Id": "GMTV.kr",
+        "Name": "GMTV"
+      },
+      {
+        "ServiceId": "143",
+        "Id": "가요TV.kr",
+        "Name": "가요TV"
+      },
+      {
+        "ServiceId": "224",
+        "Id": "AUTO.지방자치tv",
+        "Name": "지방자치TV"
+      },
+      {
+        "ServiceId": "251",
+        "Id": "AUTO.국악방송",
+        "Name": "국악방송"
+      },
+      {
+        "ServiceId": "65",
+        "Id": "AUTO.국회방송",
+        "Name": "국회방송"
+      },
+      {
+        "ServiceId": "100",
+        "Id": "AUTO.nbs",
+        "Name": "NBS"
+      },
+      {
+        "ServiceId": "101",
+        "Id": "AUTO.kfn",
+        "Name": "KFN"
+      },
+      {
+        "ServiceId": "181",
+        "Id": "KR3500002AE",
+        "Name": "MTN 머니투데이방송"
+      },
+      {
+        "ServiceId": "20",
+        "Id": "KR3700002JT",
+        "Name": "TV조선"
+      },
+      {
+        "ServiceId": "182",
+        "Id": "KR3500001UU",
+        "Name": "매일경제TV"
+      },
+      {
+        "ServiceId": "976",
+        "Id": "KR900001U5",
+        "Name": "뽀요TV"
+      },
+      {
+        "ServiceId": "184",
+        "Id": "KR7000044K",
+        "Name": "서울경제TV"
+      },
+      {
+        "ServiceId": "166",
+        "Id": "KR3600006FN",
+        "Name": "아리랑 TV"
+      },
+      {
+        "ServiceId": "187",
+        "Id": "KR2200005YM",
+        "Name": "연합뉴스경제TV"
+      },
+      {
+        "ServiceId": "985",
+        "Id": "KR2200004C1",
+        "Name": "캐리TV"
+      },
+      {
+        "ServiceId": "180",
+        "Id": "KR3600003JU",
+        "Name": "한국경제TV"
+      },
+      {
+        "ServiceId": "10",
+        "Id": "KRAH1801500A",
+        "Name": "현대홈쇼핑"
+      },
+      {
+        "ServiceId": "28",
+        "Id": "KRAH4602000A",
+        "Name": "현대홈쇼핑+shop"
+      }
+    ]
+  },
+  "LG": {
+    "MY_CHANNELS": [
+      {
+        "ServiceId": "516",
+        "Id": "kortv.kbs1대구",
+        "Name": "대구 KBS1"
+      },
+      {
+        "ServiceId": "541",
+        "Id": "kortv.mbc대구",
+        "Name": "대구 MBC"
+      },
+      {
+        "ServiceId": "566",
+        "Id": "kortv.sbstbc",
+        "Name": "TBC"
+      },
+      {
+        "ServiceId": "505",
+        "Id": "EBS.kr",
+        "Name": "EBS1"
+      },
+      {
+        "ServiceId": "755",
+        "Id": "YTN사이언스.kr",
+        "Name": "YTN사이언스"
+      },
+      {
+        "ServiceId": "800",
+        "Id": "SPOTV PRIME.kr",
+        "Name": "SPOTV PRIME+"
+      },
+      {
+        "ServiceId": "163",
+        "Id": "SPOTV PRIME2.kr",
+        "Name": "SPOTV PRIME2"
+      },
+      {
+        "ServiceId": "668",
+        "Id": "빌리어즈TV.kr",
+        "Name": "빌리어즈TV"
+      },
+      {
+        "ServiceId": "775",
+        "Id": "TV CHOSUN2.kr",
+        "Name": "TV조선2"
+      },
+      {
+        "ServiceId": "603",
+        "Id": "라이프타임.kr",
+        "Name": "라이프타임"
+      },
+      {
+        "ServiceId": "563",
+        "Id": "kortv.ishow",
+        "Name": "i show"
+      },
+      {
+        "ServiceId": "637",
+        "Id": "kortv.ib스포츠",
+        "Name": "IB스포츠"
+      },
+      {
+        "ServiceId": "147",
+        "Id": "kortv.iplay",
+        "Name": "i play"
+      },
+      {
+        "ServiceId": "664",
+        "Id": "히스토리.kr",
+        "Name": "히스토리"
+      },
+      {
+        "ServiceId": "732",
+        "Id": "AUTO.stingraycmusic",
+        "Name": "STINGRAY cmusic"
+      },
+      {
+        "ServiceId": "602",
+        "Id": "KRBD5200002XY",
+        "Name": "JTBC골프"
+      }
+    ]
+  },
+  "SK": {
+    "MY_CHANNELS": [
+      {
+        "ServiceId": "243",
+        "Id": "TV조선.kr",
+        "Name": "TV CHOSUN"
+      },
+      {
+        "ServiceId": "181",
+        "Id": "CATCH ON1.kr",
+        "Name": "CATCH ON 1"
+      },
+      {
+        "ServiceId": "900",
+        "Id": "MBC드라마.kr",
+        "Name": "MBC 드라마"
+      },
+      {
+        "ServiceId": "892",
+        "Id": "MBN플러스.kr",
+        "Name": "MBN플러스"
+      }
+    ]
+  },
+  "DAUM": {
+    "MY_CHANNELS": [
+      {
+        "ServiceId": "케이블 SPOTV Golf+",
+        "Id": "SPOTV Golf & Health.kr",
+        "Name": "SPOTV Golf+"
+      },
+      {
+        "ServiceId": "케이블 KBS WORLD",
+        "Id": "KBS World.kr",
+        "Name": "KBS WORLD"
+      },
+      {
+        "ServiceId": "케이블 DRAMAcube",
+        "Id": "kortv.dramacube",
+        "Name": "DRAMAcube"
+      },
+      {
+        "ServiceId": "케이블 KTV 국민방송",
+        "Id": "AUTO.ktv국민방송",
+        "Name": "KTV 국민방송"
+      }
+    ]
+  },
+  "NAVER": {
+    "MY_CHANNELS": []
+  },
+  "TVING": {
+    "MY_CHANNELS": [
+      {
+        "ServiceId": "C52348",
+        "Id": "AUTO.sbsno1뉴스라이브",
+        "Name": "SBS No.1 뉴스라이브"
+      },
+      {
+        "ServiceId": "C52473",
+        "Id": "KRBC2000010X",
+        "Name": "MBC 거침없이 하이킥"
+      },
+      {
+        "ServiceId": "C52421",
+        "Id": "KRBC200002I0",
+        "Name": "MBC 나 혼자 산다"
+      },
+      {
+        "ServiceId": "C52474",
+        "Id": "KRBB5000073UD",
+        "Name": "MBC 놀면 뭐하니"
+      },
+      {
+        "ServiceId": "C52420",
+        "Id": "KRBB5000069BS",
+        "Name": "MBC 무한도전"
+      },
+      {
+        "ServiceId": "C52476",
+        "Id": "KRBB50000711L",
+        "Name": "MBC 심야괴담회"
+      },
+      {
+        "ServiceId": "C52477",
+        "Id": "KRBB50000721W",
+        "Name": "MBC 오은영리포트 결혼지옥"
+      },
+      {
+        "ServiceId": "C52475",
+        "Id": "KRBC20000418",
+        "Name": "MBC 전지적 참견 시점"
+      }
+    ]
+  },
+  "WAVVE": {
+    "MY_CHANNELS": [
+      {
+        "ServiceId": "C5702",
+        "Id": "KRBC4100008Z6",
+        "Name": "E채널 토요일은 밥이 좋아"
+      },
+      {
+        "ServiceId": "S28",
+        "Id": "KRBB4200009C3",
+        "Name": "나는솔로"
+      }
+    ]
+  },
+  "SPOTV": {
+    "MY_CHANNELS": []
+  },
+  "KBS": {
+    "MY_CHANNELS": []
+  },
+  "MBC": {
+    "MY_CHANNELS": []
+  },
+  "SBS": {
+    "MY_CHANNELS": []
+  }
+}
