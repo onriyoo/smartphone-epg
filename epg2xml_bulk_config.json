@@ -672,7 +672,7 @@
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": []
+    "MY_CHANNELS": [{"ServiceId":"814574","Name":"KBS1"}]
   },
   "TVING": {
     "MY_CHANNELS": [
