@@ -33,7 +33,61 @@ jobs:
             --channelfile Channel.json \
             --xmlfile epg.xml \
             run
+      - name: Merge Korean EPG
+        run: |
+          python - <<'PY'
+          import copy
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
 
+          url = "https://raw.githubusercontent.com/kenpark76/kenpark76.github.io/main/koreatvEPG.xml"
+
+          with urllib.request.urlopen(url, timeout=60) as r:
+              src = ET.fromstring(r.read())
+
+          target = Path("epg.xml")
+          text = target.read_text(encoding="utf-8")
+
+          id_map = {
+              "501.lg": "KBS1.kr",
+              "181.lg": "KBS2.kr",
+              "503.lg": "MBC.kr",
+              "504.lg": "SBS.kr"
+          }
+
+          channels = []
+          programmes = []
+
+          for old_id, new_id in id_map.items():
+              ch = src.find(f"./channel[@id='{old_id}']")
+              if ch is None:
+                  raise SystemExit(f"Missing channel: {old_id}")
+
+              new_ch = copy.deepcopy(ch)
+              new_ch.set("id", new_id)
+              channels.append(ET.tostring(new_ch, encoding="unicode"))
+
+              ps = src.findall(f"./programme[@channel='{old_id}']")
+              if not ps:
+                  raise SystemExit(f"No programmes: {old_id}")
+
+              for p in ps:
+                  new_p = copy.deepcopy(p)
+                  new_p.set("channel", new_id)
+                  programmes.append(ET.tostring(new_p, encoding="unicode"))
+
+          pos = text.find("<programme")
+          text = text[:pos] + "\n".join(channels) + "\n" + text[pos:]
+
+          pos = text.rfind("</tv>")
+          text = text[:pos] + "\n".join(programmes) + "\n" + text[pos:]
+
+          target.write_text(text, encoding="utf-8")
+
+          print("추가 채널:", len(channels))
+          print("추가 편성표:", len(programmes))
+          PY
       - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
