@@ -250,7 +250,23 @@
     <display-name>1 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S28_square_20251001172621.png" />
   </channel>
-  <programme start="20261103001500 +0900" stop="20261103010500 +0900" channel="kortv.kbs1대구">
+  <channel id="KBS1.kr">
+    <display-name>KBS1</display-name>
+  </channel>
+  
+<channel id="KBS2.kr">
+    <display-name>KBS2</display-name>
+  </channel>
+  
+<channel id="MBC.kr">
+    <display-name>MBC</display-name>
+  </channel>
+  
+<channel id="SBS.kr">
+    <display-name>SBS</display-name>
+  </channel>
+  
+<programme start="20261103001500 +0900" stop="20261103010500 +0900" channel="kortv.kbs1대구">
     <title lang="ko">생활의 발견</title>
     <desc lang="ko">생활의 발견
 장르 : 뉴스/정보
@@ -24941,4 +24957,292 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
+<programme start="20261103210000 +0900" stop="20261103220000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 뉴스 9</title>
+  </programme>
+  
+<programme start="20261103220000 +0900" stop="20261103225000 +0900" channel="KBS1.kr">
+    <title lang="ko">시사기획 창</title>
+  </programme>
+  
+<programme start="20261103225000 +0900" stop="20261103233000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 뉴스라인W</title>
+  </programme>
+  
+<programme start="20261103233000 +0900" stop="20261104000000 +0900" channel="KBS1.kr">
+    <title lang="ko">영상앨범 산</title>
+  </programme>
+  
+<programme start="20261104000000 +0900" stop="20261104005000 +0900" channel="KBS1.kr">
+    <title lang="ko">네트워크 공동기획 문화스케치</title>
+  </programme>
+  
+<programme start="20261104005000 +0900" stop="20261104014000 +0900" channel="KBS1.kr">
+    <title lang="ko">생활의 발견</title>
+  </programme>
+  
+<programme start="20261104014000 +0900" stop="20261104023500 +0900" channel="KBS1.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+  </programme>
+  
+<programme start="20261104023500 +0900" stop="20261104034500 +0900" channel="KBS1.kr">
+    <title lang="ko">무엇이든 물어보세요</title>
+  </programme>
+  
+<programme start="20261104034500 +0900" stop="20261104050000 +0900" channel="KBS1.kr">
+    <title lang="ko">아침마당</title>
+  </programme>
+  
+<programme start="20261104050000 +0900" stop="20261104051000 +0900" channel="KBS1.kr">
+    <title lang="ko">생활의 발견 스페셜</title>
+  </programme>
+  
+<programme start="20261104051000 +0900" stop="20261104060000 +0900" channel="KBS1.kr">
+    <title lang="ko">내고향 스페셜</title>
+  </programme>
+  
+<programme start="20261104060000 +0900" stop="20261104075000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 뉴스광장</title>
+  </programme>
+  
+<programme start="20261104075000 +0900" stop="20261104082500 +0900" channel="KBS1.kr">
+    <title lang="ko">인간극장</title>
+  </programme>
+  
+<programme start="20261104082500 +0900" stop="20261104093000 +0900" channel="KBS1.kr">
+    <title lang="ko">아침마당</title>
+  </programme>
+  
+<programme start="20261104093000 +0900" stop="20261104100000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 뉴스 930</title>
+  </programme>
+  
+<programme start="20261104100000 +0900" stop="20261104111000 +0900" channel="KBS1.kr">
+    <title lang="ko">무엇이든 물어보세요</title>
+  </programme>
+  
+<programme start="20261104111000 +0900" stop="20261104120000 +0900" channel="KBS1.kr">
+    <title lang="ko">동행</title>
+  </programme>
+  
+<programme start="20261104120000 +0900" stop="20261104130000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 뉴스 12</title>
+  </programme>
+  
+<programme start="20261104130000 +0900" stop="20261104135000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 네트워크 특선 지명수배</title>
+  </programme>
+  
+<programme start="20261103203000 +0900" stop="20261103215000 +0900" channel="KBS2.kr">
+    <title lang="ko">옥탑방의 문제아들</title>
+  </programme>
+  
+<programme start="20261103215000 +0900" stop="20261103225000 +0900" channel="KBS2.kr">
+    <title lang="ko">스모킹 건</title>
+  </programme>
+  
+<programme start="20261103225000 +0900" stop="20261103231500 +0900" channel="KBS2.kr">
+    <title lang="ko">아이 러브 스포츠</title>
+  </programme>
+  
+<programme start="20261103231500 +0900" stop="20261104002500 +0900" channel="KBS2.kr">
+    <title lang="ko">스튜디오 K</title>
+  </programme>
+  
+<programme start="20261104002500 +0900" stop="20261104005500 +0900" channel="KBS2.kr">
+    <title lang="ko">트레킹노트 세상을 걷다 스페셜</title>
+  </programme>
+  
+<programme start="20261104005500 +0900" stop="20261104010500 +0900" channel="KBS2.kr">
+    <title lang="ko">KBS 재난방송센터</title>
+  </programme>
+  
+<programme start="20261104010500 +0900" stop="20261104050000 +0900" channel="KBS2.kr">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  </programme>
+  
+<programme start="20261104050000 +0900" stop="20261104060500 +0900" channel="KBS2.kr">
+    <title lang="ko">무엇이든 물어보세요 스페셜</title>
+  </programme>
+  
+<programme start="20261104060500 +0900" stop="20261104063500 +0900" channel="KBS2.kr">
+    <title lang="ko">TV 유치원</title>
+  </programme>
+  
+<programme start="20261104063500 +0900" stop="20261104073000 +0900" channel="KBS2.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+  </programme>
+  
+<programme start="20261104073000 +0900" stop="20261104084000 +0900" channel="KBS2.kr">
+    <title lang="ko">생생정보 스페셜</title>
+  </programme>
+  
+<programme start="20261104084000 +0900" stop="20261104092000 +0900" channel="KBS2.kr">
+    <title lang="ko">일일드라마 엄마가 미쳤어요 (27회)</title>
+  </programme>
+  
+<programme start="20261104092000 +0900" stop="20261104100000 +0900" channel="KBS2.kr">
+    <title lang="ko">일일드라마 욕망의 덫 (50회)</title>
+  </programme>
+  
+<programme start="20261104100000 +0900" stop="20261104104000 +0900" channel="KBS2.kr">
+    <title lang="ko">인간극장 스페셜</title>
+  </programme>
+  
+<programme start="20261104104000 +0900" stop="20261104111000 +0900" channel="KBS2.kr">
+    <title lang="ko">KBS 아침 뉴스타임</title>
+  </programme>
+  
+<programme start="20261104111000 +0900" stop="20261104123000 +0900" channel="KBS2.kr">
+    <title lang="ko">슈퍼맨이 돌아왔다</title>
+  </programme>
+  
+<programme start="20261104123000 +0900" stop="20261104135000 +0900" channel="KBS2.kr">
+    <title lang="ko">옥탑방의 문제아들</title>
+  </programme>
+  
+<programme start="20261103210000 +0900" stop="20261103222000 +0900" channel="MBC.kr">
+    <title lang="ko">신인감독 김연경2 스페셜</title>
+  </programme>
+  
+<programme start="20261103222000 +0900" stop="20261103232000 +0900" channel="MBC.kr">
+    <title lang="ko">PD수첩</title>
+  </programme>
+  
+<programme start="20261103232000 +0900" stop="20261104003000 +0900" channel="MBC.kr">
+    <title lang="ko">라이어 (1회)</title>
+  </programme>
+  
+<programme start="20261104003000 +0900" stop="20261104005000 +0900" channel="MBC.kr">
+    <title lang="ko">MBC 뉴스 25</title>
+  </programme>
+  
+<programme start="20261104005000 +0900" stop="20261104021000 +0900" channel="MBC.kr">
+    <title lang="ko">라이어 (2회)</title>
+  </programme>
+  
+<programme start="20261104021000 +0900" stop="20261104050000 +0900" channel="MBC.kr">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  </programme>
+  
+<programme start="20261104050000 +0900" stop="20261104060000 +0900" channel="MBC.kr">
+    <title lang="ko">오늘N</title>
+  </programme>
+  
+<programme start="20261104060000 +0900" stop="20261104062500 +0900" channel="MBC.kr">
+    <title lang="ko">MBC 뉴스투데이</title>
+  </programme>
+  
+<programme start="20261104062500 +0900" stop="20261104075000 +0900" channel="MBC.kr">
+    <title lang="ko">MBC 뉴스투데이</title>
+  </programme>
+  
+<programme start="20261104075000 +0900" stop="20261104085000 +0900" channel="MBC.kr">
+    <title lang="ko">생방송 오늘 아침</title>
+  </programme>
+  
+<programme start="20261104085000 +0900" stop="20261104093000 +0900" channel="MBC.kr">
+    <title lang="ko">가족관계증명서 (73회)</title>
+  </programme>
+  
+<programme start="20261104093000 +0900" stop="20261104094500 +0900" channel="MBC.kr">
+    <title lang="ko">930 MBC 뉴스</title>
+  </programme>
+  
+<programme start="20261104094500 +0900" stop="20261104104500 +0900" channel="MBC.kr">
+    <title lang="ko">기분 좋은 날</title>
+  </programme>
+  
+<programme start="20261104104500 +0900" stop="20261104113000 +0900" channel="MBC.kr">
+    <title lang="ko">MBC 뉴스특보</title>
+  </programme>
+  
+<programme start="20261104113000 +0900" stop="20261104120000 +0900" channel="MBC.kr">
+    <title lang="ko">찾아가는 꾸러기교실</title>
+  </programme>
+  
+<programme start="20261104120000 +0900" stop="20261104122500 +0900" channel="MBC.kr">
+    <title lang="ko">12 MBC 뉴스</title>
+  </programme>
+  
+<programme start="20261104122500 +0900" stop="20261104132500 +0900" channel="MBC.kr">
+    <title lang="ko">엄마를 부탁해</title>
+  </programme>
+  
+<programme start="20261103181000 +0900" stop="20261103215000 +0900" channel="SBS.kr">
+    <title lang="ko">2026 프로야구 한국시리즈 1차전,삼성:KT (수원) / (2안)</title>
+  </programme>
+  
+<programme start="20261103215000 +0900" stop="20261103223000 +0900" channel="SBS.kr">
+    <title lang="ko">SBS 8 뉴스 / (2안)</title>
+  </programme>
+  
+<programme start="20261103223000 +0900" stop="20261104001000 +0900" channel="SBS.kr">
+    <title lang="ko">틈만 나면 / (2안)</title>
+  </programme>
+  
+<programme start="20261104001000 +0900" stop="20261104004000 +0900" channel="SBS.kr">
+    <title lang="ko">나이트라인 / (2안)</title>
+  </programme>
+  
+<programme start="20261104004000 +0900" stop="20261104014000 +0900" channel="SBS.kr">
+    <title lang="ko">SBS 골프 / (2안)</title>
+  </programme>
+  
+<programme start="20261104014000 +0900" stop="20261104021000 +0900" channel="SBS.kr">
+    <title lang="ko">꾸러기 탐구생활 / (2안)</title>
+  </programme>
+  
+<programme start="20261104021000 +0900" stop="20261104050000 +0900" channel="SBS.kr">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  </programme>
+  
+<programme start="20261104050000 +0900" stop="20261104060000 +0900" channel="SBS.kr">
+    <title lang="ko">투데이</title>
+  </programme>
+  
+<programme start="20261104060000 +0900" stop="20261104062500 +0900" channel="SBS.kr">
+    <title lang="ko">모닝와이드</title>
+  </programme>
+  
+<programme start="20261104062500 +0900" stop="20261104074000 +0900" channel="SBS.kr">
+    <title lang="ko">모닝와이드</title>
+  </programme>
+  
+<programme start="20261104074000 +0900" stop="20261104084000 +0900" channel="SBS.kr">
+    <title lang="ko">모닝와이드</title>
+  </programme>
+  
+<programme start="20261104084000 +0900" stop="20261104085000 +0900" channel="SBS.kr">
+    <title lang="ko">맨 인 블랙박스</title>
+  </programme>
+  
+<programme start="20261104085000 +0900" stop="20261104095500 +0900" channel="SBS.kr">
+    <title lang="ko">좋은아침</title>
+  </programme>
+  
+<programme start="20261104095500 +0900" stop="20261104103000 +0900" channel="SBS.kr">
+    <title lang="ko">SBS 10 뉴스</title>
+  </programme>
+  
+<programme start="20261104103000 +0900" stop="20261104110000 +0900" channel="SBS.kr">
+    <title lang="ko">SBS 뉴스특보</title>
+  </programme>
+  
+<programme start="20261104110000 +0900" stop="20261104120000 +0900" channel="SBS.kr">
+    <title lang="ko">열린TV 시청자 세상</title>
+  </programme>
+  
+<programme start="20261104120000 +0900" stop="20261104124500 +0900" channel="SBS.kr">
+    <title lang="ko">SBS 12 뉴스</title>
+  </programme>
+  
+<programme start="20261104124500 +0900" stop="20261104130000 +0900" channel="SBS.kr">
+    <title lang="ko">호텔페니</title>
+  </programme>
+  
+<programme start="20261104130000 +0900" stop="20261104140000 +0900" channel="SBS.kr">
+    <title lang="ko">보석이네 건강 수다</title>
+  </programme>
+  
 </tv>
