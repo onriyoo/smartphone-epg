@@ -24,8 +24,8 @@ jobs:
       - name: Install epg2xml
         run: |
           python -m pip install --upgrade pip
-          python -m pip install "epg2xml[curl] @ git+https://github.com/epg2xml/epg2xml.git""
-
+           python -m pip install git+https://github.com/epg2xml/epg2xml.git
+          python -m pip install curl_cffi
       - name: Generate EPG
         run: |
           epg2xml \
