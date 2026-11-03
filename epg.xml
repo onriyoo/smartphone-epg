@@ -142,6 +142,13 @@
     <display-name>98 MBN플러스</display-name>
     <display-name>98 SK</display-name>
   </channel>
+  <channel id="CATCH ON2.kr">
+    <display-name>CATCH ON 2</display-name>
+    <display-name>SK</display-name>
+    <display-name>71</display-name>
+    <display-name>71 CATCH ON 2</display-name>
+    <display-name>71 SK</display-name>
+  </channel>
   <channel id="SPOTV Golf &amp; Health.kr">
     <display-name>SPOTV Golf+</display-name>
     <display-name>DAUM</display-name>
@@ -12616,6 +12623,325 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
 등급 : 15세 이상 관람가</desc>
     <category lang="ko">예능</category>
     <episode-num system="onscreen">18</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103010000 +0900" stop="20261103020500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">유부녀들의 섹창회</title>
+    <desc lang="ko">유부녀들의 섹창회
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103020500 +0900" stop="20261103031000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">섹스중독자</title>
+    <desc lang="ko">섹스중독자
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103031000 +0900" stop="20261103050000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">쉘터 (2026)</title>
+    <desc lang="ko">쉘터 (2026)
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103050000 +0900" stop="20261103065000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">허 바디</title>
+    <desc lang="ko">허 바디
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103065000 +0900" stop="20261103091000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">척살소설가 2</title>
+    <desc lang="ko">척살소설가 2
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103091000 +0900" stop="20261103105000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">8번 출구</title>
+    <desc lang="ko">8번 출구
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103105000 +0900" stop="20261103123000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">죽은 자를 묻는 사람들</title>
+    <desc lang="ko">죽은 자를 묻는 사람들
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103123000 +0900" stop="20261103144000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">풍림화산</title>
+    <desc lang="ko">풍림화산
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103144000 +0900" stop="20261103164000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">만약에 우리</title>
+    <desc lang="ko">만약에 우리
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103164000 +0900" stop="20261103180000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">적인걸:음병요괴</title>
+    <desc lang="ko">적인걸:음병요괴
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103180000 +0900" stop="20261103194500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">AI판사</title>
+    <desc lang="ko">AI판사
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103194500 +0900" stop="20261103213500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">쉘터 (2026)</title>
+    <desc lang="ko">쉘터 (2026)
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103213500 +0900" stop="20261103232500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">매드 댄스 오피스</title>
+    <desc lang="ko">매드 댄스 오피스
+장르 : 영화
+등급 : 전체 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103232500 +0900" stop="20261104010000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">이상한 과자가게 전천당(2026)</title>
+    <desc lang="ko">이상한 과자가게 전천당(2026)
+장르 : 영화
+등급 : 전체 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104010000 +0900" stop="20261104022500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">이자카야 : 특별한 서비스(무삭제판)</title>
+    <desc lang="ko">이자카야 : 특별한 서비스(무삭제판)
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104022500 +0900" stop="20261104033000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">유부녀들의 섹창회</title>
+    <desc lang="ko">유부녀들의 섹창회
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033000 +0900" stop="20261104050500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">나이트본</title>
+    <desc lang="ko">나이트본
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104050500 +0900" stop="20261104064000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">메소드연기</title>
+    <desc lang="ko">메소드연기
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104064000 +0900" stop="20261104084000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">만약에 우리</title>
+    <desc lang="ko">만약에 우리
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104084000 +0900" stop="20261104100000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">욕망의 구멍</title>
+    <desc lang="ko">욕망의 구멍
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104100000 +0900" stop="20261104112000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">적인걸:음병요괴</title>
+    <desc lang="ko">적인걸:음병요괴
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104112000 +0900" stop="20261104125500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">나이트본</title>
+    <desc lang="ko">나이트본
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104125500 +0900" stop="20261104144000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">삼악도</title>
+    <desc lang="ko">삼악도
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104144000 +0900" stop="20261104161500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">소녀심판</title>
+    <desc lang="ko">소녀심판
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104161500 +0900" stop="20261104180000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">미스매치 (2026)</title>
+    <desc lang="ko">미스매치 (2026)
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104180000 +0900" stop="20261104200500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">쇼타씨의 마지막 출장</title>
+    <desc lang="ko">쇼타씨의 마지막 출장
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104200500 +0900" stop="20261104220000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">이반리 장만옥</title>
+    <desc lang="ko">이반리 장만옥
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261104233500 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">이상한 과자가게 전천당(2026)</title>
+    <desc lang="ko">이상한 과자가게 전천당(2026)
+장르 : 영화
+등급 : 전체 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104233500 +0900" stop="20261105010000 +0900" channel="CATCH ON2.kr">
+    <title lang="ko">현상수배 (2026)</title>
+    <desc lang="ko">현상수배 (2026)
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
     <rating system="KR">
       <value>15세 이상 관람가</value>
     </rating>
