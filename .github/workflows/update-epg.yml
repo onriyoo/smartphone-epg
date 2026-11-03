@@ -53,7 +53,22 @@ jobs:
               "501.lg": "KBS1.kr",
               "181.lg": "KBS2.kr",
               "503.lg": "MBC.kr",
-              "504.lg": "SBS.kr"
+              "504.lg": "SBS.kr",
+                          "C01582.tving": "JTBC.kr",
+            "C00708.tving": "MBN.kr",
+            "C01583.tving": "채널A.kr",
+            "C00551.tving": "tvN.kr",
+            "C00579.tving": "Mnet.kr",
+            "C01143.tving": "tvNDrama.kr",
+            "C01141.tving": "tvNShow.kr",
+            "C00593.tving": "YTN.kr",
+            "C01723.tving": "KRBD1400001ED",
+            "C01101.tving": "YTN2.kr",
+            "C15741.tving": "JTBC2.kr",
+            "C22041.tving": "JTBC4.kr",
+            "C51258.tving": "tvNStory.kr",
+            "C17141.tving": "채널A플러스.kr",
+            "C00544.tving": "중화TV.kr"
           }
 
           channels = []
