@@ -73,6 +73,16 @@
         "Name": "연합뉴스TV"
       },
       {
+        "ServiceId": "51",
+        "Id": "SPOTV.kr",
+        "Name": "SPOTV"
+      },
+      {
+        "ServiceId": "52",
+        "Id": "SPOTV2.kr",
+        "Name": "SPOTV2"
+      },
+      {
         "ServiceId": "135",
         "Id": "AUTO.spotvplus",
         "Name": "SPOTV PLUS"
@@ -527,7 +537,7 @@
         "Id": "KRAH4602000A",
         "Name": "현대홈쇼핑+shop"
       }
-]
+    ]
   },
   "LG": {
     "MY_CHANNELS": [
@@ -611,7 +621,7 @@
         "Id": "KRBD5200002XY",
         "Name": "JTBC골프"
       }
-       ]
+    ]
   },
   "SK": {
     "MY_CHANNELS": [
@@ -722,19 +732,8 @@
       }
     ]
   },
-    "SPOTV": {
-    "MY_CHANNELS": [
-      {
-        "ServiceId": 9,
-        "Id": "SPOTV.kr",
-        "Name": "SPOTV"
-      },
-      {
-        "ServiceId": 10,
-        "Id": "SPOTV2.kr",
-        "Name": "SPOTV2"
-      }
-    ]
+  "SPOTV": {
+    "MY_CHANNELS": []
   },
   "KBS": {
     "MY_CHANNELS": []
