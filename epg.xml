@@ -114,6 +114,34 @@
     <display-name>101 JTBC골프</display-name>
     <display-name>101 LG</display-name>
   </channel>
+  <channel id="622.lg">
+    <display-name>MBC 스포츠+</display-name>
+    <display-name>LG</display-name>
+    <display-name>106</display-name>
+    <display-name>106 MBC 스포츠+</display-name>
+    <display-name>106 LG</display-name>
+  </channel>
+  <channel id="618.lg">
+    <display-name>KBS N 스포츠</display-name>
+    <display-name>LG</display-name>
+    <display-name>105</display-name>
+    <display-name>105 KBS N 스포츠</display-name>
+    <display-name>105 LG</display-name>
+  </channel>
+  <channel id="692.lg">
+    <display-name>ENA SPORTS</display-name>
+    <display-name>LG</display-name>
+    <display-name>112</display-name>
+    <display-name>112 ENA SPORTS</display-name>
+    <display-name>112 LG</display-name>
+  </channel>
+  <channel id="795.lg">
+    <display-name>JTBC SPORTS</display-name>
+    <display-name>LG</display-name>
+    <display-name>102</display-name>
+    <display-name>102 JTBC SPORTS</display-name>
+    <display-name>102 LG</display-name>
+  </channel>
   <channel id="TV조선.kr">
     <display-name>TV CHOSUN</display-name>
     <display-name>SK</display-name>
@@ -9949,6 +9977,189 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
+  <programme start="20261105000000 +0900" stop="20261105010000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Tenors 앤 Divas</title>
+    <desc lang="ko">Tenors 앤 Divas
+장르 : 공연/음악
+등급 : 전체 관람가
+클래식, 오페라, 영화음악, 현대크로스오버 장르에서 뛰어난 보컬을 보여주는 음악가들을 만나본다.</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105010000 +0900" stop="20261105040000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Moonlight Melodies</title>
+    <desc lang="ko">Moonlight Melodies
+장르 : 공연/음악
+등급 : 전체 관람가
+세심하게 엄선한 클래식, 영화음악, 현대 크로스오버 뮤직비디오를 밤늦게까지 만나볼 수 있는 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105040000 +0900" stop="20261105070000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Dawn Chorus</title>
+    <desc lang="ko">Dawn Chorus
+장르 : 공연/음악
+등급 : 전체 관람가
+활기찬 하루를 시작하기 위해 C Music TV의 가장 아름다운 뮤직비디오를 모았다.</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">At the Movies</title>
+    <desc lang="ko">At the Movies
+장르 : 공연/음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Simply Strings</title>
+    <desc lang="ko">Simply Strings
+장르 : 공연/음악
+등급 : 전체 관람가
+오케스트라부터 현악 4중주앤독주자의 최고의 현악 편곡들을 한데 모은 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105090000 +0900" stop="20261105100000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Pure Piano</title>
+    <desc lang="ko">Pure Piano
+장르 : 공연/음악
+등급 : 전체 관람가
+피아노를 메인으로 한 다양한 공연 영상을 선보이는 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105100000 +0900" stop="20261105110000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Classical Chillout</title>
+    <desc lang="ko">Classical Chillout
+장르 : 공연/음악
+등급 : 전체 관람가
+오케스트라 멜로디와 클래식의 진정한 조화로 편안하고 편안한 휴식을 취하세요</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105120000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Hall of Fame</title>
+    <desc lang="ko">Hall of Fame
+장르 : 공연/음악
+등급 : 전체 관람가
+세계 최고의 작곡가, 가수, 오케스트라와 뮤지션들을 매일 만나보는 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105120000 +0900" stop="20261105130000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">At the Movies</title>
+    <desc lang="ko">At the Movies
+장르 : 공연/음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105140000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Simply Strings</title>
+    <desc lang="ko">Simply Strings
+장르 : 공연/음악
+등급 : 전체 관람가
+오케스트라부터 현악 4중주앤독주자의 최고의 현악 편곡들을 한데 모은 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105140000 +0900" stop="20261105170000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Afternoon Overture</title>
+    <desc lang="ko">Afternoon Overture
+장르 : 공연/음악
+등급 : 전체 관람가
+C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, 크로스오버 뮤직비디오를 모았다.</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Classical Chillout</title>
+    <desc lang="ko">Classical Chillout
+장르 : 공연/음악
+등급 : 전체 관람가
+오케스트라 멜로디와 클래식의 진정한 조화로 편안하고 편안한 휴식을 취하세요</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">At the Movies</title>
+    <desc lang="ko">At the Movies
+장르 : 공연/음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105200000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Pure Piano</title>
+    <desc lang="ko">Pure Piano
+장르 : 공연/음악
+등급 : 전체 관람가
+피아노를 메인으로 한 다양한 공연 영상을 선보이는 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105210000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Hall of Fame</title>
+    <desc lang="ko">Hall of Fame
+장르 : 공연/음악
+등급 : 전체 관람가
+세계 최고의 작곡가, 가수, 오케스트라와 뮤지션들을 매일 만나보는 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105220000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">At the Movies</title>
+    <desc lang="ko">At the Movies
+장르 : 공연/음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261106000000 +0900" channel="AUTO.stingraycmusic">
+    <title lang="ko">Evening Encore</title>
+    <desc lang="ko">Evening Encore
+장르 : 공연/음악
+등급 : 전체 관람가
+클래식, 오페라, 영화음악, 현대음악 장르의 세계적인 아티스트와 작곡가, 뮤지션들의 뮤직비디오를 모은 독창적인 셀렉션</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20261104000000 +0900" stop="20261104010000 +0900" channel="KRBD5200002XY">
     <title lang="ko">레슨 스튜디오 with AI (40회)</title>
     <desc lang="ko">레슨 스튜디오 with AI (40회)
@@ -10341,6 +10552,1640 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <episode-num system="onscreen">7</episode-num>
     <rating system="KR">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020000 +0900" stop="20261104030000 +0900" channel="622.lg">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104030000 +0900" stop="20261104050000 +0900" channel="622.lg">
+    <title lang="ko">2026 NFL</title>
+    <desc lang="ko">2026 NFL
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104050000 +0900" stop="20261104054700 +0900" channel="622.lg">
+    <title lang="ko">NH농협 PBA 챔피언십 2026-2027</title>
+    <desc lang="ko">NH농협 PBA 챔피언십 2026-2027
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104054700 +0900" stop="20261104065800 +0900" channel="622.lg">
+    <title lang="ko">레전드 마스터스 골프 (3회)</title>
+    <desc lang="ko">레전드 마스터스 골프 (3회)
+방송 : 재방송
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104065800 +0900" stop="20261104081200 +0900" channel="622.lg">
+    <title lang="ko">레전드 마스터스 골프 (4회)</title>
+    <desc lang="ko">레전드 마스터스 골프 (4회)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104081200 +0900" stop="20261104095900 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104095900 +0900" stop="20261104121500 +0900" channel="622.lg">
+    <title lang="ko">2026 NFL</title>
+    <desc lang="ko">2026 NFL
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104121500 +0900" stop="20261104123000 +0900" channel="622.lg">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104123000 +0900" stop="20261104142700 +0900" channel="622.lg">
+    <title lang="ko">NH농협 PBA 챔피언십 2026-2027</title>
+    <desc lang="ko">NH농협 PBA 챔피언십 2026-2027
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104142700 +0900" stop="20261104144300 +0900" channel="622.lg">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104144300 +0900" stop="20261104154500 +0900" channel="622.lg">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104154500 +0900" stop="20261104175000 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104175000 +0900" stop="20261104185000 +0900" channel="622.lg">
+    <title lang="ko">2026 아이치 나고야 아시안게임 하이라이트</title>
+    <desc lang="ko">2026 아이치 나고야 아시안게임 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104185000 +0900" stop="20261104210000 +0900" channel="622.lg">
+    <title lang="ko">KB스타뱅킹 2026-2027 여자프로농구</title>
+    <desc lang="ko">KB스타뱅킹 2026-2027 여자프로농구
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104210000 +0900" stop="20261104220000 +0900" channel="622.lg">
+    <title lang="ko">순위공개 엠피셜</title>
+    <desc lang="ko">순위공개 엠피셜
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261104230000 +0900" channel="622.lg">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104230000 +0900" stop="20261105020000 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="622.lg">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030000 +0900" stop="20261105050000 +0900" channel="622.lg">
+    <title lang="ko">2026 NFL</title>
+    <desc lang="ko">2026 NFL
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="622.lg">
+    <title lang="ko">NH농협 PBA 챔피언십 2026-2027</title>
+    <desc lang="ko">NH농협 PBA 챔피언십 2026-2027
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="622.lg">
+    <title lang="ko">레전드 마스터스 골프 (5회)</title>
+    <desc lang="ko">레전드 마스터스 골프 (5회)
+방송 : 재방송
+회차 : 5회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="622.lg">
+    <title lang="ko">레전드 마스터스 골프 (6회)</title>
+    <desc lang="ko">레전드 마스터스 골프 (6회)
+방송 : 재방송
+회차 : 6회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">6</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105100000 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105100000 +0900" stop="20261105123000 +0900" channel="622.lg">
+    <title lang="ko">2026 NFL</title>
+    <desc lang="ko">2026 NFL
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105123000 +0900" stop="20261105130000 +0900" channel="622.lg">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105150000 +0900" channel="622.lg">
+    <title lang="ko">KB스타뱅킹 2026-2027 여자프로농구</title>
+    <desc lang="ko">KB스타뱅킹 2026-2027 여자프로농구
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105150000 +0900" stop="20261105160000 +0900" channel="622.lg">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105180000 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="622.lg">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105210000 +0900" channel="622.lg">
+    <title lang="ko">2026-2027 동아시아 슈퍼리그</title>
+    <desc lang="ko">2026-2027 동아시아 슈퍼리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="622.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104003000 +0900" stop="20261104010000 +0900" channel="618.lg">
+    <title lang="ko">I LOVE 베이스볼 (132회)</title>
+    <desc lang="ko">I LOVE 베이스볼 (132회)
+방송 : 재방송
+회차 : 132회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">132</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104010000 +0900" stop="20261104020000 +0900" channel="618.lg">
+    <title lang="ko">몬스터잼</title>
+    <desc lang="ko">몬스터잼
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020000 +0900" stop="20261104033000 +0900" channel="618.lg">
+    <title lang="ko">멜버른컵 경마 2026</title>
+    <desc lang="ko">멜버른컵 경마 2026
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033000 +0900" stop="20261104040000 +0900" channel="618.lg">
+    <title lang="ko">I LOVE 베이스볼 (132회)</title>
+    <desc lang="ko">I LOVE 베이스볼 (132회)
+방송 : 재방송
+회차 : 132회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">132</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040000 +0900" stop="20261104045500 +0900" channel="618.lg">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭 (114회)</title>
+    <sub-title lang="ko">아랍에미리트 앤 요르단</sub-title>
+    <desc lang="ko">걸어서 세계속으로 트래블홀릭 (114회)
+부제 : 아랍에미리트 앤 요르단
+회차 : 114회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">114</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104045500 +0900" stop="20261104060000 +0900" channel="618.lg">
+    <title lang="ko">한국인의 밥상 (285회)</title>
+    <sub-title lang="ko">황무지에서 피어나다 헤이롱장성 고향밥상</sub-title>
+    <desc lang="ko">한국인의 밥상 (285회)
+부제 : 황무지에서 피어나다 헤이롱장성 고향밥상
+방송 : 재방송
+회차 : 285회
+장르 : 뉴스/정보
+등급 : 전체 관람가
+매일 우리는 밥상을 마주한다. 우리의 밥상 속 이야기를 통해 한국인들의 다양한 음식 문화를 보여주고, 식품과 식재료에 대한 영양학적 고찰을 통하여 올바른 정보를 제공하는 프로그램이다.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">285</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104060000 +0900" stop="20261104080500 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104080500 +0900" stop="20261104100000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104100000 +0900" stop="20261104114500 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104114500 +0900" stop="20261104135500 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104135500 +0900" stop="20261104145000 +0900" channel="618.lg">
+    <title lang="ko">스포츠인 명불허전 스페셜 (39회)</title>
+    <sub-title lang="ko">씨름, 이태현</sub-title>
+    <desc lang="ko">스포츠인 명불허전 스페셜 (39회)
+부제 : 씨름, 이태현
+방송 : 재방송
+회차 : 39회
+장르 : 다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="onscreen">39</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104145000 +0900" stop="20261104172000 +0900" channel="618.lg">
+    <title lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회</title>
+    <desc lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104172000 +0900" stop="20261104181000 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104181000 +0900" stop="20261104184500 +0900" channel="618.lg">
+    <title lang="ko">26-27 스페셜V (4회)</title>
+    <desc lang="ko">26-27 스페셜V (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104184500 +0900" stop="20261104210000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104210000 +0900" stop="20261104220000 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 포스트시즌 하이라이트</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 포스트시즌 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261104223000 +0900" channel="618.lg">
+    <title lang="ko">I LOVE 베이스볼 (133회)</title>
+    <desc lang="ko">I LOVE 베이스볼 (133회)
+회차 : 133회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">133</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104223000 +0900" stop="20261105003000 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105003000 +0900" stop="20261105010000 +0900" channel="618.lg">
+    <title lang="ko">I LOVE 베이스볼 (133회)</title>
+    <desc lang="ko">I LOVE 베이스볼 (133회)
+방송 : 재방송
+회차 : 133회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">133</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="618.lg">
+    <title lang="ko">몬스터잼</title>
+    <desc lang="ko">몬스터잼
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105040000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="618.lg">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭 (115회)</title>
+    <sub-title lang="ko">스위스 앤 오스트리아</sub-title>
+    <desc lang="ko">걸어서 세계속으로 트래블홀릭 (115회)
+부제 : 스위스 앤 오스트리아
+회차 : 115회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">115</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="618.lg">
+    <title lang="ko">한국인의 밥상 (286회)</title>
+    <desc lang="ko">한국인의 밥상 (286회)
+방송 : 재방송
+회차 : 286회
+장르 : 뉴스/정보
+등급 : 전체 관람가
+매일 우리는 밥상을 마주한다. 우리의 밥상 속 이야기를 통해 한국인들의 다양한 음식 문화를 보여주고, 식품과 식재료에 대한 영양학적 고찰을 통하여 올바른 정보를 제공하는 프로그램이다.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">286</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105090000 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105090000 +0900" stop="20261105110000 +0900" channel="618.lg">
+    <title lang="ko">KB스타뱅킹 26-27 여자프로농구</title>
+    <desc lang="ko">KB스타뱅킹 26-27 여자프로농구
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105130000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105145000 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145000 +0900" stop="20261105172000 +0900" channel="618.lg">
+    <title lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회</title>
+    <desc lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105172000 +0900" stop="20261105181000 +0900" channel="618.lg">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105181000 +0900" stop="20261105184500 +0900" channel="618.lg">
+    <title lang="ko">26-27 스페셜V (5회)</title>
+    <desc lang="ko">26-27 스페셜V (5회)
+회차 : 5회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105184500 +0900" stop="20261105210000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="618.lg">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="618.lg">
+    <title lang="ko">KB스타뱅킹 26-27 여자프로농구 하이라이트</title>
+    <desc lang="ko">KB스타뱅킹 26-27 여자프로농구 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104014000 +0900" stop="20261104035000 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 BWSL</title>
+    <desc lang="ko">2026-2027 BWSL
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035000 +0900" stop="20261104060000 +0900" channel="692.lg">
+    <title lang="ko">하나은행 K리그1 2026 FINAL</title>
+    <desc lang="ko">하나은행 K리그1 2026 FINAL
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104060000 +0900" stop="20261104081000 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 프리메이라리가</title>
+    <desc lang="ko">2026-2027 프리메이라리가
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104081000 +0900" stop="20261104103000 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 BWSL</title>
+    <desc lang="ko">2026-2027 BWSL
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104103000 +0900" stop="20261104110000 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 프리메이라리가 하이라이트</title>
+    <desc lang="ko">2026-2027 프리메이라리가 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104110000 +0900" stop="20261104115500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104115500 +0900" stop="20261104143000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104143000 +0900" stop="20261104145500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104145500 +0900" stop="20261104173000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104173000 +0900" stop="20261104175500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104175500 +0900" stop="20261104203000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104203000 +0900" stop="20261104205500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104205500 +0900" stop="20261104233000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104233000 +0900" stop="20261105013000 +0900" channel="692.lg">
+    <title lang="ko">2026 NWSL</title>
+    <desc lang="ko">2026 NWSL
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105013000 +0900" stop="20261105034000 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 프리메이라리가</title>
+    <desc lang="ko">2026-2027 프리메이라리가
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105034000 +0900" stop="20261105061000 +0900" channel="692.lg">
+    <title lang="ko">하나은행 K리그1 2026 FINAL</title>
+    <desc lang="ko">하나은행 K리그1 2026 FINAL
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105061000 +0900" stop="20261105082500 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 BWSL</title>
+    <desc lang="ko">2026-2027 BWSL
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105082500 +0900" stop="20261105104000 +0900" channel="692.lg">
+    <title lang="ko">[로드 투 FINALS] 2026 데이비스컵 2차 최종본선진출전</title>
+    <desc lang="ko">[로드 투 FINALS] 2026 데이비스컵 2차 최종본선진출전
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105104000 +0900" stop="20261105115500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105115500 +0900" stop="20261105143000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105143000 +0900" stop="20261105145500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145500 +0900" stop="20261105173000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105173000 +0900" stop="20261105175500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105175500 +0900" stop="20261105203000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105203000 +0900" stop="20261105205500 +0900" channel="692.lg">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105205500 +0900" stop="20261105233000 +0900" channel="692.lg">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105233000 +0900" stop="20261106000000 +0900" channel="692.lg">
+    <title lang="ko">2026-2027 BWSL</title>
+    <desc lang="ko">2026-2027 BWSL
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104004000 +0900" stop="20261104011000 +0900" channel="795.lg">
+    <title lang="ko">국축박 (7회)</title>
+    <desc lang="ko">국축박 (7회)
+방송 : 재방송
+회차 : 7회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104011000 +0900" stop="20261104021000 +0900" channel="795.lg">
+    <title lang="ko">Wee:K LEAGUE(위클리그) (48회)</title>
+    <desc lang="ko">Wee:K LEAGUE(위클리그) (48회)
+방송 : 재방송
+회차 : 48회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">48</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104021000 +0900" stop="20261104040000 +0900" channel="795.lg">
+    <title lang="ko">하나은행 K리그1 2026 Goals</title>
+    <desc lang="ko">하나은행 K리그1 2026 Goals
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040000 +0900" stop="20261104070000 +0900" channel="795.lg">
+    <title lang="ko">2026 JTBC 서울마라톤</title>
+    <desc lang="ko">2026 JTBC 서울마라톤
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104070000 +0900" stop="20261104090000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (72회)</title>
+    <desc lang="ko">영광의 순간들 (72회)
+방송 : 재방송
+회차 : 72회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">72</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104090000 +0900" stop="20261104110000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (73회)</title>
+    <desc lang="ko">영광의 순간들 (73회)
+방송 : 재방송
+회차 : 73회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">73</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104110000 +0900" stop="20261104130000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (75회)</title>
+    <desc lang="ko">영광의 순간들 (75회)
+방송 : 재방송
+회차 : 75회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">75</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104130000 +0900" stop="20261104140000 +0900" channel="795.lg">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104140000 +0900" stop="20261104160000 +0900" channel="795.lg">
+    <title lang="ko">2020 도쿄올림픽 (124회)</title>
+    <desc lang="ko">2020 도쿄올림픽 (124회)
+방송 : 재방송
+회차 : 124회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">124</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104160000 +0900" stop="20261104180000 +0900" channel="795.lg">
+    <title lang="ko">2020 도쿄올림픽 (125회)</title>
+    <desc lang="ko">2020 도쿄올림픽 (125회)
+방송 : 재방송
+회차 : 125회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">125</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104180000 +0900" stop="20261104190000 +0900" channel="795.lg">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104190000 +0900" stop="20261104200000 +0900" channel="795.lg">
+    <title lang="ko">하나은행 K리그1 2026 매치 리뷰 (86회)</title>
+    <desc lang="ko">하나은행 K리그1 2026 매치 리뷰 (86회)
+방송 : 재방송
+회차 : 86회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">86</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104200000 +0900" stop="20261104210000 +0900" channel="795.lg">
+    <title lang="ko">하나은행 K리그1 2026 매치 리뷰 (87회)</title>
+    <desc lang="ko">하나은행 K리그1 2026 매치 리뷰 (87회)
+방송 : 재방송
+회차 : 87회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">87</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104210000 +0900" stop="20261104220000 +0900" channel="795.lg">
+    <title lang="ko">Wee:K LEAGUE(위클리그) (48회)</title>
+    <desc lang="ko">Wee:K LEAGUE(위클리그) (48회)
+방송 : 재방송
+회차 : 48회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">48</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261104223000 +0900" channel="795.lg">
+    <title lang="ko">국축박 (8회)</title>
+    <desc lang="ko">국축박 (8회)
+회차 : 8회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">8</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104223000 +0900" stop="20261104230000 +0900" channel="795.lg">
+    <title lang="ko">국축박 (7회)</title>
+    <desc lang="ko">국축박 (7회)
+방송 : 재방송
+회차 : 7회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104230000 +0900" stop="20261105004000 +0900" channel="795.lg">
+    <title lang="ko">뭉쳐야 찬다 4 (7회)</title>
+    <desc lang="ko">뭉쳐야 찬다 4 (7회)
+방송 : 재방송
+회차 : 7회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+조기축구 TOP 100을 정복한 안정환 감독과 베트남 축구 영웅 박항서 감독의 맞대결이 펼쳐질 뭉쳐야 찬다 네 번째 시리즈</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105004000 +0900" stop="20261105011000 +0900" channel="795.lg">
+    <title lang="ko">국축박 (8회)</title>
+    <desc lang="ko">국축박 (8회)
+방송 : 재방송
+회차 : 8회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">8</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105011000 +0900" stop="20261105031000 +0900" channel="795.lg">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구 (1회)</title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구 (1회)
+방송 : 재방송
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">1</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105031000 +0900" stop="20261105042000 +0900" channel="795.lg">
+    <title lang="ko">하나은행 K리그1 2026 Goals</title>
+    <desc lang="ko">하나은행 K리그1 2026 Goals
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105042000 +0900" stop="20261105055000 +0900" channel="795.lg">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105055000 +0900" stop="20261105065000 +0900" channel="795.lg">
+    <title lang="ko">Wee:K LEAGUE(위클리그) (48회)</title>
+    <desc lang="ko">Wee:K LEAGUE(위클리그) (48회)
+방송 : 재방송
+회차 : 48회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">48</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105065000 +0900" stop="20261105091000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (76회)</title>
+    <desc lang="ko">영광의 순간들 (76회)
+방송 : 재방송
+회차 : 76회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">76</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105091000 +0900" stop="20261105120000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (78회)</title>
+    <desc lang="ko">영광의 순간들 (78회)
+방송 : 재방송
+회차 : 78회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">78</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105120000 +0900" stop="20261105130000 +0900" channel="795.lg">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105145000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (12회)</title>
+    <desc lang="ko">영광의 순간들 (12회)
+방송 : 재방송
+회차 : 12회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">12</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145000 +0900" stop="20261105170000 +0900" channel="795.lg">
+    <title lang="ko">영광의 순간들 (14회)</title>
+    <desc lang="ko">영광의 순간들 (14회)
+방송 : 재방송
+회차 : 14회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">14</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105190000 +0900" channel="795.lg">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구 (1회)</title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구 (1회)
+방송 : 재방송
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">1</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105211000 +0900" channel="795.lg">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구 (3회)</title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구 (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105211000 +0900" stop="20261105220000 +0900" channel="795.lg">
+    <title lang="ko">하나은행 K리그1 2026 Goals</title>
+    <desc lang="ko">하나은행 K리그1 2026 Goals
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261105223000 +0900" channel="795.lg">
+    <title lang="ko">국축박 (9회)</title>
+    <desc lang="ko">국축박 (9회)
+회차 : 9회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">9</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105223000 +0900" stop="20261105230000 +0900" channel="795.lg">
+    <title lang="ko">국축박 (8회)</title>
+    <desc lang="ko">국축박 (8회)
+방송 : 재방송
+회차 : 8회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="onscreen">8</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="795.lg">
+    <title lang="ko">뭉쳐야 찬다 4 (8회)</title>
+    <desc lang="ko">뭉쳐야 찬다 4 (8회)
+방송 : 재방송
+회차 : 8회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+조기축구 TOP 100을 정복한 안정환 감독과 베트남 축구 영웅 박항서 감독의 맞대결이 펼쳐질 뭉쳐야 찬다 네 번째 시리즈</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">8</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261104001000 +0900" stop="20261104010000 +0900" channel="TV조선.kr">
