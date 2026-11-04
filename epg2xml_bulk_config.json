@@ -526,12 +526,8 @@
         "ServiceId": "28",
         "Id": "KRAH4602000A",
         "Name": "현대홈쇼핑+shop"
-      },
-   {
-  "ServiceId": "60",
-  "Id": "MBC스포츠 플러스.kr",
-  "Name": "MBC SPORTS+"
-} ]
+      }
+]
   },
   "LG": {
     "MY_CHANNELS": [
