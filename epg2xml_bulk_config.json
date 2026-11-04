@@ -614,8 +614,27 @@
         "ServiceId": "602",
         "Id": "KRBD5200002XY",
         "Name": "JTBC골프"
-      }
-    ]
+      },
+         {
+        "ServiceId": "618",
+        "Id": "KBS N SPORTS.kr",
+        "Name": "KBS N SPORTS"
+      },
+      {
+        "ServiceId": "622",
+        "Id": "MBC스포츠 플러스.kr",
+        "Name": "MBC SPORTS"
+      },
+      {
+        "ServiceId": "795",
+        "Id": "JTBC SPORTS.kr",
+        "Name": "JTBC SPORTS"
+      },
+      {
+        "ServiceId": "692",
+        "Id": "ENA SPORTS.kr",
+        "Name": "ENA SPORTS"
+      } ]
   },
   "SK": {
     "MY_CHANNELS": [
