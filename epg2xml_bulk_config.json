@@ -725,12 +725,12 @@
     "SPOTV": {
     "MY_CHANNELS": [
       {
-        "ServiceId": "9",
+        "ServiceId": 9,
         "Id": "SPOTV.kr",
         "Name": "SPOTV"
       },
       {
-        "ServiceId": "10",
+        "ServiceId": 10,
         "Id": "SPOTV2.kr",
         "Name": "SPOTV2"
       }
