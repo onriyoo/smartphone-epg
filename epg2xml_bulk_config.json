@@ -620,6 +620,22 @@
         "ServiceId": "602",
         "Id": "KRBD5200002XY",
         "Name": "JTBC골프"
+      },
+         {
+        "ServiceId": "622",
+        "Name": "MBC 스포츠+"
+      },
+      {
+        "ServiceId": "618",
+        "Name": "KBS N 스포츠"
+      },
+      {
+        "ServiceId": "692",
+        "Name": "ENA SPORTS"
+      },
+      {
+        "ServiceId": "795",
+        "Name": "JTBC SPORTS"
       }
     ]
   },
