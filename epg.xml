@@ -22313,7 +22313,15 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104160200 +0900" stop="20261104163400 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261104160200 +0900" stop="20261104161200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104161200 +0900" stop="20261104164500 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 12뉴스(재)</title>
     <desc lang="ko">SBS 12뉴스(재)
 등급 : 전체 관람가</desc>
@@ -22321,7 +22329,15 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104163400 +0900" stop="20261104170000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261104164500 +0900" stop="20261104165500 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104165500 +0900" stop="20261104170000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 12뉴스(재)</title>
     <desc lang="ko">SBS 12뉴스(재)
 등급 : 전체 관람가</desc>
@@ -22345,7 +22361,15 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104184000 +0900" stop="20261104195000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261104184000 +0900" stop="20261104185000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104185000 +0900" stop="20261104195000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">뉴스브리핑(재)</title>
     <desc lang="ko">뉴스브리핑(재)
 등급 : 전체 관람가</desc>
@@ -22545,8 +22569,8 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     </rating>
   </programme>
   <programme start="20261105000900 +0900" stop="20261105001000 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">[뉴스브리핑 인터뷰] 권익현 부안군수</title>
-    <desc lang="ko">[뉴스브리핑 인터뷰] 권익현 부안군수
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -22560,7 +22584,23 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105004000 +0900" stop="20261105021000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261105004000 +0900" stop="20261105005000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105005000 +0900" stop="20261105010100 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105010100 +0900" stop="20261105023100 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">뉴스브리핑(재)</title>
     <desc lang="ko">뉴스브리핑(재)
 등급 : 전체 관람가</desc>
@@ -22568,7 +22608,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105021000 +0900" stop="20261105034000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261105023100 +0900" stop="20261105040100 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">뉴스브리핑(재)</title>
     <desc lang="ko">뉴스브리핑(재)
 등급 : 전체 관람가</desc>
@@ -22576,7 +22616,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105034000 +0900" stop="20261105041400 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261105040100 +0900" stop="20261105043500 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 뉴스토리</title>
     <desc lang="ko">SBS 뉴스토리
 등급 : 전체 관람가</desc>
@@ -22584,7 +22624,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105041400 +0900" stop="20261105044800 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261105043500 +0900" stop="20261105050900 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 뉴스토리</title>
     <desc lang="ko">SBS 뉴스토리
 등급 : 전체 관람가</desc>
@@ -22592,7 +22632,23 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105044800 +0900" stop="20261105060000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261105050900 +0900" stop="20261105052000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105052000 +0900" stop="20261105053100 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105053100 +0900" stop="20261105060000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">뉴스브리핑(재)</title>
     <desc lang="ko">뉴스브리핑(재)
 등급 : 전체 관람가</desc>
@@ -22693,17 +22749,9 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105114900 +0900" stop="20261105115400 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">트럼프 NOW</title>
-    <desc lang="ko">트럼프 NOW
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105115400 +0900" stop="20261105120000 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">[뉴스브리핑 인터뷰] '카일리 겐터' 미국인 제주 해녀</title>
-    <desc lang="ko">[뉴스브리핑 인터뷰] '카일리 겐터' 미국인 제주 해녀
+  <programme start="20261105114900 +0900" stop="20261105120000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
