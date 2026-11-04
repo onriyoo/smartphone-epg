@@ -250,6 +250,22 @@
     <display-name>1 WAVVE</display-name>
     <icon src="https://image.wavve.com/channel_mgmt/image/S28_square_20251001172621.png" />
   </channel>
+  <channel id="SPOTV.kr">
+    <display-name>SPOTV</display-name>
+    <display-name>SPOTV</display-name>
+    <display-name>0</display-name>
+    <display-name>0 SPOTV</display-name>
+    <display-name>0 SPOTV</display-name>
+    <icon src="https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" />
+  </channel>
+  <channel id="SPOTV2.kr">
+    <display-name>SPOTV2</display-name>
+    <display-name>SPOTV</display-name>
+    <display-name>1</display-name>
+    <display-name>1 SPOTV2</display-name>
+    <display-name>1 SPOTV</display-name>
+    <icon src="https://cdn.spotvnow.co.kr/src/upload/image/20211215/55509fff870629e4db8865ed79988c56.png" />
+  </channel>
   <channel id="KBS1.kr">
     <display-name>KBS1</display-name>
   </channel>
@@ -25570,42 +25586,722 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-<programme start="20261104082500 +0900" stop="20261104093000 +0900" channel="KBS1.kr">
-    <title lang="ko">아침마당</title>
+  <programme start="20261103230000 +0900" stop="20261104000000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 코리안리거 스페셜</title>
+    <sub-title lang="ko">챔스-유로파 득점 정주행, ~10/16</sub-title>
+    <desc lang="ko">스포타임 코리안리거 스페셜
+부제 : 챔스-유로파 득점 정주행, ~10/16
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104093000 +0900" stop="20261104100000 +0900" channel="KBS1.kr">
-    <title lang="ko">KBS 뉴스 930</title>
+  <programme start="20261104000000 +0900" stop="20261104020000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼</title>
+    <sub-title lang="ko">AT마드리드:바이에른 뮌헨 프리뷰</sub-title>
+    <desc lang="ko">스포타임 풋볼
+부제 : AT마드리드:바이에른 뮌헨 프리뷰
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104100000 +0900" stop="20261104111000 +0900" channel="KBS1.kr">
-    <title lang="ko">무엇이든 물어보세요</title>
+  <programme start="20261104020000 +0900" stop="20261104040000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 스페셜</title>
+    <sub-title lang="ko">챔피언스리그 시즌 명승부 골모음</sub-title>
+    <desc lang="ko">스포타임 풋볼 스페셜
+부제 : 챔피언스리그 시즌 명승부 골모음
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104111000 +0900" stop="20261104120000 +0900" channel="KBS1.kr">
-    <title lang="ko">동행</title>
+  <programme start="20261104040000 +0900" stop="20261104050000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 킥오프쇼</title>
+    <sub-title lang="ko">AT마드리드:바이에른 뮌헨 프리뷰</sub-title>
+    <desc lang="ko">스포타임 킥오프쇼
+부제 : AT마드리드:바이에른 뮌헨 프리뷰
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104120000 +0900" stop="20261104130000 +0900" channel="KBS1.kr">
-    <title lang="ko">KBS 뉴스 12</title>
+  <programme start="20261104050000 +0900" stop="20261104070000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 코리안리거 스페셜</title>
+    <sub-title lang="ko">챔피언스리그 역대 명경기 TOP 10</sub-title>
+    <desc lang="ko">스포타임 코리안리거 스페셜
+부제 : 챔피언스리그 역대 명경기 TOP 10
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104130000 +0900" stop="20261104135000 +0900" channel="KBS1.kr">
-    <title lang="ko">KBS 네트워크 특선 지명수배</title>
+  <programme start="20261104070000 +0900" stop="20261104080000 +0900" channel="SPOTV.kr">
+    <title lang="ko">런 더 시티 시즌 1</title>
+    <sub-title lang="ko">1회</sub-title>
+    <desc lang="ko">런 더 시티 시즌 1
+부제 : 1회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104135000 +0900" stop="20261104135500 +0900" channel="KBS1.kr">
-    <title lang="ko">국가유산순례 드오</title>
+  <programme start="20261104080000 +0900" stop="20261104090000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집&gt; (11/3</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집&gt; (11/3
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104135500 +0900" stop="20261104142000 +0900" channel="KBS1.kr">
-    <title lang="ko">KBS 뉴스특보</title>
+  <programme start="20261104090000 +0900" stop="20261104093000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 Golf</title>
+    <sub-title lang="ko">3회</sub-title>
+    <desc lang="ko">스포타임 Golf
+부제 : 3회
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
-<programme start="20261104142000 +0900" stop="20261104150000 +0900" channel="KBS1.kr">
-    <title lang="ko">열린채널</title>
+  <programme start="20261104093000 +0900" stop="20261104110000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/3</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT
+부제 : 11/3
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
   </programme>
-  
+  <programme start="20261104110000 +0900" stop="20261104130000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 AT마드리드:바이에른 뮌헨</title>
+    <sub-title lang="ko">이강인/김민재 오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 AT마드리드:바이에른 뮌헨
+부제 : 이강인/김민재 오늘 경기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104130000 +0900" stop="20261104150000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">안세영 상위 랭커 맞대결 특집</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 안세영 상위 랭커 맞대결 특집
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104150000 +0900" stop="20261104160000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104160000 +0900" stop="20261104180000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/3</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT
+부제 : 11/3
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104180000 +0900" stop="20261104185000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104185000 +0900" stop="20261104210000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 여자프로농구 신한은행:우리은행</title>
+    <desc lang="ko">26-27 여자프로농구 신한은행:우리은행
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104210000 +0900" stop="20261104220000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO리그 연장 명승부</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO리그 연장 명승부
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261104230000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104230000 +0900" stop="20261105010000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">오늘 경기, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT
+부제 : 오늘 경기, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집&gt; (11/4</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집&gt; (11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔피언스리그 MD4 리뷰, 11/4</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔피언스리그 MD4 리뷰, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030000 +0900" stop="20261105050000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 3~4 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 3~4 하이라이트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105070000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">대한민국 슈퍼 1000 시리즈 우승 TOP 10</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 대한민국 슈퍼 1000 시리즈 우승 TOP 10
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105070000 +0900" stop="20261105083000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 여자프로농구 신한은행:우리은행</title>
+    <sub-title lang="ko">11/4</sub-title>
+    <desc lang="ko">26-27 여자프로농구 신한은행:우리은행
+부제 : 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105083000 +0900" stop="20261105103000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT
+부제 : 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105103000 +0900" stop="20261105110000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 Golf</title>
+    <sub-title lang="ko">3회</sub-title>
+    <desc lang="ko">스포타임 Golf
+부제 : 3회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105150000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식 1R</title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식 1R
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105150000 +0900" stop="20261105170000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식 1R</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식 1R
+부제 : 오늘 경기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="SPOTV.kr">
+    <title lang="ko">런 더 시티 시즌 1</title>
+    <sub-title lang="ko">2회</sub-title>
+    <desc lang="ko">런 더 시티 시즌 1
+부제 : 2회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105210000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT
+부제 : 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106010000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261103230000 +0900" stop="20261104020000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 1차전 삼성:KT</title>
+    <sub-title lang="ko">오늘 경기, 11/3</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 1차전 삼성:KT
+부제 : 오늘 경기, 11/3
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020000 +0900" stop="20261104030000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집&gt; (11/3</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집&gt; (11/3
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104030000 +0900" stop="20261104040000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">대한민국 우승 타임라인</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 대한민국 우승 타임라인
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040000 +0900" stop="20261104050000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 킥오프쇼</title>
+    <sub-title lang="ko">AT마드리드:바이에른 뮌헨 프리뷰</sub-title>
+    <desc lang="ko">스포타임 킥오프쇼
+부제 : AT마드리드:바이에른 뮌헨 프리뷰
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104050000 +0900" stop="20261104060000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티</title>
+    <sub-title lang="ko">1회</sub-title>
+    <desc lang="ko">런 더 시티
+부제 : 1회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104060000 +0900" stop="20261104080000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/3</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT
+부제 : 11/3
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104080000 +0900" stop="20261104093000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">항저우 아시안게임 배드민턴 여자 단식 결승</title>
+    <sub-title lang="ko">안세영 금메달, 안세영</sub-title>
+    <desc lang="ko">항저우 아시안게임 배드민턴 여자 단식 결승
+부제 : 안세영 금메달, 안세영
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104093000 +0900" stop="20261104110000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 손흥민 스페셜</title>
+    <sub-title lang="ko">메이저리그 사커 LAFC 하이라이트, ~11/2</sub-title>
+    <desc lang="ko">스포타임 손흥민 스페셜
+부제 : 메이저리그 사커 LAFC 하이라이트, ~11/2
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104110000 +0900" stop="20261104113000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 Golf</title>
+    <sub-title lang="ko">3회</sub-title>
+    <desc lang="ko">스포타임 Golf
+부제 : 3회
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104113000 +0900" stop="20261104133000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/3</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 1차전 하이라이트 삼성:KT
+부제 : 11/3
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104133000 +0900" stop="20261104150000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104150000 +0900" stop="20261104153000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 Golf</title>
+    <sub-title lang="ko">3회</sub-title>
+    <desc lang="ko">스포타임 Golf
+부제 : 3회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104153000 +0900" stop="20261104170000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">안세영 역전 명승부</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 안세영 역전 명승부
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104170000 +0900" stop="20261104180000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티 시즌 1</title>
+    <sub-title lang="ko">2회</sub-title>
+    <desc lang="ko">런 더 시티 시즌 1
+부제 : 2회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104180000 +0900" stop="20261104190000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 포스트시즌, ~11/3</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 포스트시즌, ~11/3
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104190000 +0900" stop="20261104210000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104210000 +0900" stop="20261104220000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 메이저리그</title>
+    <sub-title lang="ko">코리안리거 타점 정주행</sub-title>
+    <desc lang="ko">스포타임 메이저리그
+부제 : 코리안리거 타점 정주행
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104220000 +0900" stop="20261104230000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 한국시리즈 2차전</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 한국시리즈 2차전
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104230000 +0900" stop="20261105003000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 여자프로농구 신한은행:우리은행</title>
+    <sub-title lang="ko">오늘 경기, 11/4</sub-title>
+    <desc lang="ko">26-27 여자프로농구 신한은행:우리은행
+부제 : 오늘 경기, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105003000 +0900" stop="20261105020000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 탁구</title>
+    <sub-title lang="ko">대한민국 2026 승리 특집, ~11/4</sub-title>
+    <desc lang="ko">스포타임 탁구
+부제 : 대한민국 2026 승리 특집, ~11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105050000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 2차전 삼성:KT</title>
+    <sub-title lang="ko">11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 2차전 삼성:KT
+부제 : 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티</title>
+    <sub-title lang="ko">2회</sub-title>
+    <desc lang="ko">런 더 시티
+부제 : 2회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">GD LESSON 고덕호</title>
+    <sub-title lang="ko">정명훈-윤석민 편</sub-title>
+    <desc lang="ko">GD LESSON 고덕호
+부제 : 정명훈-윤석민 편
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집&gt; (11/4</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집&gt; (11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105093000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 아시안게임 배드민턴 여자 단식</title>
+    <sub-title lang="ko">안세영 금메달, 안세영</sub-title>
+    <desc lang="ko">2026 아시안게임 배드민턴 여자 단식
+부제 : 안세영 금메달, 안세영
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105093000 +0900" stop="20261105110000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 탁구</title>
+    <sub-title lang="ko">대한민국 2026 승리 특집</sub-title>
+    <desc lang="ko">스포타임 탁구
+부제 : 대한민국 2026 승리 특집
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105130000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105150000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT
+부제 : 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105150000 +0900" stop="20261105160000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티 시즌 1</title>
+    <sub-title lang="ko">2회</sub-title>
+    <desc lang="ko">런 더 시티 시즌 1
+부제 : 2회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105170000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <sub-title lang="ko">오늘 경기</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+부제 : 오늘 경기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 한국시리즈, ~11/4</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 한국시리즈, ~11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">대한민국 2026 승리 특집, ~11/5</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 대한민국 2026 승리 특집, ~11/5
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105210000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 매치데이 4 하이라이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT</title>
+    <sub-title lang="ko">11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 2차전 하이라이트 삼성:KT
+부제 : 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106003000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
 <programme start="20261104150000 +0900" stop="20261104153000 +0900" channel="KBS1.kr">
     <title lang="ko">어린이동물티비</title>
   </programme>
@@ -25662,32 +26358,36 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">KBS 중계석</title>
   </programme>
   
-<programme start="20261104084000 +0900" stop="20261104092000 +0900" channel="KBS2.kr">
-    <title lang="ko">일일드라마 엄마가 미쳤어요 (27회)</title>
+<programme start="20261105012000 +0900" stop="20261105013500 +0900" channel="KBS1.kr">
+    <title lang="ko">팔도밥상 스페셜</title>
   </programme>
   
-<programme start="20261104092000 +0900" stop="20261104100000 +0900" channel="KBS2.kr">
-    <title lang="ko">일일드라마 욕망의 덫 (50회)</title>
+<programme start="20261105013500 +0900" stop="20261105014000 +0900" channel="KBS1.kr">
+    <title lang="ko">국가유산순례 드오</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104104000 +0900" channel="KBS2.kr">
-    <title lang="ko">인간극장 스페셜</title>
+<programme start="20261105014000 +0900" stop="20261105023500 +0900" channel="KBS1.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
   </programme>
   
-<programme start="20261104104000 +0900" stop="20261104111000 +0900" channel="KBS2.kr">
-    <title lang="ko">KBS 아침 뉴스타임</title>
+<programme start="20261105023500 +0900" stop="20261105034500 +0900" channel="KBS1.kr">
+    <title lang="ko">무엇이든 물어보세요</title>
   </programme>
   
-<programme start="20261104111000 +0900" stop="20261104123000 +0900" channel="KBS2.kr">
-    <title lang="ko">슈퍼맨이 돌아왔다</title>
+<programme start="20261105034500 +0900" stop="20261105050000 +0900" channel="KBS1.kr">
+    <title lang="ko">아침마당</title>
   </programme>
   
-<programme start="20261104123000 +0900" stop="20261104135000 +0900" channel="KBS2.kr">
-    <title lang="ko">옥탑방의 문제아들</title>
+<programme start="20261105050000 +0900" stop="20261105051000 +0900" channel="KBS1.kr">
+    <title lang="ko">생활의 발견 스페셜</title>
   </programme>
   
-<programme start="20261104135000 +0900" stop="20261104150000 +0900" channel="KBS2.kr">
-    <title lang="ko">무엇이든 물어보세요 스페셜</title>
+<programme start="20261105051000 +0900" stop="20261105060000 +0900" channel="KBS1.kr">
+    <title lang="ko">내고향 스페셜</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105075000 +0900" channel="KBS1.kr">
+    <title lang="ko">KBS 뉴스광장</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104151500 +0900" channel="KBS2.kr">
@@ -25754,36 +26454,20 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">KBS 재난방송센터</title>
   </programme>
   
-<programme start="20261104085000 +0900" stop="20261104093000 +0900" channel="MBC.kr">
-    <title lang="ko">가족관계증명서 (73회)</title>
+<programme start="20261105011000 +0900" stop="20261105050000 +0900" channel="KBS2.kr">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
   </programme>
   
-<programme start="20261104093000 +0900" stop="20261104094500 +0900" channel="MBC.kr">
-    <title lang="ko">930 MBC 뉴스</title>
+<programme start="20261105050000 +0900" stop="20261105060500 +0900" channel="KBS2.kr">
+    <title lang="ko">무엇이든 물어보세요 스페셜</title>
   </programme>
   
-<programme start="20261104094500 +0900" stop="20261104104500 +0900" channel="MBC.kr">
-    <title lang="ko">기분 좋은 날</title>
+<programme start="20261105060500 +0900" stop="20261105063500 +0900" channel="KBS2.kr">
+    <title lang="ko">TV 유치원</title>
   </programme>
   
-<programme start="20261104104500 +0900" stop="20261104113000 +0900" channel="MBC.kr">
-    <title lang="ko">MBC 뉴스특보</title>
-  </programme>
-  
-<programme start="20261104113000 +0900" stop="20261104120000 +0900" channel="MBC.kr">
-    <title lang="ko">찾아가는 꾸러기교실</title>
-  </programme>
-  
-<programme start="20261104120000 +0900" stop="20261104122500 +0900" channel="MBC.kr">
-    <title lang="ko">12 MBC 뉴스</title>
-  </programme>
-  
-<programme start="20261104122500 +0900" stop="20261104132500 +0900" channel="MBC.kr">
-    <title lang="ko">엄마를 부탁해</title>
-  </programme>
-  
-<programme start="20261104132500 +0900" stop="20261104135500 +0900" channel="MBC.kr">
-    <title lang="ko">최고다! 호기심 딱지</title>
+<programme start="20261105063500 +0900" stop="20261105073000 +0900" channel="KBS2.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
   </programme>
   
 <programme start="20261104135500 +0900" stop="20261104155500 +0900" channel="MBC.kr">
@@ -25822,32 +26506,24 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">웰컴 투 스포츠</title>
   </programme>
   
-<programme start="20261104085000 +0900" stop="20261104095500 +0900" channel="SBS.kr">
-    <title lang="ko">좋은아침</title>
+<programme start="20261105011500 +0900" stop="20261105021500 +0900" channel="MBC.kr">
+    <title lang="ko">출발! 비디오 여행 스페셜</title>
   </programme>
   
-<programme start="20261104095500 +0900" stop="20261104103000 +0900" channel="SBS.kr">
-    <title lang="ko">SBS 10 뉴스</title>
+<programme start="20261105021500 +0900" stop="20261105050000 +0900" channel="MBC.kr">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
   </programme>
   
-<programme start="20261104103000 +0900" stop="20261104110000 +0900" channel="SBS.kr">
-    <title lang="ko">SBS 뉴스특보</title>
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="MBC.kr">
+    <title lang="ko">오늘N</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104120000 +0900" channel="SBS.kr">
-    <title lang="ko">열린TV 시청자 세상</title>
+<programme start="20261105060000 +0900" stop="20261105062500 +0900" channel="MBC.kr">
+    <title lang="ko">MBC 뉴스투데이</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104124500 +0900" channel="SBS.kr">
-    <title lang="ko">SBS 12 뉴스</title>
-  </programme>
-  
-<programme start="20261104124500 +0900" stop="20261104130000 +0900" channel="SBS.kr">
-    <title lang="ko">호텔페니</title>
-  </programme>
-  
-<programme start="20261104130000 +0900" stop="20261104140000 +0900" channel="SBS.kr">
-    <title lang="ko">보석이네 건강 수다</title>
+<programme start="20261105062500 +0900" stop="20261105075000 +0900" channel="MBC.kr">
+    <title lang="ko">MBC 뉴스투데이</title>
   </programme>
   
 <programme start="20261104140000 +0900" stop="20261104153000 +0900" channel="SBS.kr">
@@ -25898,27 +26574,35 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">세상에서 가장 아름다운 여행 스페셜</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104102000 +0900" channel="KBSJoy.kr">
+<programme start="20261105011000 +0900" stop="20261105014000 +0900" channel="SBS.kr">
+    <title lang="ko">애니갤러리</title>
+  </programme>
+  
+<programme start="20261105014000 +0900" stop="20261105021000 +0900" channel="SBS.kr">
+    <title lang="ko">꾸러기 탐구생활</title>
+  </programme>
+  
+<programme start="20261105021000 +0900" stop="20261105050000 +0900" channel="SBS.kr">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+  </programme>
+  
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="SBS.kr">
+    <title lang="ko">히든카드</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105062500 +0900" channel="SBS.kr">
+    <title lang="ko">모닝와이드</title>
+  </programme>
+  
+<programme start="20261105062500 +0900" stop="20261105073000 +0900" channel="SBS.kr">
+    <title lang="ko">모닝와이드</title>
+  </programme>
+  
+<programme start="20261104143000 +0900" stop="20261104154000 +0900" channel="KBSJoy.kr">
     <title lang="ko">옥탑방의 문제아들 (332회)</title>
   </programme>
   
-<programme start="20261104102000 +0900" stop="20261104113000 +0900" channel="KBSJoy.kr">
-    <title lang="ko">영화가 좋다 (1029회)</title>
-  </programme>
-  
-<programme start="20261104113000 +0900" stop="20261104131000 +0900" channel="KBSJoy.kr">
-    <title lang="ko">계약결혼 (6회)</title>
-  </programme>
-  
-<programme start="20261104131000 +0900" stop="20261104143000 +0900" channel="KBSJoy.kr">
-    <title lang="ko">말자쇼 (41회)</title>
-  </programme>
-  
-<programme start="20261104143000 +0900" stop="20261104155000 +0900" channel="KBSJoy.kr">
-    <title lang="ko">옥탑방의 문제아들 (332회)</title>
-  </programme>
-  
-<programme start="20261104155000 +0900" stop="20261104173000 +0900" channel="KBSJoy.kr">
+<programme start="20261104154000 +0900" stop="20261104173000 +0900" channel="KBSJoy.kr">
     <title lang="ko">계약결혼 (6회)</title>
   </programme>
   
@@ -25926,11 +26610,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">차트를 달리는 남자 스페셜 (517회)</title>
   </programme>
   
-<programme start="20261104191000 +0900" stop="20261104205000 +0900" channel="KBSJoy.kr">
+<programme start="20261104191000 +0900" stop="20261104204000 +0900" channel="KBSJoy.kr">
     <title lang="ko">더 시즌즈-성시경의 고막남친 (29회)</title>
   </programme>
   
-<programme start="20261104205000 +0900" stop="20261104223000 +0900" channel="KBSJoy.kr">
+<programme start="20261104204000 +0900" stop="20261104223000 +0900" channel="KBSJoy.kr">
     <title lang="ko">계약결혼 (6회)</title>
   </programme>
   
@@ -25938,55 +26622,51 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">차트를 달리는 남자 (509회)</title>
   </programme>
   
-<programme start="20261104234000 +0900" stop="20261105004000 +0900" channel="KBSJoy.kr">
+<programme start="20261104234000 +0900" stop="20261105004500 +0900" channel="KBSJoy.kr">
     <title lang="ko">운명네컷 (6회)</title>
   </programme>
   
-<programme start="20261105004000 +0900" stop="20261105022000 +0900" channel="KBSJoy.kr">
+<programme start="20261105004500 +0900" stop="20261105022000 +0900" channel="KBSJoy.kr">
     <title lang="ko">차트를 달리는 남자 Dark edition (245회)</title>
   </programme>
   
-<programme start="20261104084000 +0900" stop="20261104092000 +0900" channel="KBSDrama.kr">
-    <title lang="ko">욕망의 덫 (49회)</title>
+<programme start="20261105022000 +0900" stop="20261105040500 +0900" channel="KBSJoy.kr">
+    <title lang="ko">1박 2일 시즌4 (348회)</title>
   </programme>
   
-<programme start="20261104092000 +0900" stop="20261104100000 +0900" channel="KBSDrama.kr">
-    <title lang="ko">욕망의 덫 (50회)</title>
+<programme start="20261105040500 +0900" stop="20261105050000 +0900" channel="KBSJoy.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭 (109회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104112000 +0900" channel="KBSDrama.kr">
-    <title lang="ko">사랑이 온다 (26회)</title>
+<programme start="20261105050000 +0900" stop="20261105062000 +0900" channel="KBSJoy.kr">
+    <title lang="ko">개그콘서트 (1196회)</title>
   </programme>
   
-<programme start="20261104112000 +0900" stop="20261104124000 +0900" channel="KBSDrama.kr">
-    <title lang="ko">사랑이 온다 (27회)</title>
-  </programme>
-  
-<programme start="20261104124000 +0900" stop="20261104140000 +0900" channel="KBSDrama.kr">
-    <title lang="ko">옥탑방의 문제아들 (332회)</title>
+<programme start="20261105062000 +0900" stop="20261105074000 +0900" channel="KBSJoy.kr">
+    <title lang="ko">살림하는 남자들 2 (466회)</title>
   </programme>
   
 <programme start="20261104140000 +0900" stop="20261104151500 +0900" channel="KBSDrama.kr">
     <title lang="ko">너 말고 다른 연애 (13회)</title>
   </programme>
   
-<programme start="20261104151500 +0900" stop="20261104163000 +0900" channel="KBSDrama.kr">
+<programme start="20261104151500 +0900" stop="20261104164000 +0900" channel="KBSDrama.kr">
     <title lang="ko">너 말고 다른 연애 (14회)</title>
   </programme>
   
-<programme start="20261104163000 +0900" stop="20261104173000 +0900" channel="KBSDrama.kr">
+<programme start="20261104164000 +0900" stop="20261104174000 +0900" channel="KBSDrama.kr">
     <title lang="ko">스모킹 건 (163회)</title>
   </programme>
   
-<programme start="20261104173000 +0900" stop="20261104185000 +0900" channel="KBSDrama.kr">
+<programme start="20261104174000 +0900" stop="20261104185500 +0900" channel="KBSDrama.kr">
     <title lang="ko">더 시즌즈-성시경의 고막남친 (29회)</title>
   </programme>
   
-<programme start="20261104185000 +0900" stop="20261104203000 +0900" channel="KBSDrama.kr">
+<programme start="20261104185500 +0900" stop="20261104203500 +0900" channel="KBSDrama.kr">
     <title lang="ko">계약결혼 (6회)</title>
   </programme>
   
-<programme start="20261104203000 +0900" stop="20261104215000 +0900" channel="KBSDrama.kr">
+<programme start="20261104203500 +0900" stop="20261104215000 +0900" channel="KBSDrama.kr">
     <title lang="ko">무엇이든 물어보살 (388회)</title>
   </programme>
   
@@ -25994,119 +26674,123 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">영화가 좋다 (1029회)</title>
   </programme>
   
-<programme start="20261104231000 +0900" stop="20261105003000 +0900" channel="KBSDrama.kr">
+<programme start="20261104231000 +0900" stop="20261105002000 +0900" channel="KBSDrama.kr">
     <title lang="ko">이십세기 힛-트쏭 (337회)</title>
   </programme>
   
-<programme start="20261105003000 +0900" stop="20261105021000 +0900" channel="KBSDrama.kr">
+<programme start="20261105002000 +0900" stop="20261105020000 +0900" channel="KBSDrama.kr">
     <title lang="ko">계약결혼 (6회)</title>
   </programme>
   
-<programme start="20261104085000 +0900" stop="20261104093000 +0900" channel="KBSStory.kr">
+<programme start="20261105020000 +0900" stop="20261105035000 +0900" channel="KBSDrama.kr">
+    <title lang="ko">불후의 명곡2 (778회)</title>
+  </programme>
+  
+<programme start="20261105035000 +0900" stop="20261105045500 +0900" channel="KBSDrama.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭 (102회)</title>
+  </programme>
+  
+<programme start="20261105045500 +0900" stop="20261105052500 +0900" channel="KBSDrama.kr">
+    <title lang="ko">엄마가 미쳤어요 (25회)</title>
+  </programme>
+  
+<programme start="20261105052500 +0900" stop="20261105060500 +0900" channel="KBSDrama.kr">
+    <title lang="ko">엄마가 미쳤어요 (26회)</title>
+  </programme>
+  
+<programme start="20261105060500 +0900" stop="20261105063000 +0900" channel="KBSDrama.kr">
     <title lang="ko">엄마가 미쳤어요 (27회)</title>
   </programme>
   
-<programme start="20261104093000 +0900" stop="20261104112000 +0900" channel="KBSStory.kr">
-    <title lang="ko">인간극장 (479회)</title>
+<programme start="20261105063000 +0900" stop="20261105071500 +0900" channel="KBSDrama.kr">
+    <title lang="ko">엄마가 미쳤어요 (28회)</title>
   </programme>
   
-<programme start="20261104112000 +0900" stop="20261104123000 +0900" channel="KBSStory.kr">
-    <title lang="ko">인간극장 (479회)</title>
-  </programme>
-  
-<programme start="20261104123000 +0900" stop="20261104134500 +0900" channel="KBSStory.kr">
-    <title lang="ko">부부클리닉 사랑과 전쟁 (311회)</title>
-  </programme>
-  
-<programme start="20261104134500 +0900" stop="20261104145500 +0900" channel="KBSStory.kr">
-    <title lang="ko">부부클리닉 사랑과 전쟁 (51회)</title>
-  </programme>
-  
-<programme start="20261104145500 +0900" stop="20261104161000 +0900" channel="KBSStory.kr">
+<programme start="20261104145000 +0900" stop="20261104161000 +0900" channel="KBSStory.kr">
     <title lang="ko">부부클리닉 사랑과 전쟁 (373회)</title>
   </programme>
   
-<programme start="20261104161000 +0900" stop="20261104165000 +0900" channel="KBSStory.kr">
+<programme start="20261104161000 +0900" stop="20261104164000 +0900" channel="KBSStory.kr">
     <title lang="ko">욕망의 덫 (47회)</title>
   </programme>
   
-<programme start="20261104165000 +0900" stop="20261104173000 +0900" channel="KBSStory.kr">
+<programme start="20261104164000 +0900" stop="20261104172500 +0900" channel="KBSStory.kr">
     <title lang="ko">욕망의 덫 (48회)</title>
   </programme>
   
-<programme start="20261104173000 +0900" stop="20261104180000 +0900" channel="KBSStory.kr">
+<programme start="20261104172500 +0900" stop="20261104180000 +0900" channel="KBSStory.kr">
     <title lang="ko">욕망의 덫 (49회)</title>
   </programme>
   
-<programme start="20261104180000 +0900" stop="20261104185000 +0900" channel="KBSStory.kr">
+<programme start="20261104180000 +0900" stop="20261104184500 +0900" channel="KBSStory.kr">
     <title lang="ko">욕망의 덫 (50회)</title>
   </programme>
   
-<programme start="20261104185000 +0900" stop="20261104192500 +0900" channel="KBSStory.kr">
+<programme start="20261104184500 +0900" stop="20261104191500 +0900" channel="KBSStory.kr">
     <title lang="ko">친밀한 리플리 (89회)</title>
   </programme>
   
-<programme start="20261104192500 +0900" stop="20261104200500 +0900" channel="KBSStory.kr">
+<programme start="20261104191500 +0900" stop="20261104200500 +0900" channel="KBSStory.kr">
     <title lang="ko">친밀한 리플리 (90회)</title>
   </programme>
   
-<programme start="20261104200500 +0900" stop="20261104204500 +0900" channel="KBSStory.kr">
+<programme start="20261104200500 +0900" stop="20261104203000 +0900" channel="KBSStory.kr">
     <title lang="ko">친밀한 리플리 (91회)</title>
   </programme>
   
-<programme start="20261104204500 +0900" stop="20261104212000 +0900" channel="KBSStory.kr">
+<programme start="20261104203000 +0900" stop="20261104212000 +0900" channel="KBSStory.kr">
     <title lang="ko">친밀한 리플리 (92회)</title>
   </programme>
   
-<programme start="20261104212000 +0900" stop="20261104223500 +0900" channel="KBSStory.kr">
+<programme start="20261104212000 +0900" stop="20261104223000 +0900" channel="KBSStory.kr">
     <title lang="ko">부부클리닉 사랑과 전쟁 (180회)</title>
   </programme>
   
-<programme start="20261104223500 +0900" stop="20261104235000 +0900" channel="KBSStory.kr">
+<programme start="20261104223000 +0900" stop="20261104235000 +0900" channel="KBSStory.kr">
     <title lang="ko">부부클리닉 사랑과 전쟁 (381회)</title>
   </programme>
   
-<programme start="20261104235000 +0900" stop="20261105010000 +0900" channel="KBSStory.kr">
+<programme start="20261104235000 +0900" stop="20261105005000 +0900" channel="KBSStory.kr">
     <title lang="ko">부부클리닉 사랑과 전쟁 (17회)</title>
   </programme>
   
-<programme start="20261105010000 +0900" stop="20261105021000 +0900" channel="KBSStory.kr">
+<programme start="20261105005000 +0900" stop="20261105015000 +0900" channel="KBSStory.kr">
     <title lang="ko">불후의 명곡2 (705회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104100000 +0900" channel="KBSLIFE.kr">
-    <title lang="ko">한국인의 밥상 (581회)</title>
+<programme start="20261105015000 +0900" stop="20261105030000 +0900" channel="KBSStory.kr">
+    <title lang="ko">영화가 좋다 (1029회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104110000 +0900" channel="KBSLIFE.kr">
-    <title lang="ko">내고향스페셜 남도지오그래피 (158회)</title>
+<programme start="20261105030000 +0900" stop="20261105040000 +0900" channel="KBSStory.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭 (50회)</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104120000 +0900" channel="KBSLIFE.kr">
-    <title lang="ko">전국노래자랑 (1584회)</title>
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="KBSStory.kr">
+    <title lang="ko">2TV 생생정보 (2595회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104134000 +0900" channel="KBSLIFE.kr">
-    <title lang="ko">인간극장 (992회)</title>
+<programme start="20261105050000 +0900" stop="20261105061000 +0900" channel="KBSStory.kr">
+    <title lang="ko">산너머 남촌에는 (176회)</title>
   </programme>
   
-<programme start="20261104134000 +0900" stop="20261104150000 +0900" channel="KBSLIFE.kr">
-    <title lang="ko">인간극장 (992회)</title>
+<programme start="20261105061000 +0900" stop="20261105071500 +0900" channel="KBSStory.kr">
+    <title lang="ko">용의 눈물 (47회)</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104160000 +0900" channel="KBSLIFE.kr">
-    <title lang="ko">내고향스페셜 남도지오그래피 (112회)</title>
+    <title lang="ko">내고향스페셜 남도지오그래피 (113회)</title>
   </programme>
   
 <programme start="20261104160000 +0900" stop="20261104170000 +0900" channel="KBSLIFE.kr">
     <title lang="ko">한국인의 밥상 (388회)</title>
   </programme>
   
-<programme start="20261104170000 +0900" stop="20261104184000 +0900" channel="KBSLIFE.kr">
+<programme start="20261104170000 +0900" stop="20261104184500 +0900" channel="KBSLIFE.kr">
     <title lang="ko">인간극장 (1203회)</title>
   </programme>
   
-<programme start="20261104184000 +0900" stop="20261104200000 +0900" channel="KBSLIFE.kr">
+<programme start="20261104184500 +0900" stop="20261104200000 +0900" channel="KBSLIFE.kr">
     <title lang="ko">인간극장 (1203회)</title>
   </programme>
   
@@ -26134,200 +26818,200 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">가요무대 (1937회)</title>
   </programme>
   
-<programme start="20261104082000 +0900" stop="20261104095000 +0900" channel="MBCEvery1.kr">
-    <title lang="ko">계약 결혼 (6회)</title>
+<programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="KBSLIFE.kr">
+    <title lang="ko">2TV 생생정보 (2633회)</title>
   </programme>
   
-<programme start="20261104095000 +0900" stop="20261104115000 +0900" channel="MBCEvery1.kr">
-    <title lang="ko">연애기숙학교 2기 돌싱N모솔 (1회)</title>
+<programme start="20261105030000 +0900" stop="20261105035500 +0900" channel="KBSLIFE.kr">
+    <title lang="ko">무엇이든 물어보세요 (6041회)</title>
   </programme>
   
-<programme start="20261104115000 +0900" stop="20261104134000 +0900" channel="MBCEvery1.kr">
-    <title lang="ko">전지적 참견 시점 (422회)</title>
+<programme start="20261105035500 +0900" stop="20261105050000 +0900" channel="KBSLIFE.kr">
+    <title lang="ko">다큐 온 (379회)</title>
   </programme>
   
-<programme start="20261104134000 +0900" stop="20261104153000 +0900" channel="MBCEvery1.kr">
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="KBSLIFE.kr">
+    <title lang="ko">대국민 토크쇼 안녕하세요 (127회)</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105074000 +0900" channel="KBSLIFE.kr">
+    <title lang="ko">인간극장 (788회)</title>
+  </programme>
+  
+<programme start="20261104134500 +0900" stop="20261104153500 +0900" channel="MBCEvery1.kr">
     <title lang="ko">히든 아이 (108회)</title>
   </programme>
   
-<programme start="20261104153000 +0900" stop="20261104170000 +0900" channel="MBCEvery1.kr">
+<programme start="20261104153500 +0900" stop="20261104170000 +0900" channel="MBCEvery1.kr">
     <title lang="ko">놀면 뭐하니? (350회)</title>
   </programme>
   
-<programme start="20261104170000 +0900" stop="20261104182000 +0900" channel="MBCEvery1.kr">
+<programme start="20261104170000 +0900" stop="20261104183400 +0900" channel="MBCEvery1.kr">
     <title lang="ko">쇼챔피언 (617회)</title>
   </programme>
   
-<programme start="20261104182000 +0900" stop="20261104201000 +0900" channel="MBCEvery1.kr">
+<programme start="20261104183400 +0900" stop="20261104202100 +0900" channel="MBCEvery1.kr">
     <title lang="ko">나 혼자 산다 (671회)</title>
   </programme>
   
-<programme start="20261104201000 +0900" stop="20261104221000 +0900" channel="MBCEvery1.kr">
+<programme start="20261104202100 +0900" stop="20261104222100 +0900" channel="MBCEvery1.kr">
     <title lang="ko">연애기숙학교 2기 돌싱N모솔 (1회)</title>
   </programme>
   
-<programme start="20261104221000 +0900" stop="20261105004000 +0900" channel="MBCEvery1.kr">
-    <title lang="ko">전지적 참견 시점</title>
+<programme start="20261104222100 +0900" stop="20261105010700 +0900" channel="MBCEvery1.kr">
+    <title lang="ko">전지적 참견 시점 (262회)</title>
   </programme>
   
-<programme start="20261105004000 +0900" stop="20261105023000 +0900" channel="MBCEvery1.kr">
+<programme start="20261105010700 +0900" stop="20261105025500 +0900" channel="MBCEvery1.kr">
     <title lang="ko">히든 아이 (108회)</title>
   </programme>
   
-<programme start="20261104082000 +0900" stop="20261104094000 +0900" channel="MBCON.kr">
-    <title lang="ko">당신은 너무합니다 (5회)</title>
+<programme start="20261105025500 +0900" stop="20261105042600 +0900" channel="MBCEvery1.kr">
+    <title lang="ko">오은영 리포트 결혼지옥 (189회)</title>
   </programme>
   
-<programme start="20261104094000 +0900" stop="20261104110000 +0900" channel="MBCON.kr">
-    <title lang="ko">당신은 너무합니다 (6회)</title>
+<programme start="20261105042600 +0900" stop="20261105050000 +0900" channel="MBCEvery1.kr">
+    <title lang="ko">쇼킹 받는 차트 스페셜 (22회)</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104120000 +0900" channel="MBCON.kr">
-    <title lang="ko">전원일기 (805회)</title>
+<programme start="20261105050000 +0900" stop="20261105064000 +0900" channel="MBCEvery1.kr">
+    <title lang="ko">장미의 전쟁 (26회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104130000 +0900" channel="MBCON.kr">
-    <title lang="ko">전원일기 (806회)</title>
+<programme start="20261105064000 +0900" stop="20261105083000 +0900" channel="MBCEvery1.kr">
+    <title lang="ko">전지적 참견 시점 (422회)</title>
   </programme>
   
-<programme start="20261104130000 +0900" stop="20261104140000 +0900" channel="MBCON.kr">
-    <title lang="ko">한지붕 세가족 (247회)</title>
-  </programme>
-  
-<programme start="20261104140000 +0900" stop="20261104150000 +0900" channel="MBCON.kr">
-    <title lang="ko">한지붕 세가족 (253회)</title>
-  </programme>
-  
-<programme start="20261104150000 +0900" stop="20261104160000 +0900" channel="MBCON.kr">
+<programme start="20261104150100 +0900" stop="20261104155400 +0900" channel="MBCON.kr">
     <title lang="ko">한지붕 세가족 (269회)</title>
   </programme>
   
-<programme start="20261104160000 +0900" stop="20261104163000 +0900" channel="MBCON.kr">
+<programme start="20261104155400 +0900" stop="20261104162600 +0900" channel="MBCON.kr">
     <title lang="ko">휴먼다큐 시장사람들 (815회)</title>
   </programme>
   
-<programme start="20261104163000 +0900" stop="20261104173000 +0900" channel="MBCON.kr">
+<programme start="20261104162600 +0900" stop="20261104172900 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (219회)</title>
   </programme>
   
-<programme start="20261104173000 +0900" stop="20261104183000 +0900" channel="MBCON.kr">
+<programme start="20261104172900 +0900" stop="20261104183200 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (220회)</title>
   </programme>
   
-<programme start="20261104183000 +0900" stop="20261104192000 +0900" channel="MBCON.kr">
+<programme start="20261104183200 +0900" stop="20261104191700 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (221회)</title>
   </programme>
   
-<programme start="20261104192000 +0900" stop="20261104201000 +0900" channel="MBCON.kr">
+<programme start="20261104191700 +0900" stop="20261104200700 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (222회)</title>
   </programme>
   
-<programme start="20261104201000 +0900" stop="20261104211000 +0900" channel="MBCON.kr">
+<programme start="20261104200700 +0900" stop="20261104210600 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (223회)</title>
   </programme>
   
-<programme start="20261104211000 +0900" stop="20261104221000 +0900" channel="MBCON.kr">
+<programme start="20261104210600 +0900" stop="20261104220600 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (224회)</title>
   </programme>
   
-<programme start="20261104221000 +0900" stop="20261104230000 +0900" channel="MBCON.kr">
+<programme start="20261104220600 +0900" stop="20261104230000 +0900" channel="MBCON.kr">
     <title lang="ko">전원일기 (225회)</title>
   </programme>
   
-<programme start="20261104230000 +0900" stop="20261105000000 +0900" channel="MBCON.kr">
+<programme start="20261104230000 +0900" stop="20261104235300 +0900" channel="MBCON.kr">
     <title lang="ko">가을의 기적 (2회)</title>
   </programme>
   
-<programme start="20261105000000 +0900" stop="20261105011000 +0900" channel="MBCON.kr">
+<programme start="20261104235300 +0900" stop="20261105011000 +0900" channel="MBCON.kr">
     <title lang="ko">당신은 너무합니다 (5회)</title>
   </programme>
   
-<programme start="20261104081000 +0900" stop="20261104100000 +0900" channel="MBCM.kr">
-    <title lang="ko">오은영 리포트 결혼지옥 (188회)</title>
+<programme start="20261105011000 +0900" stop="20261105021800 +0900" channel="MBCON.kr">
+    <title lang="ko">당신은 너무합니다 (6회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104104000 +0900" channel="MBCM.kr">
-    <title lang="ko">검법남녀 2 (6회)</title>
+<programme start="20261105021800 +0900" stop="20261105030900 +0900" channel="MBCON.kr">
+    <title lang="ko">실화탐사대 (381회)</title>
   </programme>
   
-<programme start="20261104104000 +0900" stop="20261104112000 +0900" channel="MBCM.kr">
-    <title lang="ko">검법남녀 2 (7회)</title>
+<programme start="20261105030900 +0900" stop="20261105033800 +0900" channel="MBCON.kr">
+    <title lang="ko">가족관계증명서 (60회)</title>
   </programme>
   
-<programme start="20261104112000 +0900" stop="20261104120000 +0900" channel="MBCM.kr">
-    <title lang="ko">검법남녀 2 (8회)</title>
+<programme start="20261105033800 +0900" stop="20261105041700 +0900" channel="MBCON.kr">
+    <title lang="ko">가족관계증명서 (61회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104124000 +0900" channel="MBCM.kr">
-    <title lang="ko">검법남녀 2 (9회)</title>
+<programme start="20261105041700 +0900" stop="20261105050000 +0900" channel="MBCON.kr">
+    <title lang="ko">히든아이 라이브 이슈 (56회)</title>
   </programme>
   
-<programme start="20261104124000 +0900" stop="20261104132000 +0900" channel="MBCM.kr">
-    <title lang="ko">검법남녀 2 (10회)</title>
+<programme start="20261105050000 +0900" stop="20261105053500 +0900" channel="MBCON.kr">
+    <title lang="ko">인생은 항구다 (8회)</title>
   </programme>
   
-<programme start="20261104132000 +0900" stop="20261104143000 +0900" channel="MBCM.kr">
-    <title lang="ko">신돈 (19회)</title>
+<programme start="20261105053500 +0900" stop="20261105061000 +0900" channel="MBCON.kr">
+    <title lang="ko">인생은 항구다 (9회)</title>
   </programme>
   
-<programme start="20261104143000 +0900" stop="20261104154000 +0900" channel="MBCM.kr">
+<programme start="20261105061000 +0900" stop="20261105064000 +0900" channel="MBCON.kr">
+    <title lang="ko">휴먼다큐 시장사람들 (815회)</title>
+  </programme>
+  
+<programme start="20261105064000 +0900" stop="20261105071000 +0900" channel="MBCON.kr">
+    <title lang="ko">휴먼다큐 시장사람들 (816회)</title>
+  </programme>
+  
+<programme start="20261104144100 +0900" stop="20261104154400 +0900" channel="MBCM.kr">
     <title lang="ko">신돈 (20회)</title>
   </programme>
   
-<programme start="20261104154000 +0900" stop="20261104170000 +0900" channel="MBCM.kr">
+<programme start="20261104154400 +0900" stop="20261104170000 +0900" channel="MBCM.kr">
     <title lang="ko">라이어 (1회)</title>
   </programme>
   
-<programme start="20261104170000 +0900" stop="20261104183000 +0900" channel="MBCM.kr">
+<programme start="20261104170000 +0900" stop="20261104183300 +0900" channel="MBCM.kr">
     <title lang="ko">쇼 챔피언 (617회)</title>
   </programme>
   
-<programme start="20261104183000 +0900" stop="20261104190000 +0900" channel="MBCM.kr">
+<programme start="20261104183300 +0900" stop="20261104190800 +0900" channel="MBCM.kr">
     <title lang="ko">오프에어 (28회)</title>
   </programme>
   
-<programme start="20261104190000 +0900" stop="20261104203000 +0900" channel="MBCM.kr">
+<programme start="20261104190800 +0900" stop="20261104203300 +0900" channel="MBCM.kr">
     <title lang="ko">놀면 뭐하니? (349회)</title>
   </programme>
   
-<programme start="20261104203000 +0900" stop="20261104221000 +0900" channel="MBCM.kr">
+<programme start="20261104203300 +0900" stop="20261104221300 +0900" channel="MBCM.kr">
     <title lang="ko">히든아이 (108회)</title>
   </programme>
   
-<programme start="20261104221000 +0900" stop="20261104231000 +0900" channel="MBCM.kr">
+<programme start="20261104221300 +0900" stop="20261104231700 +0900" channel="MBCM.kr">
     <title lang="ko">그라운드 퀸 (8회)</title>
   </programme>
   
-<programme start="20261104231000 +0900" stop="20261105005000 +0900" channel="MBCM.kr">
+<programme start="20261104231700 +0900" stop="20261105005800 +0900" channel="MBCM.kr">
     <title lang="ko">히든아이 (108회)</title>
   </programme>
   
-<programme start="20261105005000 +0900" stop="20261105022000 +0900" channel="MBCM.kr">
+<programme start="20261105005800 +0900" stop="20261105022100 +0900" channel="MBCM.kr">
     <title lang="ko">심야괴담회 6 (19회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104100000 +0900" channel="MBCNnet.kr">
-    <title lang="ko">사람, 산 (107회)</title>
+<programme start="20261105022100 +0900" stop="20261105040100 +0900" channel="MBCM.kr">
+    <title lang="ko">히든아이 (108회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104110000 +0900" channel="MBCNnet.kr">
-    <title lang="ko">MBCNET 명품다큐 코드명 425 위성강국의 서막</title>
+<programme start="20261105040100 +0900" stop="20261105050000 +0900" channel="MBCM.kr">
+    <title lang="ko">나 혼자 산다 (573회)</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104120000 +0900" channel="MBCNnet.kr">
-    <title lang="ko">진짜배기 (9회)</title>
+<programme start="20261105050000 +0900" stop="20261105062000 +0900" channel="MBCM.kr">
+    <title lang="ko">전지적 참견 시점 (311회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104130000 +0900" channel="MBCNnet.kr">
-    <title lang="ko">지구절경기행 (15회)</title>
-  </programme>
-  
-<programme start="20261104130000 +0900" stop="20261104140000 +0900" channel="MBCNnet.kr">
-    <title lang="ko">어영차 바다야 (303회)</title>
-  </programme>
-  
-<programme start="20261104140000 +0900" stop="20261104150000 +0900" channel="MBCNnet.kr">
-    <title lang="ko">어영차 바다야 (304회)</title>
+<programme start="20261105062000 +0900" stop="20261105080000 +0900" channel="MBCM.kr">
+    <title lang="ko">히든아이 (108회)</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104160000 +0900" channel="MBCNnet.kr">
@@ -26374,35 +27058,47 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">지금은 전국시대 (4810회)</title>
   </programme>
   
-<programme start="20261104082000 +0900" stop="20261104095000 +0900" channel="SBSPlus.kr">
-    <title lang="ko">닥터X : 하얀 마피아의 시대 (7회)</title>
+<programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="MBCNnet.kr">
+    <title lang="ko">시민의 품격 (105회)</title>
   </programme>
   
-<programme start="20261104095000 +0900" stop="20261104111000 +0900" channel="SBSPlus.kr">
-    <title lang="ko">닥터X : 하얀 마피아의 시대 (8회)</title>
+<programme start="20261105030000 +0900" stop="20261105040000 +0900" channel="MBCNnet.kr">
+    <title lang="ko">여기 이슈 강원 (66회)</title>
   </programme>
   
-<programme start="20261104111000 +0900" stop="20261104130000 +0900" channel="SBSPlus.kr">
-    <title lang="ko">동상이몽2 너는 내 운명 (461회)</title>
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="MBCNnet.kr">
+    <title lang="ko">다큐에세이 그사람 (63회)</title>
   </programme>
   
-<programme start="20261104130000 +0900" stop="20261104150000 +0900" channel="SBSPlus.kr">
-    <title lang="ko">상남자의 여행법 in 마나도 (5회)</title>
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="MBCNnet.kr">
+    <title lang="ko">다큐 나는 산다 (82회)</title>
   </programme>
   
-<programme start="20261104150000 +0900" stop="20261104171000 +0900" channel="SBSPlus.kr">
+<programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="MBCNnet.kr">
+    <title lang="ko">피플스토리 참말로 (21회)</title>
+  </programme>
+  
+<programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="MBCNnet.kr">
+    <title lang="ko">제주엔 (81회)</title>
+  </programme>
+  
+<programme start="20261104125000 +0900" stop="20261104151000 +0900" channel="SBSPlus.kr">
     <title lang="ko">우리들의 발라드 2 (5회)</title>
   </programme>
   
-<programme start="20261104171000 +0900" stop="20261104190000 +0900" channel="SBSPlus.kr">
+<programme start="20261104151000 +0900" stop="20261104170300 +0900" channel="SBSPlus.kr">
+    <title lang="ko">상남자의 여행법 in 마나도 (5회)</title>
+  </programme>
+  
+<programme start="20261104170300 +0900" stop="20261104185100 +0900" channel="SBSPlus.kr">
     <title lang="ko">틈만나면 (64회)</title>
   </programme>
   
-<programme start="20261104190000 +0900" stop="20261104203000 +0900" channel="SBSPlus.kr">
+<programme start="20261104185100 +0900" stop="20261104201700 +0900" channel="SBSPlus.kr">
     <title lang="ko">나는 SOLO, 그 후 사랑은 계속된다 (189회)</title>
   </programme>
   
-<programme start="20261104203000 +0900" stop="20261104223000 +0900" channel="SBSPlus.kr">
+<programme start="20261104201700 +0900" stop="20261104223000 +0900" channel="SBSPlus.kr">
     <title lang="ko">나는 SOLO (277회)</title>
   </programme>
   
@@ -26410,28 +27106,20 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">나는 SOLO (278회)</title>
   </programme>
   
-<programme start="20261105003000 +0900" stop="20261105023000 +0900" channel="SBSPlus.kr">
+<programme start="20261105003000 +0900" stop="20261105023100 +0900" channel="SBSPlus.kr">
     <title lang="ko">나는 SOLO (278회)</title>
   </programme>
   
-<programme start="20261104080000 +0900" stop="20261104100000 +0900" channel="SBSBiz.kr">
-    <title lang="ko">특집 머니쇼</title>
+<programme start="20261105023100 +0900" stop="20261105040000 +0900" channel="SBSPlus.kr">
+    <title lang="ko">신빨 토크쇼 귀묘한 이야기 2 (44회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104113000 +0900" channel="SBSBiz.kr">
-    <title lang="ko">특집 용감한 토크쇼 직설 (205회)</title>
+<programme start="20261105040000 +0900" stop="20261105055000 +0900" channel="SBSPlus.kr">
+    <title lang="ko">솔로라서 (8회)</title>
   </programme>
   
-<programme start="20261104113000 +0900" stop="20261104120500 +0900" channel="SBSBiz.kr">
-    <title lang="ko">SBS Biz NEWS 11</title>
-  </programme>
-  
-<programme start="20261104120500 +0900" stop="20261104130000 +0900" channel="SBSBiz.kr">
-    <title lang="ko">순간포착 세상에 이런일이 (964회)</title>
-  </programme>
-  
-<programme start="20261104130000 +0900" stop="20261104143000 +0900" channel="SBSBiz.kr">
-    <title lang="ko">특집 마켓앤머니</title>
+<programme start="20261105055000 +0900" stop="20261105072000 +0900" channel="SBSPlus.kr">
+    <title lang="ko">닥터X : 하얀 마피아의 시대 (8회)</title>
   </programme>
   
 <programme start="20261104143000 +0900" stop="20261104153000 +0900" channel="SBSBiz.kr">
@@ -26463,7 +27151,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
   </programme>
   
 <programme start="20261104203000 +0900" stop="20261104213000 +0900" channel="SBSBiz.kr">
-    <title lang="ko">1%의 시선, 투자앵글 (43회)</title>
+    <title lang="ko">금융과 재테크-1%의 시선, 투자앵글 (43회)</title>
   </programme>
   
 <programme start="20261104213000 +0900" stop="20261104223000 +0900" channel="SBSBiz.kr">
@@ -26471,7 +27159,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
   </programme>
   
 <programme start="20261104223000 +0900" stop="20261104233000 +0900" channel="SBSBiz.kr">
-    <title lang="ko">주식이 궁금할 때 (44회)</title>
+    <title lang="ko">금융과 재테크-주식이 궁금할 때 (44회)</title>
   </programme>
   
 <programme start="20261104233000 +0900" stop="20261105003000 +0900" channel="SBSBiz.kr">
@@ -26482,119 +27170,131 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">특집 오늘 경제 안녕하십니까?</title>
   </programme>
   
-<programme start="20261104082000 +0900" stop="20261104100000 +0900" channel="SBSfunE.kr">
+<programme start="20261105013000 +0900" stop="20261105023000 +0900" channel="SBSBiz.kr">
+    <title lang="ko">금융과 재테크-주식이 궁금할 때 (44회)</title>
+  </programme>
+  
+<programme start="20261105023000 +0900" stop="20261105033000 +0900" channel="SBSBiz.kr">
+    <title lang="ko">빅퀘스천 (55회)</title>
+  </programme>
+  
+<programme start="20261105033000 +0900" stop="20261105040000 +0900" channel="SBSBiz.kr">
+    <title lang="ko">빅퀘스천 (59회)</title>
+  </programme>
+  
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="SBSBiz.kr">
+    <title lang="ko">금융과 재테크-투자리포트 주식의 발견 (44회)</title>
+  </programme>
+  
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="SBSBiz.kr">
+    <title lang="ko">특집 오늘 경제 안녕하십니까?</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="SBSBiz.kr">
+    <title lang="ko">모닝벨</title>
+  </programme>
+  
+<programme start="20261104133900 +0900" stop="20261104152900 +0900" channel="SBSfunE.kr">
+    <title lang="ko">틈만 나면 (64회)</title>
+  </programme>
+  
+<programme start="20261104152900 +0900" stop="20261104173300 +0900" channel="SBSfunE.kr">
     <title lang="ko">런닝맨 (825회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104115000 +0900" channel="SBSfunE.kr">
-    <title lang="ko">틈만 나면 (64회)</title>
-  </programme>
-  
-<programme start="20261104115000 +0900" stop="20261104134000 +0900" channel="SBSfunE.kr">
-    <title lang="ko">동상이몽 2 너는 내 운명 (461회)</title>
-  </programme>
-  
-<programme start="20261104134000 +0900" stop="20261104153000 +0900" channel="SBSfunE.kr">
-    <title lang="ko">틈만 나면 (64회)</title>
-  </programme>
-  
-<programme start="20261104153000 +0900" stop="20261104172000 +0900" channel="SBSfunE.kr">
-    <title lang="ko">동상이몽 2 너는 내 운명 (461회)</title>
-  </programme>
-  
-<programme start="20261104172000 +0900" stop="20261104191000 +0900" channel="SBSfunE.kr">
+<programme start="20261104173300 +0900" stop="20261104192300 +0900" channel="SBSfunE.kr">
     <title lang="ko">무엇이든 해줄 지니 비서진 (9회)</title>
   </programme>
   
-<programme start="20261104191000 +0900" stop="20261104211000 +0900" channel="SBSfunE.kr">
+<programme start="20261104192300 +0900" stop="20261104214400 +0900" channel="SBSfunE.kr">
     <title lang="ko">우리들의 발라드 2 (5회)</title>
   </programme>
   
-<programme start="20261104211000 +0900" stop="20261104225000 +0900" channel="SBSfunE.kr">
+<programme start="20261104214400 +0900" stop="20261104233200 +0900" channel="SBSfunE.kr">
     <title lang="ko">틈만 나면 (64회)</title>
   </programme>
   
-<programme start="20261104225000 +0900" stop="20261105004000 +0900" channel="SBSfunE.kr">
+<programme start="20261104233200 +0900" stop="20261105012100 +0900" channel="SBSfunE.kr">
     <title lang="ko">런닝맨 (696회)</title>
   </programme>
   
-<programme start="20261105004000 +0900" stop="20261105022000 +0900" channel="SBSfunE.kr">
+<programme start="20261105012100 +0900" stop="20261105025400 +0900" channel="SBSfunE.kr">
     <title lang="ko">런닝맨 (553회)</title>
   </programme>
   
-<programme start="20261104075000 +0900" stop="20261104092000 +0900" channel="SBSF!L.kr">
-    <title lang="ko">더 트롯 쇼 (163회)</title>
+<programme start="20261105025400 +0900" stop="20261105040000 +0900" channel="SBSfunE.kr">
+    <title lang="ko">거장항준 (3회)</title>
   </programme>
   
-<programme start="20261104092000 +0900" stop="20261104105000 +0900" channel="SBSF!L.kr">
-    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 시즌3 (93회)</title>
+<programme start="20261105040000 +0900" stop="20261105054000 +0900" channel="SBSfunE.kr">
+    <title lang="ko">솔로라서 (2회)</title>
   </programme>
   
-<programme start="20261104105000 +0900" stop="20261104122000 +0900" channel="SBSF!L.kr">
-    <title lang="ko">생활의 달인 (958회)</title>
+<programme start="20261105054000 +0900" stop="20261105065000 +0900" channel="SBSfunE.kr">
+    <title lang="ko">생활의 달인 (1052회)</title>
   </programme>
   
-<programme start="20261104122000 +0900" stop="20261104143000 +0900" channel="SBSF!L.kr">
-    <title lang="ko">미운 우리 새끼 (486회)</title>
+<programme start="20261105065000 +0900" stop="20261105074000 +0900" channel="SBSfunE.kr">
+    <title lang="ko">리뷰 액츄얼리 (3회)</title>
   </programme>
   
-<programme start="20261104143000 +0900" stop="20261104155000 +0900" channel="SBSF!L.kr">
+<programme start="20261104143300 +0900" stop="20261104160300 +0900" channel="SBSF!L.kr">
     <title lang="ko">TV 동물농장 (1144회)</title>
   </programme>
   
-<programme start="20261104155000 +0900" stop="20261104172000 +0900" channel="SBSF!L.kr">
+<programme start="20261104160300 +0900" stop="20261104173500 +0900" channel="SBSF!L.kr">
     <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 시즌3 (93회)</title>
   </programme>
   
-<programme start="20261104172000 +0900" stop="20261104185000 +0900" channel="SBSF!L.kr">
+<programme start="20261104173500 +0900" stop="20261104190000 +0900" channel="SBSF!L.kr">
     <title lang="ko">생활의 달인 (958회)</title>
   </programme>
   
-<programme start="20261104185000 +0900" stop="20261104204000 +0900" channel="SBSF!L.kr">
+<programme start="20261104190000 +0900" stop="20261104204800 +0900" channel="SBSF!L.kr">
     <title lang="ko">동상이몽 2 너는 내 운명 (437회)</title>
   </programme>
   
-<programme start="20261104204000 +0900" stop="20261104220000 +0900" channel="SBSF!L.kr">
+<programme start="20261104204800 +0900" stop="20261104221300 +0900" channel="SBSF!L.kr">
     <title lang="ko">TV 동물농장 (1144회)</title>
   </programme>
   
-<programme start="20261104220000 +0900" stop="20261104235000 +0900" channel="SBSF!L.kr">
+<programme start="20261104221300 +0900" stop="20261104235300 +0900" channel="SBSF!L.kr">
     <title lang="ko">동상이몽 2 너는 내 운명 (437회)</title>
   </programme>
   
-<programme start="20261104235000 +0900" stop="20261105005000 +0900" channel="SBSF!L.kr">
+<programme start="20261104235300 +0900" stop="20261105005000 +0900" channel="SBSF!L.kr">
     <title lang="ko">고려기프트 트롯팬덤 골프최강전 (9회)</title>
   </programme>
   
-<programme start="20261105005000 +0900" stop="20261105022000 +0900" channel="SBSF!L.kr">
+<programme start="20261105005000 +0900" stop="20261105021900 +0900" channel="SBSF!L.kr">
     <title lang="ko">더 쇼 (330회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104100000 +0900" channel="SBSGolf.kr">
-    <title lang="ko">2026 키움증권 고교동창 골프 최강전 (29회)</title>
+<programme start="20261105021900 +0900" stop="20261105040000 +0900" channel="SBSF!L.kr">
+    <title lang="ko">더 트롯 쇼 (87회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104110000 +0900" channel="SBSGolf.kr">
-    <title lang="ko">2026 벤제프 클럽챔피언십 (10회)</title>
+<programme start="20261105040000 +0900" stop="20261105053000 +0900" channel="SBSF!L.kr">
+    <title lang="ko">더 쇼 (300회)</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104133000 +0900" channel="SBSGolf.kr">
-    <title lang="ko">2026 KLPGA HJ중공업 동부건설 챔피언십</title>
+<programme start="20261105053000 +0900" stop="20261105061000 +0900" channel="SBSF!L.kr">
+    <title lang="ko">뽕사활동 (4회)</title>
   </programme>
   
-<programme start="20261104133000 +0900" stop="20261104140000 +0900" channel="SBSGolf.kr">
-    <title lang="ko">인사이드 KLPGA (29회)</title>
+<programme start="20261105061000 +0900" stop="20261105075000 +0900" channel="SBSF!L.kr">
+    <title lang="ko">더 트롯 쇼 : 라이벌 대전 (4회)</title>
   </programme>
   
-<programme start="20261104140000 +0900" stop="20261104163000 +0900" channel="SBSGolf.kr">
+<programme start="20261104142000 +0900" stop="20261104164000 +0900" channel="SBSGolf.kr">
     <title lang="ko">KLPGA 2026 챔피언스 클래식</title>
   </programme>
   
-<programme start="20261104163000 +0900" stop="20261104180000 +0900" channel="SBSGolf.kr">
+<programme start="20261104164000 +0900" stop="20261104181000 +0900" channel="SBSGolf.kr">
     <title lang="ko">한화생명 인비테이셔널 아시아 여자 주니어 골프대회</title>
   </programme>
   
-<programme start="20261104180000 +0900" stop="20261104190000 +0900" channel="SBSGolf.kr">
+<programme start="20261104181000 +0900" stop="20261104190000 +0900" channel="SBSGolf.kr">
     <title lang="ko">2026 키움증권 고교동창 골프 최강전 (29회)</title>
   </programme>
   
@@ -26614,31 +27314,35 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">SBS골프 아카데미 (2914회)</title>
   </programme>
   
-<programme start="20261105003000 +0900" stop="20261105013000 +0900" channel="SBSGolf.kr">
+<programme start="20261105003000 +0900" stop="20261105012000 +0900" channel="SBSGolf.kr">
     <title lang="ko">2026 벤제프 클럽챔피언십 (11회)</title>
   </programme>
   
-<programme start="20261104083000 +0900" stop="20261104100000 +0900" channel="SBSGolf2.kr">
-    <title lang="ko">2026 KMAGF 프랭크버거배 미드아마 클래식</title>
+<programme start="20261105012000 +0900" stop="20261105021000 +0900" channel="SBSGolf.kr">
+    <title lang="ko">파워 X 골프 (2회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104110000 +0900" channel="SBSGolf2.kr">
-    <title lang="ko">SBS 골프 아카데미 (2911회)</title>
+<programme start="20261105021000 +0900" stop="20261105040000 +0900" channel="SBSGolf.kr">
+    <title lang="ko">2026 KLPGA 다산베아채골프앤리조트점프투어 WITH SBSGOLF</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104133000 +0900" channel="SBSGolf2.kr">
-    <title lang="ko">KLPGA 2026 챔피언스 클래식</title>
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="SBSGolf.kr">
+    <title lang="ko">SBS골프 클리닉 (8회)</title>
   </programme>
   
-<programme start="20261104133000 +0900" stop="20261104143000 +0900" channel="SBSGolf2.kr">
-    <title lang="ko">THE SHOT (6회)</title>
+<programme start="20261105050000 +0900" stop="20261105053000 +0900" channel="SBSGolf.kr">
+    <title lang="ko">쉿! 비밀이야2 (5회)</title>
   </programme>
   
-<programme start="20261104143000 +0900" stop="20261104153000 +0900" channel="SBSGolf2.kr">
+<programme start="20261105053000 +0900" stop="20261105080000 +0900" channel="SBSGolf.kr">
+    <title lang="ko">KLPGA 2026 무안CC 올포유 드림투어</title>
+  </programme>
+  
+<programme start="20261104144000 +0900" stop="20261104154000 +0900" channel="SBSGolf2.kr">
     <title lang="ko">2026 마코스포츠 파크골프 클럽 최강전 (3회)</title>
   </programme>
   
-<programme start="20261104153000 +0900" stop="20261104183000 +0900" channel="SBSGolf2.kr">
+<programme start="20261104154000 +0900" stop="20261104183000 +0900" channel="SBSGolf2.kr">
     <title lang="ko">2026 KLPGA S-OIL 챔피언십</title>
   </programme>
   
@@ -26662,132 +27366,68 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">파인이스트 괌 프로앤아마 골프페스타 (2회)</title>
   </programme>
   
-<programme start="20261105003000 +0900" stop="20261105020000 +0900" channel="SBSGolf2.kr">
+<programme start="20261105003000 +0900" stop="20261105021000 +0900" channel="SBSGolf2.kr">
     <title lang="ko">2026 KPGA 데이비드골프 투어</title>
   </programme>
   
-<programme start="20261104085000 +0900" stop="20261104112000 +0900" channel="SBS스포츠.kr">
-    <title lang="ko">2026 KBO 한국시리즈</title>
+<programme start="20261105021000 +0900" stop="20261105040000 +0900" channel="SBSGolf2.kr">
+    <title lang="ko">2025 KPGA 챔피언스투어 KPGA 레전드 클래식 시리즈 6 (6회)</title>
   </programme>
   
-<programme start="20261104112000 +0900" stop="20261104115500 +0900" channel="SBS스포츠.kr">
-    <title lang="ko">한국시리즈 베이스볼S</title>
+<programme start="20261105040000 +0900" stop="20261105063000 +0900" channel="SBSGolf2.kr">
+    <title lang="ko">2024 KLPGA 대보 하우스디 오픈</title>
   </programme>
   
-<programme start="20261104115500 +0900" stop="20261104143000 +0900" channel="SBS스포츠.kr">
+<programme start="20261105063000 +0900" stop="20261105073000 +0900" channel="SBSGolf2.kr">
+    <title lang="ko">2026 벤제프 클럽챔피언십 (10회)</title>
+  </programme>
+  
+<programme start="20261104145500 +0900" stop="20261104172800 +0900" channel="SBS스포츠.kr">
     <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4라운드</title>
   </programme>
   
-<programme start="20261104143000 +0900" stop="20261104145500 +0900" channel="SBS스포츠.kr">
-    <title lang="ko">2026 KBO 포스트시즌 명승부 BEST</title>
-  </programme>
-  
-<programme start="20261104145500 +0900" stop="20261104173000 +0900" channel="SBS스포츠.kr">
-    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4라운드</title>
-  </programme>
-  
-<programme start="20261104173000 +0900" stop="20261104183000 +0900" channel="SBS스포츠.kr">
+<programme start="20261104172800 +0900" stop="20261104182200 +0900" channel="SBS스포츠.kr">
     <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
   </programme>
   
-<programme start="20261104183000 +0900" stop="20261104184500 +0900" channel="SBS스포츠.kr">
+<programme start="20261104182200 +0900" stop="20261104184500 +0900" channel="SBS스포츠.kr">
     <title lang="ko">26-27 V-리그 클라이맥스</title>
   </programme>
   
-<programme start="20261104184500 +0900" stop="20261104210000 +0900" channel="SBS스포츠.kr">
+<programme start="20261104184500 +0900" stop="20261104211300 +0900" channel="SBS스포츠.kr">
     <title lang="ko">26-27 V-리그 여자부</title>
   </programme>
   
-<programme start="20261104210000 +0900" stop="20261104211500 +0900" channel="SBS스포츠.kr">
-    <title lang="ko">저스트 텐미닛 V</title>
-  </programme>
-  
-<programme start="20261104211500 +0900" stop="20261104213000 +0900" channel="SBS스포츠.kr">
+<programme start="20261104211300 +0900" stop="20261104213000 +0900" channel="SBS스포츠.kr">
     <title lang="ko">2026 KBO 포스트시즌 명승부 BEST</title>
   </programme>
   
-<programme start="20261104213000 +0900" stop="20261104221500 +0900" channel="SBS스포츠.kr">
+<programme start="20261104213000 +0900" stop="20261104222100 +0900" channel="SBS스포츠.kr">
     <title lang="ko">한국시리즈 베이스볼S</title>
   </programme>
   
-<programme start="20261104221500 +0900" stop="20261105004000 +0900" channel="SBS스포츠.kr">
+<programme start="20261104222100 +0900" stop="20261105004300 +0900" channel="SBS스포츠.kr">
     <title lang="ko">2026 KBO 한국시리즈</title>
   </programme>
   
-<programme start="20261105004000 +0900" stop="20261105024000 +0900" channel="SBS스포츠.kr">
+<programme start="20261105004300 +0900" stop="20261105024900 +0900" channel="SBS스포츠.kr">
     <title lang="ko">26-27 V-리그 남자부</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104093000 +0900" channel="EBS2.kr">
-    <title lang="ko">Sesame Street(S54)</title>
+<programme start="20261105024900 +0900" stop="20261105032500 +0900" channel="SBS스포츠.kr">
+    <title lang="ko">한국시리즈 베이스볼S</title>
   </programme>
   
-<programme start="20261104093000 +0900" stop="20261104095000 +0900" channel="EBS2.kr">
-    <title lang="ko">딩동댕 딩동댕</title>
+<programme start="20261105032500 +0900" stop="20261105055500 +0900" channel="SBS스포츠.kr">
+    <title lang="ko">2026 SBS 프로볼링 홍천컵</title>
   </programme>
   
-<programme start="20261104095000 +0900" stop="20261104100000 +0900" channel="EBS2.kr">
-    <title lang="ko">페파 피그</title>
+<programme start="20261105055500 +0900" stop="20261105065500 +0900" channel="SBS스포츠.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104101500 +0900" channel="EBS2.kr">
-    <title lang="ko">지구 영웅 번개맨 (9회)</title>
-  </programme>
-  
-<programme start="20261104101500 +0900" stop="20261104103000 +0900" channel="EBS2.kr">
-    <title lang="ko">지구 영웅 번개맨 (10회)</title>
-  </programme>
-  
-<programme start="20261104103000 +0900" stop="20261104104500 +0900" channel="EBS2.kr">
-    <title lang="ko">최강공룡 미니특공대</title>
-  </programme>
-  
-<programme start="20261104104500 +0900" stop="20261104110000 +0900" channel="EBS2.kr">
-    <title lang="ko">출동! 타요와 소방 구조대</title>
-  </programme>
-  
-<programme start="20261104110000 +0900" stop="20261104113000 +0900" channel="EBS2.kr">
-    <title lang="ko">나의 비밀친구 해치(종합)</title>
-  </programme>
-  
-<programme start="20261104113000 +0900" stop="20261104120000 +0900" channel="EBS2.kr">
-    <title lang="ko">모여라 딩동댕</title>
-  </programme>
-  
-<programme start="20261104120000 +0900" stop="20261104121500 +0900" channel="EBS2.kr">
-    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
-  </programme>
-  
-<programme start="20261104121500 +0900" stop="20261104123000 +0900" channel="EBS2.kr">
-    <title lang="ko">AI 고전 역사를 바꾼 100책</title>
-  </programme>
-  
-<programme start="20261104123000 +0900" stop="20261104124500 +0900" channel="EBS2.kr">
-    <title lang="ko">수상한 방송국</title>
-  </programme>
-  
-<programme start="20261104124500 +0900" stop="20261104130000 +0900" channel="EBS2.kr">
-    <title lang="ko">수상한 방송국</title>
-  </programme>
-  
-<programme start="20261104130000 +0900" stop="20261104133000 +0900" channel="EBS2.kr">
-    <title lang="ko">Sesame Street(S54)</title>
-  </programme>
-  
-<programme start="20261104133000 +0900" stop="20261104134500 +0900" channel="EBS2.kr">
-    <title lang="ko">EBS AI 문학관</title>
-  </programme>
-  
-<programme start="20261104134500 +0900" stop="20261104140000 +0900" channel="EBS2.kr">
-    <title lang="ko">EBS AI 문학관</title>
-  </programme>
-  
-<programme start="20261104140000 +0900" stop="20261104142000 +0900" channel="EBS2.kr">
-    <title lang="ko">기획강연 청년에게(1)</title>
-  </programme>
-  
-<programme start="20261104142000 +0900" stop="20261104150000 +0900" channel="EBS2.kr">
-    <title lang="ko">EBS 평생학교 스페셜</title>
+<programme start="20261105065500 +0900" stop="20261105085500 +0900" channel="SBS스포츠.kr">
+    <title lang="ko">26-27 V-리그 여자부</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104153000 +0900" channel="EBS2.kr">
@@ -26914,36 +27554,28 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">방송시간이 아닙니다(6시부터 방송예정)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104100000 +0900" channel="tbSTV.kr">
-    <title lang="ko">서울거리공연 '구석구석 라이브' (2회)</title>
+<programme start="20261105030000 +0900" stop="20261105060000 +0900" channel="EBS2.kr">
+    <title lang="ko">방송시간이 아닙니다(6시부터 방송예정)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104110000 +0900" channel="tbSTV.kr">
-    <title lang="ko">지구 그 어딘가의 하루 (6회)</title>
+<programme start="20261105060000 +0900" stop="20261105061000 +0900" channel="EBS2.kr">
+    <title lang="ko">매일 10분 영어 - 이현석의 정면돌파 스피킹</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104114000 +0900" channel="tbSTV.kr">
-    <title lang="ko">캠핑 포레스트 (1회)</title>
+<programme start="20261105061000 +0900" stop="20261105062000 +0900" channel="EBS2.kr">
+    <title lang="ko">매일 10분 영어 - 세리나의 누구나 톡톡</title>
   </programme>
   
-<programme start="20261104114000 +0900" stop="20261104120400 +0900" channel="tbSTV.kr">
-    <title lang="ko">슬찬아 학교가자 (6회)</title>
+<programme start="20261105062000 +0900" stop="20261105065000 +0900" channel="EBS2.kr">
+    <title lang="ko">EBSe 생활영어</title>
   </programme>
   
-<programme start="20261104120400 +0900" stop="20261104130000 +0900" channel="tbSTV.kr">
-    <title lang="ko">보는 라디오 변상욱 쇼 (71회)</title>
+<programme start="20261105065000 +0900" stop="20261105070000 +0900" channel="EBS2.kr">
+    <title lang="ko">영어 스토리 타임</title>
   </programme>
   
-<programme start="20261104130000 +0900" stop="20261104133000 +0900" channel="tbSTV.kr">
-    <title lang="ko">눈에 띄는 그녀들 (7회)</title>
-  </programme>
-  
-<programme start="20261104133000 +0900" stop="20261104140000 +0900" channel="tbSTV.kr">
-    <title lang="ko">눈에 띄는 그녀들 (8회)</title>
-  </programme>
-  
-<programme start="20261104140000 +0900" stop="20261104150000 +0900" channel="tbSTV.kr">
-    <title lang="ko">보는 라디오 최일구의 허리케인 라디오 1~2부 (235회)</title>
+<programme start="20261105070000 +0900" stop="20261105073000 +0900" channel="EBS2.kr">
+    <title lang="ko">왕초보 영어 (2836회)</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104160000 +0900" channel="tbSTV.kr">
@@ -27018,20 +27650,56 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">싼맛웨이 (1회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104100000 +0900" channel="JTBC.kr">
-    <title lang="ko">인생의 갈림길 위대한 선택 (41회)</title>
+<programme start="20261105011000 +0900" stop="20261105013000 +0900" channel="tbSTV.kr">
+    <title lang="ko">서울 마블 (6회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104112000 +0900" channel="JTBC.kr">
-    <title lang="ko">한문철의 블랙박스 리뷰 (193회)</title>
+<programme start="20261105013000 +0900" stop="20261105023000 +0900" channel="tbSTV.kr">
+    <title lang="ko">뛰톡 (2회)</title>
   </programme>
   
-<programme start="20261104112000 +0900" stop="20261104122000 +0900" channel="JTBC.kr">
-    <title lang="ko">입만 살았네 (41회)</title>
+<programme start="20261105023000 +0900" stop="20261105024000 +0900" channel="tbSTV.kr">
+    <title lang="ko">5분다큐 사람 스페셜 (5회)</title>
   </programme>
   
-<programme start="20261104122000 +0900" stop="20261104130000 +0900" channel="JTBC.kr">
-    <title lang="ko">톡파원 25시 BEST (186회)</title>
+<programme start="20261105024000 +0900" stop="20261105030000 +0900" channel="tbSTV.kr">
+    <title lang="ko">카약 피싱 쇼 (38회)</title>
+  </programme>
+  
+<programme start="20261105030000 +0900" stop="20261105032000 +0900" channel="tbSTV.kr">
+    <title lang="ko">조시 가르시아와 함께 하는 세계 일주 가이드북 (21회)</title>
+  </programme>
+  
+<programme start="20261105032000 +0900" stop="20261105034000 +0900" channel="tbSTV.kr">
+    <title lang="ko">오늘도 배움 (25회)</title>
+  </programme>
+  
+<programme start="20261105034000 +0900" stop="20261105040000 +0900" channel="tbSTV.kr">
+    <title lang="ko">오늘도 배움 (26회)</title>
+  </programme>
+  
+<programme start="20261105040000 +0900" stop="20261105042900 +0900" channel="tbSTV.kr">
+    <title lang="ko">눈에 띄는 그녀들 (7회)</title>
+  </programme>
+  
+<programme start="20261105042900 +0900" stop="20261105050000 +0900" channel="tbSTV.kr">
+    <title lang="ko">눈에 띄는 그녀들 (8회)</title>
+  </programme>
+  
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="tbSTV.kr">
+    <title lang="ko">시민영상 특이점 (109회)</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105063000 +0900" channel="tbSTV.kr">
+    <title lang="ko">닥터 크리스와 함께하는 세계여행 시즌2 (6회)</title>
+  </programme>
+  
+<programme start="20261105063000 +0900" stop="20261105070000 +0900" channel="tbSTV.kr">
+    <title lang="ko">닥터 크리스와 함께하는 세계여행 시즌2 (7회)</title>
+  </programme>
+  
+<programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="tbSTV.kr">
+    <title lang="ko">서울거리공연 '구석구석 라이브' (2회)</title>
   </programme>
   
 <programme start="20261104130000 +0900" stop="20261104160000 +0900" channel="JTBC.kr">
@@ -27070,32 +27738,28 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">다큐플러스Q 특별판 (10회)</title>
   </programme>
   
-<programme start="20261104080000 +0900" stop="20261104092000 +0900" channel="MBN.kr">
-    <title lang="ko">아침 &amp; 매일경제</title>
+<programme start="20261105013000 +0900" stop="20261105025000 +0900" channel="JTBC.kr">
+    <title lang="ko">냉장고를 부탁해 since 2014 (95회)</title>
   </programme>
   
-<programme start="20261104092000 +0900" stop="20261104093000 +0900" channel="MBN.kr">
-    <title lang="ko">전국네트워크뉴스</title>
+<programme start="20261105025000 +0900" stop="20261105035000 +0900" channel="JTBC.kr">
+    <title lang="ko">JTBC 스페셜 다큐멘터리 (4261회)</title>
   </programme>
   
-<programme start="20261104093000 +0900" stop="20261104103000 +0900" channel="MBN.kr">
-    <title lang="ko">해피라이프 Make Better Next (36회)</title>
+<programme start="20261105035000 +0900" stop="20261105050000 +0900" channel="JTBC.kr">
+    <title lang="ko">JTBC 스페셜 다큐멘터리 (4262회)</title>
   </programme>
   
-<programme start="20261104103000 +0900" stop="20261104113000 +0900" channel="MBN.kr">
-    <title lang="ko">보부상 (31회)</title>
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="JTBC.kr">
+    <title lang="ko">내 몸을 부탁해 (53회)</title>
   </programme>
   
-<programme start="20261104113000 +0900" stop="20261104120000 +0900" channel="MBN.kr">
-    <title lang="ko">꼬마캐리 탐구생활 심화학습 (26회)</title>
+<programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="JTBC.kr">
+    <title lang="ko">중독자들 (137회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104134000 +0900" channel="MBN.kr">
-    <title lang="ko">전설의 사내 (16회)</title>
-  </programme>
-  
-<programme start="20261104134000 +0900" stop="20261104150000 +0900" channel="MBN.kr">
-    <title lang="ko">속풀이쇼 동치미 (722회)</title>
+<programme start="20261105070000 +0900" stop="20261105073000 +0900" channel="JTBC.kr">
+    <title lang="ko">코코몽 3 (6회)</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104160000 +0900" channel="MBN.kr">
@@ -27142,24 +27806,24 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">소나무 (778회)</title>
   </programme>
   
-<programme start="20261104085000 +0900" stop="20261104103000 +0900" channel="채널A.kr">
-    <title lang="ko">김진의 돌직구 쇼</title>
+<programme start="20261105020000 +0900" stop="20261105040000 +0900" channel="MBN.kr">
+    <title lang="ko">[MBN 스페셜 무비] 파더 마더 시스터 브라더</title>
   </programme>
   
-<programme start="20261104103000 +0900" stop="20261104120000 +0900" channel="채널A.kr">
-    <title lang="ko">신랑수업 2 (32회)</title>
+<programme start="20261105040000 +0900" stop="20261105054000 +0900" channel="MBN.kr">
+    <title lang="ko">상남자의 여행법 in 마나도 스페셜 (5회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104130000 +0900" channel="채널A.kr">
-    <title lang="ko">뉴스A LIVE</title>
+<programme start="20261105054000 +0900" stop="20261105060000 +0900" channel="MBN.kr">
+    <title lang="ko">해피라이프 Make Better Next 스페셜 (13회)</title>
   </programme>
   
-<programme start="20261104130000 +0900" stop="20261104140000 +0900" channel="채널A.kr">
-    <title lang="ko">잘 살면 좋잖아 (48회)</title>
+<programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="MBN.kr">
+    <title lang="ko">메디컬 리포트 완벽한 몸 (1회)</title>
   </programme>
   
-<programme start="20261104140000 +0900" stop="20261104150000 +0900" channel="채널A.kr">
-    <title lang="ko">채널A 뉴스특보</title>
+<programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="MBN.kr">
+    <title lang="ko">굿모닝 MBN</title>
   </programme>
   
 <programme start="20261104150000 +0900" stop="20261104155000 +0900" channel="채널A.kr">
@@ -27194,24 +27858,40 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">채널A 토일드라마 너에게 다이브 (11회)</title>
   </programme>
   
-<programme start="20261104075500 +0900" stop="20261104090500 +0900" channel="tvN.kr">
-    <title lang="ko">원더픽 (7회)</title>
+<programme start="20261105012000 +0900" stop="20261105022000 +0900" channel="채널A.kr">
+    <title lang="ko">채널A 스페셜 미스터리 팩트체크 시즌5 (2회)</title>
   </programme>
   
-<programme start="20261104090500 +0900" stop="20261104094000 +0900" channel="tvN.kr">
-    <title lang="ko">유 퀴즈 온 더 블럭 특별판 - 스타 자기님을 찾아서</title>
+<programme start="20261105022000 +0900" stop="20261105025000 +0900" channel="채널A.kr">
+    <title lang="ko">채널A 스페셜 다큐S프라임 (349회)</title>
   </programme>
   
-<programme start="20261104094000 +0900" stop="20261104110500 +0900" channel="tvN.kr">
-    <title lang="ko">100일의 거짓말 (7회)</title>
+<programme start="20261105025000 +0900" stop="20261105032000 +0900" channel="채널A.kr">
+    <title lang="ko">채널A 스페셜 눈에 띄는 그녀들 8 (12회)</title>
   </programme>
   
-<programme start="20261104110500 +0900" stop="20261104124000 +0900" channel="tvN.kr">
-    <title lang="ko">100일의 거짓말 (8회)</title>
+<programme start="20261105032000 +0900" stop="20261105035000 +0900" channel="채널A.kr">
+    <title lang="ko">채널A 스페셜 눈에 띄는 그녀들 8 (13회)</title>
   </programme>
   
-<programme start="20261104124000 +0900" stop="20261104142000 +0900" channel="tvN.kr">
-    <title lang="ko">식스센스: B사이드 (7회)</title>
+<programme start="20261105035000 +0900" stop="20261105040000 +0900" channel="채널A.kr">
+    <title lang="ko">채널A 지진 대응 방송</title>
+  </programme>
+  
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="채널A.kr">
+    <title lang="ko">채널A 스페셜 위대한 미스터리 시즌6 (18회)</title>
+  </programme>
+  
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="채널A.kr">
+    <title lang="ko">생존의 비밀 (62회)</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105065000 +0900" channel="채널A.kr">
+    <title lang="ko">알아야산다 (58회)</title>
+  </programme>
+  
+<programme start="20261105065000 +0900" stop="20261105073000 +0900" channel="채널A.kr">
+    <title lang="ko">몸으로 보는 세상 아모르바디 (64회)</title>
   </programme>
   
 <programme start="20261104142000 +0900" stop="20261104164000 +0900" channel="tvN.kr">
@@ -27222,48 +27902,48 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">나의 유죄인간 (5회)</title>
   </programme>
   
-<programme start="20261104175500 +0900" stop="20261104191000 +0900" channel="tvN.kr">
+<programme start="20261104175500 +0900" stop="20261104191500 +0900" channel="tvN.kr">
     <title lang="ko">나의 유죄인간 (6회)</title>
   </programme>
   
-<programme start="20261104191000 +0900" stop="20261104201000 +0900" channel="tvN.kr">
+<programme start="20261104191500 +0900" stop="20261104201500 +0900" channel="tvN.kr">
     <title lang="ko">잡학자들 (48회)</title>
   </programme>
   
-<programme start="20261104201000 +0900" stop="20261104205000 +0900" channel="tvN.kr">
-    <title lang="ko">식스센스: B사이드 - 진짜와 가짜를 찾아라</title>
+<programme start="20261104201500 +0900" stop="20261104205500 +0900" channel="tvN.kr">
+    <title lang="ko">식스센스: B사이드 - 진짜와 가짜를 찾아라 (7회)</title>
   </programme>
   
-<programme start="20261104205000 +0900" stop="20261104231000 +0900" channel="tvN.kr">
+<programme start="20261104205500 +0900" stop="20261104225500 +0900" channel="tvN.kr">
     <title lang="ko">유 퀴즈 온 더 블럭 (367회)</title>
   </programme>
   
-<programme start="20261104231000 +0900" stop="20261105004000 +0900" channel="tvN.kr">
+<programme start="20261104225500 +0900" stop="20261105002500 +0900" channel="tvN.kr">
     <title lang="ko">100일의 거짓말 (8회)</title>
   </programme>
   
-<programme start="20261105004000 +0900" stop="20261105024000 +0900" channel="tvN.kr">
+<programme start="20261105002500 +0900" stop="20261105021000 +0900" channel="tvN.kr">
     <title lang="ko">텐트 밖은 유럽 노르웨이 (6회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104094000 +0900" channel="Mnet.kr">
-    <title lang="ko">수석연구회 (4회)</title>
+<programme start="20261105021000 +0900" stop="20261105034500 +0900" channel="tvN.kr">
+    <title lang="ko">텐트 밖은 유럽 노르웨이 (7회)</title>
   </programme>
   
-<programme start="20261104094000 +0900" stop="20261104102000 +0900" channel="Mnet.kr">
-    <title lang="ko">조현아의 평범한 목요일 밤 (72회)</title>
+<programme start="20261105034500 +0900" stop="20261105045500 +0900" channel="tvN.kr">
+    <title lang="ko">식스센스: B사이드 - 진짜와 가짜를 찾아라 (2회)</title>
   </programme>
   
-<programme start="20261104102000 +0900" stop="20261104110000 +0900" channel="Mnet.kr">
-    <title lang="ko">최씨크루 (11회)</title>
+<programme start="20261105045500 +0900" stop="20261105060000 +0900" channel="tvN.kr">
+    <title lang="ko">시간관찰자, 더 시크릿 (9회)</title>
   </programme>
   
-<programme start="20261104110000 +0900" stop="20261104120000 +0900" channel="Mnet.kr">
-    <title lang="ko">MUSIC X CURATION (205회)</title>
+<programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="tvN.kr">
+    <title lang="ko">나만의 시크릿 나비효과 (30회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104142000 +0900" channel="Mnet.kr">
-    <title lang="ko">스트릿 월드 파이터 : 디렉터스 워 (5회)</title>
+<programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="tvN.kr">
+    <title lang="ko">원더픽 (1회)</title>
   </programme>
   
 <programme start="20261104142000 +0900" stop="20261104151000 +0900" channel="Mnet.kr">
@@ -27306,24 +27986,24 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">블러드 다이어리 (2회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104101500 +0900" channel="tvNDrama.kr">
-    <title lang="ko">위대한 쇼 (10회)</title>
+<programme start="20261105011000 +0900" stop="20261105024000 +0900" channel="Mnet.kr">
+    <title lang="ko">SUMBAKKOKJIL 2 (7회)</title>
   </programme>
   
-<programme start="20261104101500 +0900" stop="20261104102500 +0900" channel="tvNDrama.kr">
-    <title lang="ko">언니네 산지직송3-네 식구 산지 라이프</title>
+<programme start="20261105024000 +0900" stop="20261105031000 +0900" channel="Mnet.kr">
+    <title lang="ko">최씨크루 (3회)</title>
   </programme>
   
-<programme start="20261104102500 +0900" stop="20261104114000 +0900" channel="tvNDrama.kr">
-    <title lang="ko">나의 유죄인간 (5회)</title>
+<programme start="20261105031000 +0900" stop="20261105041000 +0900" channel="Mnet.kr">
+    <title lang="ko">Music Express (1689회)</title>
   </programme>
   
-<programme start="20261104114000 +0900" stop="20261104125000 +0900" channel="tvNDrama.kr">
-    <title lang="ko">나의 유죄인간 (6회)</title>
+<programme start="20261105041000 +0900" stop="20261105055000 +0900" channel="Mnet.kr">
+    <title lang="ko">연지곤지 : YZKZ (8회)</title>
   </programme>
   
-<programme start="20261104125000 +0900" stop="20261104140500 +0900" channel="tvNDrama.kr">
-    <title lang="ko">반짝이는 워터멜론 (3회)</title>
+<programme start="20261105055000 +0900" stop="20261105071000 +0900" channel="Mnet.kr">
+    <title lang="ko">SUMBAKKOKJIL 2 (4회)</title>
   </programme>
   
 <programme start="20261104140500 +0900" stop="20261104152000 +0900" channel="tvNDrama.kr">
@@ -27362,20 +28042,24 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">나의 유죄인간 (5회)</title>
   </programme>
   
-<programme start="20261104075500 +0900" stop="20261104092000 +0900" channel="tvNShow.kr">
-    <title lang="ko">벌거벗은 한국사2 (2회)</title>
+<programme start="20261105012000 +0900" stop="20261105023000 +0900" channel="tvNDrama.kr">
+    <title lang="ko">나의 유죄인간 (6회)</title>
   </programme>
   
-<programme start="20261104092000 +0900" stop="20261104102500 +0900" channel="tvNShow.kr">
-    <title lang="ko">프리한19 (275회)</title>
+<programme start="20261105023000 +0900" stop="20261105035000 +0900" channel="tvNDrama.kr">
+    <title lang="ko">싸이코패스 다이어리 (12회)</title>
   </programme>
   
-<programme start="20261104102500 +0900" stop="20261104120000 +0900" channel="tvNShow.kr">
-    <title lang="ko">슬기로운 산촌생활 (4회)</title>
+<programme start="20261105035000 +0900" stop="20261105051000 +0900" channel="tvNDrama.kr">
+    <title lang="ko">싸이코패스 다이어리 (13회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104135000 +0900" channel="tvNShow.kr">
-    <title lang="ko">슬기로운 산촌생활 (5회)</title>
+<programme start="20261105051000 +0900" stop="20261105063000 +0900" channel="tvNDrama.kr">
+    <title lang="ko">위대한 쇼 (10회)</title>
+  </programme>
+  
+<programme start="20261105063000 +0900" stop="20261105080000 +0900" channel="tvNDrama.kr">
+    <title lang="ko">위대한 쇼 (12회)</title>
   </programme>
   
 <programme start="20261104135000 +0900" stop="20261104154000 +0900" channel="tvNShow.kr">
@@ -27398,68 +28082,80 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">식스센스: B사이드 (7회)</title>
   </programme>
   
-<programme start="20261104225500 +0900" stop="20261105003500 +0900" channel="tvNShow.kr">
+<programme start="20261104225500 +0900" stop="20261105004500 +0900" channel="tvNShow.kr">
     <title lang="ko">놀라운 토요일 (411회)</title>
   </programme>
   
-<programme start="20261105003500 +0900" stop="20261105024000 +0900" channel="tvNShow.kr">
+<programme start="20261105004500 +0900" stop="20261105024000 +0900" channel="tvNShow.kr">
     <title lang="ko">무쇠소녀단2 (7회)</title>
   </programme>
   
-<programme start="20261104075000 +0900" stop="20261104094000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스UP</title>
+<programme start="20261105024000 +0900" stop="20261105044000 +0900" channel="tvNShow.kr">
+    <title lang="ko">무쇠소녀단2 (8회)</title>
   </programme>
   
-<programme start="20261104094000 +0900" stop="20261104114000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스퀘어 10AM</title>
+<programme start="20261105044000 +0900" stop="20261105065000 +0900" channel="tvNShow.kr">
+    <title lang="ko">무쇠소녀단2 (9회)</title>
   </programme>
   
-<programme start="20261104114000 +0900" stop="20261104135000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스NOW</title>
+<programme start="20261105065000 +0900" stop="20261105090000 +0900" channel="tvNShow.kr">
+    <title lang="ko">진실 혹은 설정: 우아한 인생 (3회)</title>
   </programme>
   
-<programme start="20261104135000 +0900" stop="20261104155000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스퀘어 2PM</title>
+<programme start="20261104132000 +0900" stop="20261104155000 +0900" channel="YTN.kr">
+    <title lang="ko">뉴스특보</title>
   </programme>
   
 <programme start="20261104155000 +0900" stop="20261104175000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스ON</title>
+    <title lang="ko">뉴스특보</title>
   </programme>
   
 <programme start="20261104175000 +0900" stop="20261104195000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스PLUS</title>
+    <title lang="ko">뉴스특보</title>
   </programme>
   
 <programme start="20261104195000 +0900" stop="20261104214000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스퀘어 8PM</title>
+    <title lang="ko">뉴스특보</title>
   </programme>
   
-<programme start="20261104214000 +0900" stop="20261104232000 +0900" channel="YTN.kr">
-    <title lang="ko">뉴스NIGHT</title>
-  </programme>
-  
-<programme start="20261104232000 +0900" stop="20261104235000 +0900" channel="YTN.kr">
-    <title lang="ko">FACT 추적</title>
+<programme start="20261104214000 +0900" stop="20261104235000 +0900" channel="YTN.kr">
+    <title lang="ko">뉴스특보</title>
   </programme>
   
 <programme start="20261104235000 +0900" stop="20261105005000 +0900" channel="YTN.kr">
-    <title lang="ko">YTN 24</title>
+    <title lang="ko">뉴스특보</title>
   </programme>
   
 <programme start="20261105005000 +0900" stop="20261105015000 +0900" channel="YTN.kr">
     <title lang="ko">YTN 24</title>
   </programme>
   
-<programme start="20261104081500 +0900" stop="20261104093000 +0900" channel="KRBD1400001ED">
-    <title lang="ko">연합뉴스TV 뉴스특보</title>
+<programme start="20261105015000 +0900" stop="20261105025000 +0900" channel="YTN.kr">
+    <title lang="ko">YTN 24</title>
   </programme>
   
-<programme start="20261104093000 +0900" stop="20261104113000 +0900" channel="KRBD1400001ED">
-    <title lang="ko">연합뉴스TV 뉴스특보</title>
+<programme start="20261105025000 +0900" stop="20261105032000 +0900" channel="YTN.kr">
+    <title lang="ko">YTN 24</title>
   </programme>
   
-<programme start="20261104113000 +0900" stop="20261104133000 +0900" channel="KRBD1400001ED">
-    <title lang="ko">연합뉴스TV 뉴스특보</title>
+<programme start="20261105032000 +0900" stop="20261105035000 +0900" channel="YTN.kr">
+    <title lang="ko">사이언스 투데이</title>
+  </programme>
+  
+<programme start="20261105035000 +0900" stop="20261105045000 +0900" channel="YTN.kr">
+    <title lang="ko">뉴스퀘어 4AM</title>
+  </programme>
+  
+<programme start="20261105045000 +0900" stop="20261105055000 +0900" channel="YTN.kr">
+    <title lang="ko">뉴스START</title>
+  </programme>
+  
+<programme start="20261105055000 +0900" stop="20261105065000 +0900" channel="YTN.kr">
+    <title lang="ko">뉴스START</title>
+  </programme>
+  
+<programme start="20261105065000 +0900" stop="20261105075000 +0900" channel="YTN.kr">
+    <title lang="ko">뉴스START</title>
   </programme>
   
 <programme start="20261104133000 +0900" stop="20261104162500 +0900" channel="KRBD1400001ED">
@@ -27494,36 +28190,36 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">뉴스 01</title>
   </programme>
   
-<programme start="20261104080900 +0900" stop="20261104091900 +0900" channel="YTN2.kr">
-    <title lang="ko">나는 자연인이다 (632회)</title>
+<programme start="20261105014000 +0900" stop="20261105015000 +0900" channel="KRBD1400001ED">
+    <title lang="ko">스포츠 와이드</title>
   </programme>
   
-<programme start="20261104091900 +0900" stop="20261104103100 +0900" channel="YTN2.kr">
-    <title lang="ko">나는 자연인이다 (633회)</title>
+<programme start="20261105015000 +0900" stop="20261105023000 +0900" channel="KRBD1400001ED">
+    <title lang="ko">뉴스 02</title>
   </programme>
   
-<programme start="20261104103100 +0900" stop="20261104110100 +0900" channel="YTN2.kr">
-    <title lang="ko">여행하기 좋은 날 (18회)</title>
+<programme start="20261105023000 +0900" stop="20261105030000 +0900" channel="KRBD1400001ED">
+    <title lang="ko">투나잇 이슈</title>
   </programme>
   
-<programme start="20261104110100 +0900" stop="20261104113000 +0900" channel="YTN2.kr">
-    <title lang="ko">문화로 여행길 8-85 (6회)</title>
+<programme start="20261105030000 +0900" stop="20261105034000 +0900" channel="KRBD1400001ED">
+    <title lang="ko">뉴스 03</title>
   </programme>
   
-<programme start="20261104113000 +0900" stop="20261104120400 +0900" channel="YTN2.kr">
-    <title lang="ko">찐 캠퍼 (19회)</title>
+<programme start="20261105034000 +0900" stop="20261105042000 +0900" channel="KRBD1400001ED">
+    <title lang="ko">뉴스 04</title>
   </programme>
   
-<programme start="20261104120400 +0900" stop="20261104130300 +0900" channel="YTN2.kr">
-    <title lang="ko">YTN2 스페셜W (143회)</title>
+<programme start="20261105042000 +0900" stop="20261105044500 +0900" channel="KRBD1400001ED">
+    <title lang="ko">뉴스오늘</title>
   </programme>
   
-<programme start="20261104130300 +0900" stop="20261104133500 +0900" channel="YTN2.kr">
-    <title lang="ko">눈에 띄는 그녀들 9 (13회)</title>
+<programme start="20261105044500 +0900" stop="20261105054500 +0900" channel="KRBD1400001ED">
+    <title lang="ko">뉴스오늘</title>
   </programme>
   
-<programme start="20261104133500 +0900" stop="20261104140600 +0900" channel="YTN2.kr">
-    <title lang="ko">메이드 인 K-강소기업 (1회)</title>
+<programme start="20261105054500 +0900" stop="20261105071500 +0900" channel="KRBD1400001ED">
+    <title lang="ko">출발 600</title>
   </programme>
   
 <programme start="20261104140600 +0900" stop="20261104151400 +0900" channel="YTN2.kr">
@@ -27582,64 +28278,84 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">휴먼다큐 시장 사람들 시즌3</title>
   </programme>
   
-<programme start="20261104082900 +0900" stop="20261104104600 +0900" channel="JTBC2.kr">
-    <title lang="ko">[분/노/유/발]한문철의 블랙박스 리뷰 (193회)</title>
+<programme start="20261105013000 +0900" stop="20261105023000 +0900" channel="YTN2.kr">
+    <title lang="ko">YTN2 스페셜W</title>
   </programme>
   
-<programme start="20261104104600 +0900" stop="20261104121000 +0900" channel="JTBC2.kr">
-    <title lang="ko">[대환장]이혼숙려캠프 (106회)</title>
+<programme start="20261105023000 +0900" stop="20261105033000 +0900" channel="YTN2.kr">
+    <title lang="ko">테마 뉴전사</title>
   </programme>
   
-<programme start="20261104121000 +0900" stop="20261104135300 +0900" channel="JTBC2.kr">
-    <title lang="ko">[김풍매직X국대특집]냉장고를 부탁해 since 2014 (95회)</title>
+<programme start="20261105033000 +0900" stop="20261105040000 +0900" channel="YTN2.kr">
+    <title lang="ko">산업실록 대한민국 산업 비사</title>
   </programme>
   
-<programme start="20261104135300 +0900" stop="20261104150800 +0900" channel="JTBC2.kr">
+<programme start="20261105040000 +0900" stop="20261105043000 +0900" channel="YTN2.kr">
+    <title lang="ko">황금나침반 2025</title>
+  </programme>
+  
+<programme start="20261105043000 +0900" stop="20261105050000 +0900" channel="YTN2.kr">
+    <title lang="ko">찐 캠퍼</title>
+  </programme>
+  
+<programme start="20261105050000 +0900" stop="20261105053000 +0900" channel="YTN2.kr">
+    <title lang="ko">이프랭크</title>
+  </programme>
+  
+<programme start="20261105053000 +0900" stop="20261105063000 +0900" channel="YTN2.kr">
+    <title lang="ko">순정시대</title>
+  </programme>
+  
+<programme start="20261105063000 +0900" stop="20261105070000 +0900" channel="YTN2.kr">
+    <title lang="ko">힐링 앤 요가</title>
+  </programme>
+  
+<programme start="20261105070000 +0900" stop="20261105073000 +0900" channel="YTN2.kr">
+    <title lang="ko">눈에 띄는 그녀들 9</title>
+  </programme>
+  
+<programme start="20261104135200 +0900" stop="20261104150700 +0900" channel="JTBC2.kr">
     <title lang="ko">[신인감독 김연경]아는 형님 (239회)</title>
   </programme>
   
-<programme start="20261104150800 +0900" stop="20261104162800 +0900" channel="JTBC2.kr">
+<programme start="20261104150700 +0900" stop="20261104162700 +0900" channel="JTBC2.kr">
     <title lang="ko">[연속방송]파이널 테이블 (3회)</title>
   </programme>
   
-<programme start="20261104162800 +0900" stop="20261104174900 +0900" channel="JTBC2.kr">
+<programme start="20261104162700 +0900" stop="20261104174900 +0900" channel="JTBC2.kr">
     <title lang="ko">[연속방송]파이널 테이블 (4회)</title>
   </programme>
   
-<programme start="20261104174900 +0900" stop="20261104193100 +0900" channel="JTBC2.kr">
-    <title lang="ko">[김풍매직X국대특집]냉장고를 부탁해 since 2014 (95회)</title>
+<programme start="20261104174900 +0900" stop="20261104192500 +0900" channel="JTBC2.kr">
+    <title lang="ko">[펜싱 금메달-오상욱]냉장고를 부탁해 since 2014 (94회)</title>
   </programme>
   
-<programme start="20261104193100 +0900" stop="20261104214600 +0900" channel="JTBC2.kr">
+<programme start="20261104192500 +0900" stop="20261104214200 +0900" channel="JTBC2.kr">
     <title lang="ko">[분/노/유/발]한문철의 블랙박스 리뷰 (193회)</title>
   </programme>
   
-<programme start="20261104214600 +0900" stop="20261104232700 +0900" channel="JTBC2.kr">
-    <title lang="ko">[김풍매직X국대특집]냉장고를 부탁해 since 2014 (95회)</title>
+<programme start="20261104214200 +0900" stop="20261104232700 +0900" channel="JTBC2.kr">
+    <title lang="ko">[이선민X코쿤]냉장고를 부탁해 since 2014 (92회)</title>
   </programme>
   
 <programme start="20261104232700 +0900" stop="20261105012200 +0900" channel="JTBC2.kr">
     <title lang="ko">[바로 보는 본방]톡파원 25시 (231회)</title>
   </programme>
   
-<programme start="20261104073700 +0900" stop="20261104092400 +0900" channel="JTBC4.kr">
-    <title lang="ko">[리더의 조건] 강연배틀쇼 사기꾼들 (6회)</title>
+<programme start="20261105012200 +0900" stop="20261105031200 +0900" channel="JTBC2.kr">
+    <title lang="ko">[최신]톡파원 25시 (231회)</title>
   </programme>
   
-<programme start="20261104092400 +0900" stop="20261104111300 +0900" channel="JTBC4.kr">
-    <title lang="ko">이혼숙려캠프 (105회)</title>
+<programme start="20261105031200 +0900" stop="20261105045500 +0900" channel="JTBC2.kr">
+    <title lang="ko">[이승철X우즈]아는 형님 (549회)</title>
   </programme>
   
-<programme start="20261104111300 +0900" stop="20261104121100 +0900" channel="JTBC4.kr">
-    <title lang="ko">[다시 보는 대한민국 사건사고] 사건반장 (2926회)</title>
+<programme start="20261105045500 +0900" stop="20261105060000 +0900" channel="JTBC2.kr">
+    <title lang="ko">사건반장 (2927회)</title>
   </programme>
   
-<programme start="20261104121100 +0900" stop="20261104131200 +0900" channel="JTBC4.kr">
-    <title lang="ko">밥은영 (16회)</title>
-  </programme>
-  
-<programme start="20261104131200 +0900" stop="20261104142600 +0900" channel="JTBC4.kr">
-    <title lang="ko">한문철의 블랙박스 리뷰 (192회)</title>
+<programme start="20261105060000 +0900" stop="20261105074000 +0900" channel="JTBC2.kr">
+    <title lang="ko">[이효리X서장훈]연애전쟁 (19회)</title>
   </programme>
   
 <programme start="20261104142600 +0900" stop="20261104155900 +0900" channel="JTBC4.kr">
@@ -27674,20 +28390,20 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">[지옥에 대하여] 강연배틀쇼 사기꾼들 (23회)</title>
   </programme>
   
-<programme start="20261104080000 +0900" stop="20261104090500 +0900" channel="tvNStory.kr">
-    <title lang="ko">나만의 시크릿, 나비효과 (30회)</title>
+<programme start="20261105015400 +0900" stop="20261105032400 +0900" channel="JTBC4.kr">
+    <title lang="ko">[영화의 황금기를 찾아서] 방구석 1열 (34회)</title>
   </programme>
   
-<programme start="20261104090500 +0900" stop="20261104111000 +0900" channel="tvNStory.kr">
-    <title lang="ko">언더커버 셰프 : 멀리서 찾아온 벗 (1회)</title>
+<programme start="20261105032400 +0900" stop="20261105043600 +0900" channel="JTBC4.kr">
+    <title lang="ko">이혼숙려캠프 (87회)</title>
   </programme>
   
-<programme start="20261104111000 +0900" stop="20261104125000 +0900" channel="tvNStory.kr">
-    <title lang="ko">이호선 상담소 (39회)</title>
+<programme start="20261105043600 +0900" stop="20261105060000 +0900" channel="JTBC4.kr">
+    <title lang="ko">이혼숙려캠프 (88회)</title>
   </programme>
   
-<programme start="20261104125000 +0900" stop="20261104145000 +0900" channel="tvNStory.kr">
-    <title lang="ko">남겨서 뭐하게 (65회)</title>
+<programme start="20261105060000 +0900" stop="20261105072000 +0900" channel="JTBC4.kr">
+    <title lang="ko">[다시보고 싶은 명작] 밀회 (11회)</title>
   </programme>
   
 <programme start="20261104145000 +0900" stop="20261104161000 +0900" channel="tvNStory.kr">
@@ -27718,20 +28434,16 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">슬기로운 의사생활 (11회)</title>
   </programme>
   
-<programme start="20261104083000 +0900" stop="20261104093000 +0900" channel="채널A플러스.kr">
-    <title lang="ko">[영천 여행] 고두심이 좋아서 (27회)</title>
+<programme start="20261105022000 +0900" stop="20261105040000 +0900" channel="tvNStory.kr">
+    <title lang="ko">슬기로운 의사생활 (12회)</title>
   </programme>
   
-<programme start="20261104093000 +0900" stop="20261104105000 +0900" channel="채널A플러스.kr">
-    <title lang="ko">[100일의 진실] 드라마 마녀 (4회)</title>
+<programme start="20261105040000 +0900" stop="20261105055000 +0900" channel="tvNStory.kr">
+    <title lang="ko">내 새끼의 연애 2 (4회)</title>
   </programme>
   
-<programme start="20261104105000 +0900" stop="20261104122000 +0900" channel="채널A플러스.kr">
-    <title lang="ko">[입시 서바이벌] 티처스3: 재수전쟁 (3회)</title>
-  </programme>
-  
-<programme start="20261104122000 +0900" stop="20261104134000 +0900" channel="채널A플러스.kr">
-    <title lang="ko">탐정들의 영업비밀 충격실화극 (76회)</title>
+<programme start="20261105055000 +0900" stop="20261105074000 +0900" channel="tvNStory.kr">
+    <title lang="ko">내 새끼의 연애 2 (5회)</title>
   </programme>
   
 <programme start="20261104134000 +0900" stop="20261104151000 +0900" channel="채널A플러스.kr">
@@ -27766,24 +28478,36 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">[방금 놓친] 개와 늑대의 시간 2 (41회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104101000 +0900" channel="중화TV.kr">
-    <title lang="ko">삼국지덕후콘서트 (4회)</title>
+<programme start="20261105015000 +0900" stop="20261105030000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">탐정들의 영업비밀 충격실화극 (47회)</title>
   </programme>
   
-<programme start="20261104101000 +0900" stop="20261104111000 +0900" channel="중화TV.kr">
-    <title lang="ko">판관 포청천 : 개봉부 사건일지 (21회)</title>
+<programme start="20261105030000 +0900" stop="20261105033000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">채널A 스페셜 과학자들 (7회)</title>
   </programme>
   
-<programme start="20261104111000 +0900" stop="20261104121000 +0900" channel="중화TV.kr">
-    <title lang="ko">판관 포청천 : 개봉부 사건일지 (22회)</title>
+<programme start="20261105033000 +0900" stop="20261105040000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">채널A 스페셜 과학자들 (8회)</title>
   </programme>
   
-<programme start="20261104121000 +0900" stop="20261104131000 +0900" channel="중화TV.kr">
-    <title lang="ko">백화살 (31회)</title>
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">채널A 스페셜 X파일:외계인의 흔적 시즌17 (12회)</title>
   </programme>
   
-<programme start="20261104131000 +0900" stop="20261104141000 +0900" channel="중화TV.kr">
-    <title lang="ko">투파창궁 : 돌아온 소년 (23회)</title>
+<programme start="20261105050000 +0900" stop="20261105053000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">채널A 스페셜 눈에 띄는 그녀들 8 (7회)</title>
+  </programme>
+  
+<programme start="20261105053000 +0900" stop="20261105063000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">메디컬 다이어리 (3회)</title>
+  </programme>
+  
+<programme start="20261105063000 +0900" stop="20261105070000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">브랜딩 코리아 (18회)</title>
+  </programme>
+  
+<programme start="20261105070000 +0900" stop="20261105083000 +0900" channel="채널A플러스.kr">
+    <title lang="ko">[기막힌 이중생활] 탐정들의 영업비밀 (134회)</title>
   </programme>
   
 <programme start="20261104141000 +0900" stop="20261104151000 +0900" channel="중화TV.kr">
@@ -27834,28 +28558,28 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">70억의 선택 (85회)</title>
   </programme>
   
-<programme start="20261104090000 +0900" stop="20261104100000 +0900" channel="AUTO.국회방송">
-    <title lang="ko">히어로(law) (48회)</title>
+<programme start="20261105020000 +0900" stop="20261105031000 +0900" channel="중화TV.kr">
+    <title lang="ko">제26회 농심배 세계바둑최강전 (46회)</title>
   </programme>
   
-<programme start="20261104100000 +0900" stop="20261104120000 +0900" channel="AUTO.국회방송">
-    <title lang="ko">예산결산특별위원회</title>
+<programme start="20261105031000 +0900" stop="20261105040000 +0900" channel="중화TV.kr">
+    <title lang="ko">제26회 농심배 세계바둑최강전 (47회)</title>
   </programme>
   
-<programme start="20261104120000 +0900" stop="20261104121000 +0900" channel="AUTO.국회방송">
-    <title lang="ko">헌법을 만나다 내 인생의 1조 1항 (26회)</title>
+<programme start="20261105040000 +0900" stop="20261105051000 +0900" channel="중화TV.kr">
+    <title lang="ko">BEST 초점국 (14회)</title>
   </programme>
   
-<programme start="20261104121000 +0900" stop="20261104130000 +0900" channel="AUTO.국회방송">
-    <title lang="ko">세계테마기행 2 (597회)</title>
+<programme start="20261105051000 +0900" stop="20261105060000 +0900" channel="중화TV.kr">
+    <title lang="ko">위클리 차이나우 (240회)</title>
   </programme>
   
-<programme start="20261104130000 +0900" stop="20261104133000 +0900" channel="AUTO.국회방송">
-    <title lang="ko">국회라이브1</title>
+<programme start="20261105060000 +0900" stop="20261105065000 +0900" channel="중화TV.kr">
+    <title lang="ko">위클리 차이나우 (241회)</title>
   </programme>
   
-<programme start="20261104133000 +0900" stop="20261104140000 +0900" channel="AUTO.국회방송">
-    <title lang="ko">요즘 군대 (17회)</title>
+<programme start="20261105065000 +0900" stop="20261105075000 +0900" channel="중화TV.kr">
+    <title lang="ko">술맛 나는 여행 : 주유천하 (9회)</title>
   </programme>
   
 <programme start="20261104140000 +0900" stop="20261104180000 +0900" channel="AUTO.국회방송">
@@ -27900,6 +28624,38 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
   
 <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="AUTO.국회방송">
     <title lang="ko">동물의 왕국 TOP 20 (1회)</title>
+  </programme>
+  
+<programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">하늘과 땅 사이의 산티아고 길 (7회)</title>
+  </programme>
+  
+<programme start="20261105030000 +0900" stop="20261105033000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">역전의 부자농부 (89회)</title>
+  </programme>
+  
+<programme start="20261105033000 +0900" stop="20261105040000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">마에스트로 명장 (4회)</title>
+  </programme>
+  
+<programme start="20261105040000 +0900" stop="20261105050000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">세계문화유산 탐방기 (3회)</title>
+  </programme>
+  
+<programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">세계테마기행 2 (623회)</title>
+  </programme>
+  
+<programme start="20261105060000 +0900" stop="20261105063000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">이야기를 담다 (42회)</title>
+  </programme>
+  
+<programme start="20261105063000 +0900" stop="20261105070000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">산업실록 대한민국 산업 비사 (20회)</title>
+  </programme>
+  
+<programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="AUTO.국회방송">
+    <title lang="ko">지구 대서사 탄생과 멸종의 역사 (5회)</title>
   </programme>
   
 </tv>
