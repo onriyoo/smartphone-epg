@@ -73,9 +73,29 @@
         "Name": "연합뉴스TV"
       },
       {
+        "ServiceId": "51",
+        "Id": "SPOTV.kr",
+        "Name": "SPOTV"
+      },
+      {
+        "ServiceId": "52",
+        "Id": "SPOTV2.kr",
+        "Name": "SPOTV2"
+      },
+      {
         "ServiceId": "135",
         "Id": "AUTO.spotvplus",
         "Name": "SPOTV PLUS"
+      },
+      {
+        "ServiceId": "59",
+        "Id": "KBS N SPORTS.kr",
+        "Name": "KBS N Sports"
+      },
+      {
+        "ServiceId": "60",
+        "Id": "MBC스포츠 플러스.kr",
+        "Name": "MBC SPORTS+"
       },
       {
         "ServiceId": "58",
@@ -98,9 +118,19 @@
         "Name": "tvN SPORTS"
       },
       {
+        "ServiceId": "61",
+        "Id": "JTBC SPORTS.kr",
+        "Name": "JTBC SPORTS"
+      },
+      {
         "ServiceId": "56",
         "Id": "JTBCGolf.kr",
         "Name": "JTBC Golf"
+      },
+      {
+        "ServiceId": "70",
+        "Id": "ENA SPORTS.kr",
+        "Name": "ENA SPORTS"
       },
       {
         "ServiceId": "133",
@@ -238,9 +268,29 @@
         "Name": "Mnet"
       },
       {
+        "ServiceId": "87",
+        "Id": "KSTAR.kr",
+        "Name": "K STAR"
+      },
+      {
+        "ServiceId": "1",
+        "Id": "ENA.kr",
+        "Name": "ENA"
+      },
+      {
+        "ServiceId": "73",
+        "Id": "AsiaN.kr",
+        "Name": "AsiaN"
+      },
+      {
         "ServiceId": "998",
         "Id": "E채널.kr",
         "Name": "E채널"
+      },
+      {
+        "ServiceId": "26",
+        "Id": "OBS.kr",
+        "Name": "OBS"
       },
       {
         "ServiceId": "81",
@@ -251,16 +301,46 @@
         "ServiceId": "53",
         "Id": "IBSPORTS.kr",
         "Name": "IB SPORTS"
-      },  
+      },
+      {
+        "ServiceId": "85",
+        "Id": "코미디TV.kr",
+        "Name": "코미디TV"
+      },
+      {
+        "ServiceId": "67",
+        "Id": "GTV.kr",
+        "Name": "GTV"
+      },
+      {
+        "ServiceId": "86",
+        "Id": "OLIFE.kr",
+        "Name": "OLIFE"
+      },
+      {
+        "ServiceId": "50",
+        "Id": "더라이프.kr",
+        "Name": "더라이프"
+      },
       {
         "ServiceId": "266",
         "Id": "AUTO.더라이프2",
         "Name": "더라이프2"
       },
       {
+        "ServiceId": "144",
+        "Id": "실버아이TV.kr",
+        "Name": "실버아이TV"
+      },
+      {
         "ServiceId": "110",
         "Id": "중화TV.kr",
         "Name": "중화TV"
+      },
+      {
+        "ServiceId": "165",
+        "Id": "AUTO.채널i",
+        "Name": "채널i"
       },
       {
         "ServiceId": "113",
@@ -321,6 +401,26 @@
         "ServiceId": "68",
         "Id": "kortv.cntv",
         "Name": "CNTV"
+      },
+      {
+        "ServiceId": "126",
+        "Id": "AUTO.브레인tv",
+        "Name": "브레인TV"
+      },
+      {
+        "ServiceId": "122",
+        "Id": "바둑TV.kr",
+        "Name": "바둑TV"
+      },
+      {
+        "ServiceId": "123",
+        "Id": "K바둑.kr",
+        "Name": "K바둑"
+      },
+      {
+        "ServiceId": "120",
+        "Id": "FTV.kr",
+        "Name": "FTV"
       },
       {
         "ServiceId": "226",
@@ -568,118 +668,12 @@
         "ServiceId": "케이블 KTV 국민방송",
         "Id": "AUTO.ktv국민방송",
         "Name": "KTV 국민방송"
-      },
-            {
-        "ServiceId": "케이블 채널i",
-        "Id": "AUTO.채널i",
-        "Name": "채널i"
-      },
-      {
-        "ServiceId": "케이블 실버아이TV",
-        "Id": "실버아이TV.kr",
-        "Name": "실버아이TV"
-      },
-      {
-        "ServiceId": "케이블 더라이프",
-        "Id": "더라이프.kr",
-        "Name": "더라이프"
-      },
-      {
-        "ServiceId": "케이블 OLIFE",
-        "Id": "OLIFE.kr",
-        "Name": "OLIFE"
-      },
-      {
-        "ServiceId": "케이블 코미디TV",
-        "Id": "코미디TV.kr",
-        "Name": "코미디TV"
-      },
-      {
-        "ServiceId": "지상파 OBS 경인TV",
-        "Id": "OBS.kr",
-        "Name": "OBS"
-      },
-      {
-        "ServiceId": "케이블 Asia N",
-        "Id": "AsiaN.kr",
-        "Name": "AsiaN"
-      },
-      {
-        "ServiceId": "케이블 ENA",
-        "Id": "ENA.kr",
-        "Name": "ENA"
-      },
-      {
-        "ServiceId": "케이블 K star",
-        "Id": "KSTAR.kr",
-        "Name": "K STAR"
-      },
-      {
-        "ServiceId": "케이블 브레인TV",
-        "Id": "AUTO.브레인tv",
-        "Name": "브레인TV"
-      },
-      {
-             "ServiceId": "케이블 바둑TV",
-          "Id": "바둑TV.kr",
-          "Name": "바둑TV"
-        },
-        {
-          "ServiceId": "케이블 K바둑",
-          "Id": "K바둑.kr",
-          "Name": "K바둑"
-        },
-        {
-          "ServiceId": "케이블 한국낚시방송",
-          "Id": "AUTO.한국낚시방송",
-          "Name": "한국낚시방송"
-        },
-        {
-          "ServiceId": "케이블 FTV",
-          "Id": "FTV.kr",
-          "Name": "FTV"
-        },
-        {
-          "ServiceId": "케이블 GTV",
-          "Id": "GTV.kr",
-          "Name": "GTV"
-        }
+      }
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": [
-  {
-    "ServiceId": "2876055",
-    "Id": "SPOTV.kr",
-    "Name": "SPOTV"
+    "MY_CHANNELS": []
   },
-  {
-    "ServiceId": "5286701",
-    "Id": "SPOTV2.kr",
-    "Name": "SPOTV2"
-  },
-  {
-    "ServiceId": "814861",
-    "Id": "MBC스포츠 플러스.kr",
-    "Name": "MBC SPORTS+"
-  },
-  {
-    "ServiceId": "814837",
-    "Id": "KBS N SPORTS.kr",
-    "Name": "KBS N SPORTS"
-  },
-  {
-    "ServiceId": "5561517",
-    "Id": "ENA SPORTS.kr",
-    "Name": "ENA SPORTS"
-  },
-  {
-    "ServiceId": "815499",
-    "Id": "JTBC SPORTS.kr",
-    "Name": "JTBC SPORTS"
-  }
-]
-    },
   "TVING": {
     "MY_CHANNELS": [
       {
