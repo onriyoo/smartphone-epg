@@ -275,6 +275,48 @@
     <display-name>18 GTV</display-name>
     <display-name>18 DAUM</display-name>
   </channel>
+  <channel id="SPOTV.kr">
+    <display-name>SPOTV</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>0</display-name>
+    <display-name>0 SPOTV</display-name>
+    <display-name>0 NAVER</display-name>
+  </channel>
+  <channel id="SPOTV2.kr">
+    <display-name>SPOTV2</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>1</display-name>
+    <display-name>1 SPOTV2</display-name>
+    <display-name>1 NAVER</display-name>
+  </channel>
+  <channel id="MBC스포츠 플러스.kr">
+    <display-name>MBC SPORTS+</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>2</display-name>
+    <display-name>2 MBC SPORTS+</display-name>
+    <display-name>2 NAVER</display-name>
+  </channel>
+  <channel id="KBS N SPORTS.kr">
+    <display-name>KBS N SPORTS</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>3</display-name>
+    <display-name>3 KBS N SPORTS</display-name>
+    <display-name>3 NAVER</display-name>
+  </channel>
+  <channel id="ENA SPORTS.kr">
+    <display-name>ENA SPORTS</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>4</display-name>
+    <display-name>4 ENA SPORTS</display-name>
+    <display-name>4 NAVER</display-name>
+  </channel>
+  <channel id="JTBC SPORTS.kr">
+    <display-name>JTBC SPORTS</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>5</display-name>
+    <display-name>5 JTBC SPORTS</display-name>
+    <display-name>5 NAVER</display-name>
+  </channel>
   <channel id="AUTO.sbsno1뉴스라이브">
     <display-name>SBS No.1 뉴스라이브</display-name>
     <display-name>TVING</display-name>
@@ -48415,19 +48457,1958 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>19세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105073000 +0900" stop="20261105120000 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">모닝와이드</title>
-    <sub-title lang="ko">3부</sub-title>
-    <desc lang="ko">모닝와이드
-부제 : 3부
-출연 : 김석재,최혜림
+  <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집, 11/4</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집, 11/4
+방송 : 재방송
 등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김석재</actor>
-      <actor>최혜림</actor>
-    </credits>
+    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔피언스리그 MD4 리뷰, 11/4</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔피언스리그 MD4 리뷰, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030000 +0900" stop="20261105050000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 3~4</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+부제 : 매치데이 3~4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105070000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">대한민국 슈퍼 1000 시리즈 우승 TOP 10</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 대한민국 슈퍼 1000 시리즈 우승 TOP 10
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105070000 +0900" stop="20261105083000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 여자프로농구</title>
+    <sub-title lang="ko">신한은행:우리은행, 11/4</sub-title>
+    <desc lang="ko">26-27 여자프로농구
+부제 : 신한은행:우리은행, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105083000 +0900" stop="20261105103000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO리그 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105103000 +0900" stop="20261105110000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 Golf</title>
+    <desc lang="ko">스포타임 Golf
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105150000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식
+부제 : 1R
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105150000 +0900" stop="20261105170000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식
+부제 : 1R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105180000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">[오늘 경기] 26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105190000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105210000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO리그 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105213000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트</title>
+    <sub-title lang="ko">32강, 장우진</sub-title>
+    <desc lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트
+부제 : 32강, 장우진
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105213000 +0900" stop="20261105230000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106010000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106010000 +0900" stop="20261106013000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">10월 월간 리뷰</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 10월 월간 리뷰
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106013000 +0900" stop="20261106030000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106040000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔피언스리그 MD4 리뷰, 11/5</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔피언스리그 MD4 리뷰, 11/5
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106060000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 챔피언스리그 결승 히스토리</title>
+    <desc lang="ko">스포타임 챔피언스리그 결승 히스토리
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106080000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO리그 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106090000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106090000 +0900" stop="20261106100000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 한국시리즈</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 한국시리즈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0900" stop="20261106110000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">유로파-컨퍼런스리그</sub-title>
+    <desc lang="ko">[오늘 경기] 스포타임 풋볼 하이라이트
+부제 : 유로파-컨퍼런스리그
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106150000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식
+부제 : 2R
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106150000 +0900" stop="20261106170000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식
+부제 : 2R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106170000 +0900" stop="20261106185000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔스-유로파 주간 H/L, 11월 1주차</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔스-유로파 주간 H/L, 11월 1주차
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106185000 +0900" stop="20261106210000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 여자프로농구</title>
+    <sub-title lang="ko">하나은행:KB스타즈</sub-title>
+    <desc lang="ko">26-27 여자프로농구
+부제 : 하나은행:KB스타즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO리그 역전 명승부</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO리그 역전 명승부
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">3차전, KT:삼성, 11/6</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 KBO리그 한국시리즈 하이라이트
+부제 : 3차전, KT:삼성, 11/6
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105003000 +0900" stop="20261105020000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 탁구</title>
+    <sub-title lang="ko">대한민국 2026 승리 특집, ~11/4</sub-title>
+    <desc lang="ko">스포타임 탁구
+부제 : 대한민국 2026 승리 특집, ~11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105050000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈
+부제 : 2차전, 삼성:KT, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티 시즌1</title>
+    <desc lang="ko">런 더 시티 시즌1
+방송 : 재방송
+등급 : 15세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105070000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">GD LESSON 고덕호</title>
+    <sub-title lang="ko">정명훈-윤석민 편</sub-title>
+    <desc lang="ko">GD LESSON 고덕호
+부제 : 정명훈-윤석민 편
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105070000 +0900" stop="20261105080000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집, 11/4</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105093000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">[안세영 금메달] 2026 아시안게임</title>
+    <sub-title lang="ko">배드민턴 여자 단식, 안세영</sub-title>
+    <desc lang="ko">[안세영 금메달] 2026 아시안게임
+부제 : 배드민턴 여자 단식, 안세영
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105093000 +0900" stop="20261105110000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 탁구</title>
+    <sub-title lang="ko">대한민국 2026 승리 특집</sub-title>
+    <desc lang="ko">스포타임 탁구
+부제 : 대한민국 2026 승리 특집
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105130000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">[오늘 경기] 26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">[오늘 경기] 26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105150000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105150000 +0900" stop="20261105160000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">[오늘 경기] 26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">[오늘 경기] 26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105170000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105173000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">10월 월간 리뷰</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 10월 월간 리뷰
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105173000 +0900" stop="20261105183000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 한국시리즈, ~11/4</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 한국시리즈, ~11/4
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105183000 +0900" stop="20261105203000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105203000 +0900" stop="20261105210000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">10월 월간 리뷰</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 10월 월간 리뷰
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106003000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106003000 +0900" stop="20261106020000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106030000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106043000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 메이저리그</title>
+    <sub-title lang="ko">이정후 2026 시즌 정주행</sub-title>
+    <desc lang="ko">스포타임 메이저리그
+부제 : 이정후 2026 시즌 정주행
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106043000 +0900" stop="20261106070000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">안세영 2025 우승 타임라인</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 안세영 2025 우승 타임라인
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106070000 +0900" stop="20261106083000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <sub-title lang="ko">매치데이 4</sub-title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+부제 : 매치데이 4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106083000 +0900" stop="20261106093000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티 시즌1</title>
+    <desc lang="ko">런 더 시티 시즌1
+방송 : 재방송
+등급 : 15세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106093000 +0900" stop="20261106110000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106130000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106130000 +0900" stop="20261106143000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔스-유로파 주간 H/L, 11월 1주차</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔스-유로파 주간 H/L, 11월 1주차
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106143000 +0900" stop="20261106160000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106180000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106180000 +0900" stop="20261106190000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">런 더 시티 시즌1</title>
+    <desc lang="ko">런 더 시티 시즌1
+방송 : 재방송
+등급 : 15세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106190000 +0900" stop="20261106210000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 메이저리그</title>
+    <sub-title lang="ko">류현진 LA 다저스 명경기 TOP 8</sub-title>
+    <desc lang="ko">스포타임 메이저리그
+부제 : 류현진 LA 다저스 명경기 TOP 8
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">주간 H/L, 11월 1주차</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 주간 H/L, 11월 1주차
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 한국시리즈 3차전</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 한국시리즈 3차전
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="SPOTV2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030000 +0900" stop="20261105050000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 NFL</title>
+    <sub-title lang="ko">미네소타 : 디트로이트</sub-title>
+    <desc lang="ko">2026 NFL
+부제 : 미네소타 : 디트로이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105050000 +0900" stop="20261105055900 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">NH농협 PBA 챔피언십 2026-2027</title>
+    <sub-title lang="ko">16강, 오태준 : 마르티네스</sub-title>
+    <desc lang="ko">NH농협 PBA 챔피언십 2026-2027
+부제 : 16강, 오태준 : 마르티네스
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105055900 +0900" stop="20261105071000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">레전드 마스터스 골프</title>
+    <desc lang="ko">레전드 마스터스 골프
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105071000 +0900" stop="20261105082500 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">레전드 마스터스 골프</title>
+    <desc lang="ko">레전드 마스터스 골프
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105082500 +0900" stop="20261105100000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차전, 삼성 : KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차전, 삼성 : KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105100000 +0900" stop="20261105122300 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 NFL</title>
+    <sub-title lang="ko">캔자스시티 : 덴버</sub-title>
+    <desc lang="ko">2026 NFL
+부제 : 캔자스시티 : 덴버
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105122300 +0900" stop="20261105125000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105125000 +0900" stop="20261105143900 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">KB스타뱅킹 2026-2027 여자프로농구</title>
+    <sub-title lang="ko">신한은행 : 우리은행</sub-title>
+    <desc lang="ko">KB스타뱅킹 2026-2027 여자프로농구
+부제 : 신한은행 : 우리은행
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105143900 +0900" stop="20261105145400 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 KBO 한국시리즈 하이라이트</title>
+    <desc lang="ko">2026 KBO 한국시리즈 하이라이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145400 +0900" stop="20261105155300 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105155300 +0900" stop="20261105180500 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차전, 삼성 : KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차전, 삼성 : KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180500 +0900" stop="20261105190100 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190100 +0900" stop="20261105210000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026-2027 동아시아 슈퍼리그</title>
+    <sub-title lang="ko">KCC : 마카오 호우촌</sub-title>
+    <desc lang="ko">2026-2027 동아시아 슈퍼리그
+부제 : KCC : 마카오 호우촌
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">1차전, 삼성 : KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 1차전, 삼성 : KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106010000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차전, 삼성 : KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차전, 삼성 : KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106010000 +0900" stop="20261106030000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026-2027 동아시아 슈퍼리그</title>
+    <sub-title lang="ko">KCC : 마카오 호우촌</sub-title>
+    <desc lang="ko">2026-2027 동아시아 슈퍼리그
+부제 : KCC : 마카오 호우촌
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106050000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 NFL</title>
+    <sub-title lang="ko">캔자스시티 : 덴버</sub-title>
+    <desc lang="ko">2026 NFL
+부제 : 캔자스시티 : 덴버
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106050000 +0900" stop="20261106060000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">NH농협 PBA 챔피언십 2026-2027</title>
+    <sub-title lang="ko">16강, 조건휘 : 강동궁</sub-title>
+    <desc lang="ko">NH농협 PBA 챔피언십 2026-2027
+부제 : 16강, 조건휘 : 강동궁
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106070000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">레전드 마스터스 골프</title>
+    <desc lang="ko">레전드 마스터스 골프
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106070000 +0900" stop="20261106080000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">레전드 마스터스 골프</title>
+    <desc lang="ko">레전드 마스터스 골프
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106083000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 NFL Game day</title>
+    <sub-title lang="ko">7주차</sub-title>
+    <desc lang="ko">2026 NFL Game day
+부제 : 7주차
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106083000 +0900" stop="20261106100000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 NFL 하이라이트</title>
+    <sub-title lang="ko">7주차</sub-title>
+    <desc lang="ko">2026 NFL 하이라이트
+부제 : 7주차
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0900" stop="20261106130000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 NFL</title>
+    <sub-title lang="ko">잭슨빌 : 볼티모어</sub-title>
+    <desc lang="ko">2026 NFL
+부제 : 잭슨빌 : 볼티모어
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106130000 +0900" stop="20261106150000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026-2027 동아시아 슈퍼리그</title>
+    <sub-title lang="ko">KCC : 마카오 호우촌</sub-title>
+    <desc lang="ko">2026-2027 동아시아 슈퍼리그
+부제 : KCC : 마카오 호우촌
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106150000 +0900" stop="20261106160000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106180000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차전, 삼성 : KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차전, 삼성 : KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106180000 +0900" stop="20261106190000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">순위공개 엠피셜</title>
+    <sub-title lang="ko">KBO벤치클리어링 명장면 TOP25</sub-title>
+    <desc lang="ko">순위공개 엠피셜
+부제 : KBO벤치클리어링 명장면 TOP25
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106190000 +0900" stop="20261106210000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">KB스타뱅킹 2026-2027 여자프로농구</title>
+    <sub-title lang="ko">하나은행 : KB스타즈, 부천</sub-title>
+    <desc lang="ko">KB스타뱅킹 2026-2027 여자프로농구
+부제 : 하나은행 : KB스타즈, 부천
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">순위공개 엠피셜</title>
+    <sub-title lang="ko">KBO 포스트시즌 명장면 TOP35</sub-title>
+    <desc lang="ko">순위공개 엠피셜
+부제 : KBO 포스트시즌 명장면 TOP35
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">베이스볼 투나잇</title>
+    <desc lang="ko">베이스볼 투나잇
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="MBC스포츠 플러스.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">3차전, KT : 삼성</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 3차전, KT : 삼성
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105003000 +0900" stop="20261105010000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">I LOVE 베이스볼</title>
+    <desc lang="ko">I LOVE 베이스볼
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">몬스터잼</title>
+    <sub-title lang="ko">5, 6회</sub-title>
+    <desc lang="ko">몬스터잼
+부제 : 5, 6회
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105040000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">흥국생명:정관장</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : 흥국생명:정관장
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105040000 +0900" stop="20261105051000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+    <sub-title lang="ko">스위스 &amp; 오스트리아</sub-title>
+    <desc lang="ko">걸어서 세계속으로 트래블홀릭
+부제 : 스위스 &amp; 오스트리아
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105051000 +0900" stop="20261105061000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">한국인의 밥상</title>
+    <desc lang="ko">한국인의 밥상
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105061000 +0900" stop="20261105074500 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">KB손해보험:OK저축은행</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : KB손해보험:OK저축은행
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105074500 +0900" stop="20261105090000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">KBS 스페셜 무쇠팔 최동원, 인생을 던지다</title>
+    <desc lang="ko">KBS 스페셜 무쇠팔 최동원, 인생을 던지다
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105090000 +0900" stop="20261105110000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">KB스타뱅킹 26-27 여자프로농구</title>
+    <sub-title lang="ko">신한은행:우리은행</sub-title>
+    <desc lang="ko">KB스타뱅킹 26-27 여자프로농구
+부제 : 신한은행:우리은행
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105110000 +0900" stop="20261105123500 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">흥국생명:정관장</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : 흥국생명:정관장
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105123500 +0900" stop="20261105145000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차, 삼성:KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차, 삼성:KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145000 +0900" stop="20261105172000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회</title>
+    <sub-title lang="ko">한라장사 결정전, 의성</sub-title>
+    <desc lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회
+부제 : 한라장사 결정전, 의성
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105172000 +0900" stop="20261105181000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트
+부제 : 2차
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105181000 +0900" stop="20261105184500 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">26-27 스페셜V</title>
+    <desc lang="ko">26-27 스페셜V
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105184500 +0900" stop="20261105210000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">SOOP:한국도로공사, 광주</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : SOOP:한국도로공사, 광주
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105210000 +0900" stop="20261105230000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">삼성화재:현대캐피탈</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : 삼성화재:현대캐피탈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106000000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">한국 야구 레전드</title>
+    <sub-title lang="ko">고 최동원</sub-title>
+    <desc lang="ko">한국 야구 레전드
+부제 : 고 최동원
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106000000 +0900" stop="20261106010000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트
+부제 : 2차
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106010000 +0900" stop="20261106030000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">SOOP:한국도로공사</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : SOOP:한국도로공사
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106040000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 포스트시즌 하이라이트</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 포스트시즌 하이라이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106050000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+    <desc lang="ko">걸어서 세계속으로 트래블홀릭
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106050000 +0900" stop="20261106060000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">한국인의 밥상</title>
+    <desc lang="ko">한국인의 밥상
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106080000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차, 삼성:KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차, 삼성:KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106083000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">I LOVE 베이스볼</title>
+    <desc lang="ko">I LOVE 베이스볼
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106083000 +0900" stop="20261106103000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">SOOP:한국도로공사</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : SOOP:한국도로공사
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106103000 +0900" stop="20261106120000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">멜버른컵 경마 2026</title>
+    <sub-title lang="ko">3200m 경주</sub-title>
+    <desc lang="ko">멜버른컵 경마 2026
+부제 : 3200m 경주
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106120000 +0900" stop="20261106141000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">2차, 삼성:KT</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 2차, 삼성:KT
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106141000 +0900" stop="20261106145000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">I LOVE 베이스볼</title>
+    <desc lang="ko">I LOVE 베이스볼
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106145000 +0900" stop="20261106172000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회</title>
+    <sub-title lang="ko">백두장사 결정전, 의성</sub-title>
+    <desc lang="ko">위더스제약 2026 민속씨름 의성마늘장사씨름대회
+부제 : 백두장사 결정전, 의성
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106172000 +0900" stop="20261106181000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈 하이라이트
+부제 : 2차
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106181000 +0900" stop="20261106184500 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">26-27 스페셜V</title>
+    <desc lang="ko">26-27 스페셜V
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106184500 +0900" stop="20261106210000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">HK흥국금융 26-27 V-리그</title>
+    <sub-title lang="ko">대한항공:한국전력, 인천</sub-title>
+    <desc lang="ko">HK흥국금융 26-27 V-리그
+부제 : 대한항공:한국전력, 인천
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 포스트시즌 하이라이트</title>
+    <desc lang="ko">2026 신한 SOL KBO리그 포스트시즌 하이라이트
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106223000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">I LOVE 베이스볼</title>
+    <desc lang="ko">I LOVE 베이스볼
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106223000 +0900" stop="20261107000000 +0900" channel="KBS N SPORTS.kr">
+    <title lang="ko">2026 신한 SOL KBO리그 한국시리즈</title>
+    <sub-title lang="ko">3차, KT:삼성</sub-title>
+    <desc lang="ko">2026 신한 SOL KBO리그 한국시리즈
+부제 : 3차, KT:삼성
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105013000 +0900" stop="20261105034000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">2026-2027 프리메이라리가</title>
+    <sub-title lang="ko">10R, 포르투:이스토릴, 26.11.01</sub-title>
+    <desc lang="ko">2026-2027 프리메이라리가
+부제 : 10R, 포르투:이스토릴, 26.11.01
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105034000 +0900" stop="20261105060000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">하나은행 K리그1 2026 FINAL</title>
+    <sub-title lang="ko">34R, 울산:강원, 26.11.01</sub-title>
+    <desc lang="ko">하나은행 K리그1 2026 FINAL
+부제 : 34R, 울산:강원, 26.11.01
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105081000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">&lt;이금민 선발출전&gt; 2026-2027 BWSL</title>
+    <sub-title lang="ko">WEEK 8, 버밍엄:토트넘, 26.11.01</sub-title>
+    <desc lang="ko">&lt;이금민 선발출전&gt; 2026-2027 BWSL
+부제 : WEEK 8, 버밍엄:토트넘, 26.11.01
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105081000 +0900" stop="20261105103000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">&lt;로드 투 FINALS&gt; 2026 데이비스컵 2차 최종본선진출전</title>
+    <sub-title lang="ko">대한민국:인도, 1단식 권순우, 1일차, 26.09.18</sub-title>
+    <desc lang="ko">&lt;로드 투 FINALS&gt; 2026 데이비스컵 2차 최종본선진출전
+부제 : 대한민국:인도, 1단식 권순우, 1일차, 26.09.18
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105103000 +0900" stop="20261105115500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105115500 +0900" stop="20261105143000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 휴온스:하이원리조트, 26.11.05</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 휴온스:하이원리조트, 26.11.05
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105143000 +0900" stop="20261105145500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145500 +0900" stop="20261105173000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, NH농협카드:웰컴저축은행, 26.11.05</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, NH농협카드:웰컴저축은행, 26.11.05
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105173000 +0900" stop="20261105175500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105175500 +0900" stop="20261105203000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 하림:크라운해태, 26.11.05</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 하림:크라운해태, 26.11.05
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105203000 +0900" stop="20261105205500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105205500 +0900" stop="20261105233000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 하나카드:우리금융캐피탈, 26.11.05</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 하나카드:우리금융캐피탈, 26.11.05
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105233000 +0900" stop="20261106014000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">&lt;이금민 선발출전&gt; 2026-2027 BWSL</title>
+    <sub-title lang="ko">WEEK 8, 버밍엄:토트넘, 26.11.01</sub-title>
+    <desc lang="ko">&lt;이금민 선발출전&gt; 2026-2027 BWSL
+부제 : WEEK 8, 버밍엄:토트넘, 26.11.01
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106014000 +0900" stop="20261106035000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">2026-2027 프리메이라리가</title>
+    <sub-title lang="ko">10R, 아로카:나시오날, 26.11.02</sub-title>
+    <desc lang="ko">2026-2027 프리메이라리가
+부제 : 10R, 아로카:나시오날, 26.11.02
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106035000 +0900" stop="20261106060000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">하나은행 K리그1 2026 FINAL</title>
+    <sub-title lang="ko">34R, 서울:인천, 26.11.01</sub-title>
+    <desc lang="ko">하나은행 K리그1 2026 FINAL
+부제 : 34R, 서울:인천, 26.11.01
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106081000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">2026-2027 프리메이라리가 하이라이트</title>
+    <desc lang="ko">2026-2027 프리메이라리가 하이라이트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106081000 +0900" stop="20261106110000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">&lt;로드 투 FINALS&gt; 2026 데이비스컵 2차 최종본선진출전</title>
+    <sub-title lang="ko">대한민국:인도, 2단식 정현, 1일차, 26.09.18</sub-title>
+    <desc lang="ko">&lt;로드 투 FINALS&gt; 2026 데이비스컵 2차 최종본선진출전
+부제 : 대한민국:인도, 2단식 정현, 1일차, 26.09.18
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106115500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106115500 +0900" stop="20261106143000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 브레이커스:하림, 26.11.06</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 브레이커스:하림, 26.11.06
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106143000 +0900" stop="20261106145500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106145500 +0900" stop="20261106173000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 우리금융캐피탈:하이원리조트, 26.11.06</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 우리금융캐피탈:하이원리조트, 26.11.06
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106173000 +0900" stop="20261106175500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106175500 +0900" stop="20261106203000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 에스와이:하나카드, 26.11.06</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 에스와이:하나카드, 26.11.06
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106203000 +0900" stop="20261106205500 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">PBA 팀리그 THE SET</title>
+    <desc lang="ko">PBA 팀리그 THE SET
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106205500 +0900" stop="20261106233000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027</title>
+    <sub-title lang="ko">4R, 휴온스:NH농협카드, 26.11.06</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027
+부제 : 4R, 휴온스:NH농협카드, 26.11.06
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106233000 +0900" stop="20261107000000 +0900" channel="ENA SPORTS.kr">
+    <title lang="ko">&lt;대한민국 우승&gt; 2026 아시아 배드민턴 팀 선수권</title>
+    <sub-title lang="ko">결승, 대한민국:중국, 여자단체, 26.02.08</sub-title>
+    <desc lang="ko">&lt;대한민국 우승&gt; 2026 아시아 배드민턴 팀 선수권
+부제 : 결승, 대한민국:중국, 여자단체, 26.02.08
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105004000 +0900" stop="20261105011000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105011000 +0900" stop="20261105031000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구</title>
+    <sub-title lang="ko">나가사키 벨카 VS 부산 KCC 이지스</sub-title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구
+부제 : 나가사키 벨카 VS 부산 KCC 이지스
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105031000 +0900" stop="20261105042000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">하나은행 K리그1 2026 Goals</title>
+    <desc lang="ko">하나은행 K리그1 2026 Goals
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105042000 +0900" stop="20261105055000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <sub-title lang="ko">2-5회</sub-title>
+    <desc lang="ko">국축박
+부제 : 2-5회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105055000 +0900" stop="20261105065000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">Wee:K LEAGUE(위클리그)</title>
+    <sub-title lang="ko">34R</sub-title>
+    <desc lang="ko">Wee:K LEAGUE(위클리그)
+부제 : 34R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105065000 +0900" stop="20261105091000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">영광의 순간들</title>
+    <sub-title lang="ko">2002 한일 월드컵 16강, 대한민국 VS 이탈리아</sub-title>
+    <desc lang="ko">영광의 순간들
+부제 : 2002 한일 월드컵 16강, 대한민국 VS 이탈리아
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105091000 +0900" stop="20261105120000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">영광의 순간들</title>
+    <sub-title lang="ko">2002 한일 월드컵 8강, 대한민국 VS 스페인</sub-title>
+    <desc lang="ko">영광의 순간들
+부제 : 2002 한일 월드컵 8강, 대한민국 VS 스페인
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105120000 +0900" stop="20261105130000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <sub-title lang="ko">7-8회</sub-title>
+    <desc lang="ko">국축박
+부제 : 7-8회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105130000 +0900" stop="20261105145000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">영광의 순간들</title>
+    <sub-title lang="ko">2012 런던 배구 여자, 대한민국 VS 브라질</sub-title>
+    <desc lang="ko">영광의 순간들
+부제 : 2012 런던 배구 여자, 대한민국 VS 브라질
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145000 +0900" stop="20261105170000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">영광의 순간들</title>
+    <sub-title lang="ko">2012 런던 배구 여자 8강전, 대한민국 VS 이탈리아</sub-title>
+    <desc lang="ko">영광의 순간들
+부제 : 2012 런던 배구 여자 8강전, 대한민국 VS 이탈리아
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105170000 +0900" stop="20261105190000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구</title>
+    <sub-title lang="ko">나가사키 벨카 VS 부산 KCC 이지스</sub-title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구
+부제 : 나가사키 벨카 VS 부산 KCC 이지스
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105190000 +0900" stop="20261105211000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구</title>
+    <sub-title lang="ko">부산 KCC 이지스 VS 마카오 호우촌</sub-title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구
+부제 : 부산 KCC 이지스 VS 마카오 호우촌
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105211000 +0900" stop="20261105220000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">하나은행 K리그1 2026 Goals</title>
+    <desc lang="ko">하나은행 K리그1 2026 Goals
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261105223000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105223000 +0900" stop="20261105230000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <desc lang="ko">국축박
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105230000 +0900" stop="20261106004000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">뭉쳐야 찬다 4</title>
+    <desc lang="ko">뭉쳐야 찬다 4
+방송 : 재방송
+등급 : 15세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106004000 +0900" stop="20261106020000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <sub-title lang="ko">7-9회</sub-title>
+    <desc lang="ko">국축박
+부제 : 7-9회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106040000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구</title>
+    <sub-title lang="ko">부산 KCC 이지스 VS 마카오 호우촌</sub-title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구
+부제 : 부산 KCC 이지스 VS 마카오 호우촌
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106053000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <sub-title lang="ko">6-9회</sub-title>
+    <desc lang="ko">국축박
+부제 : 6-9회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106053000 +0900" stop="20261106064000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">1988 서울 올림픽</title>
+    <sub-title lang="ko">육상-남자 100m/멀리뛰기</sub-title>
+    <desc lang="ko">1988 서울 올림픽
+부제 : 육상-남자 100m/멀리뛰기
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106064000 +0900" stop="20261106092000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">1992 바르셀로나 올림픽</title>
+    <sub-title lang="ko">육상-남자 마라톤</sub-title>
+    <desc lang="ko">1992 바르셀로나 올림픽
+부제 : 육상-남자 마라톤
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106092000 +0900" stop="20261106120000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">1996 애틀랜타 올림픽</title>
+    <sub-title lang="ko">육상-남자 마라톤</sub-title>
+    <desc lang="ko">1996 애틀랜타 올림픽
+부제 : 육상-남자 마라톤
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106120000 +0900" stop="20261106130000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <sub-title lang="ko">8-9회</sub-title>
+    <desc lang="ko">국축박
+부제 : 8-9회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106130000 +0900" stop="20261106155000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">영광의 순간들</title>
+    <sub-title lang="ko">2020 도쿄 배구 여자, 대한민국 VS 도미니카공화국</sub-title>
+    <desc lang="ko">영광의 순간들
+부제 : 2020 도쿄 배구 여자, 대한민국 VS 도미니카공화국
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106155000 +0900" stop="20261106185000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">영광의 순간들</title>
+    <sub-title lang="ko">2020 도쿄 배구 여자, 대한민국 VS 일본</sub-title>
+    <desc lang="ko">영광의 순간들
+부제 : 2020 도쿄 배구 여자, 대한민국 VS 일본
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106185000 +0900" stop="20261106210000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">국축박</title>
+    <sub-title lang="ko">5-9회</sub-title>
+    <desc lang="ko">국축박
+부제 : 5-9회
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106230000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">26-27 EASL 동아시아 슈퍼리그 농구</title>
+    <sub-title lang="ko">부산 KCC 이지스 VS 마카오 호우촌</sub-title>
+    <desc lang="ko">26-27 EASL 동아시아 슈퍼리그 농구
+부제 : 부산 KCC 이지스 VS 마카오 호우촌
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="JTBC SPORTS.kr">
+    <title lang="ko">뭉쳐야 찬다 4</title>
+    <desc lang="ko">뭉쳐야 찬다 4
+방송 : 재방송
+등급 : 15세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261105120000 +0900" stop="20261105124500 +0900" channel="AUTO.sbsno1뉴스라이브">
@@ -49105,46 +51086,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105085420 +0900" stop="20261105092946 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 50회 - 식물인간도 고개 돌려버린 해미준하 닭살 애정행각/신지 입 막으려는 순재</title>
-    <desc lang="ko">거침없이 하이킥, 50회 - 식물인간도 고개 돌려버린 해미준하 닭살 애정행각/신지 입 막으려는 순재
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105092946 +0900" stop="20261105100315 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 51회 - 민용VS영민 오줌발대결/80등 성적 올라도 소외된 윤호</title>
-    <desc lang="ko">거침없이 하이킥, 51회 - 민용VS영민 오줌발대결/80등 성적 올라도 소외된 윤호
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105100315 +0900" stop="20261105103632 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 52회 - 책 속의 돈의 주인 찾기 / 보드가방 속 민정과 사진찍기</title>
-    <desc lang="ko">거침없이 하이킥, 52회 - 책 속의 돈의 주인 찾기 / 보드가방 속 민정과 사진찍기
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105103632 +0900" stop="20261105110952 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 53회 - 카리스마 민호/민정과 신지 말다툼</title>
-    <desc lang="ko">거침없이 하이킥, 53회 - 카리스마 민호/민정과 신지 말다툼
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105110952 +0900" stop="20261105114224 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 54회 - 해미에게 물어보고 결정하는 문희와 준하/민용*민정 화해 도와주는 윤호</title>
-    <desc lang="ko">거침없이 하이킥, 54회 - 해미에게 물어보고 결정하는 문희와 준하/민용*민정 화해 도와주는 윤호
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261105114224 +0900" stop="20261105121422 +0900" channel="KRBC2000010X">
     <title lang="ko">거침없이 하이킥, 55회 - 순재도 인간임을 목격한 준하 / 사라진 유미네</title>
     <desc lang="ko">거침없이 하이킥, 55회 - 순재도 인간임을 목격한 준하 / 사라진 유미네
@@ -49697,30 +51638,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105074547 +0900" stop="20261105090335 +0900" channel="KRBC200002I0">
-    <title lang="ko">나 혼자 산다, 24회 - 보고싶다 혼자남(1)</title>
-    <desc lang="ko">나 혼자 산다, 24회 - 보고싶다 혼자남(1)
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105090335 +0900" stop="20261105101423 +0900" channel="KRBC200002I0">
-    <title lang="ko">나 혼자 산다, 25회 - 보고싶다 혼자남(2)</title>
-    <desc lang="ko">나 혼자 산다, 25회 - 보고싶다 혼자남(2)
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105101423 +0900" stop="20261105113254 +0900" channel="KRBC200002I0">
-    <title lang="ko">나 혼자 산다, 26회 - 혼자남의 추석 풍경/더 무지개 라이브 장윤주</title>
-    <desc lang="ko">나 혼자 산다, 26회 - 혼자남의 추석 풍경/더 무지개 라이브 장윤주
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261105113254 +0900" stop="20261105124743 +0900" channel="KRBC200002I0">
     <title lang="ko">나 혼자 산다, 27회 - 혼자남의 가을/더 무지개 라이브 김민준</title>
     <desc lang="ko">나 혼자 산다, 27회 - 혼자남의 가을/더 무지개 라이브 김민준
@@ -49961,22 +51878,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105085328 +0900" stop="20261105101133 +0900" channel="KRBB5000073UD">
-    <title lang="ko">놀면 뭐하니?, 135회 - WSG 워너비</title>
-    <desc lang="ko">놀면 뭐하니?, 135회 - WSG 워너비
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105101133 +0900" stop="20261105112654 +0900" channel="KRBB5000073UD">
-    <title lang="ko">놀면 뭐하니?, 136회 - WSG 워너비</title>
-    <desc lang="ko">놀면 뭐하니?, 136회 - WSG 워너비
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261105112654 +0900" stop="20261105124112 +0900" channel="KRBB5000073UD">
     <title lang="ko">놀면 뭐하니?, 137회 - WSG 워너비</title>
     <desc lang="ko">놀면 뭐하니?, 137회 - WSG 워너비
@@ -50209,22 +52110,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105075443 +0900" stop="20261105092148 +0900" channel="KRBB5000069BS">
-    <title lang="ko">무한도전, 478회 - 토.토.가 2 젝스키스(3)</title>
-    <desc lang="ko">무한도전, 478회 - 토.토.가 2 젝스키스(3)
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105092148 +0900" stop="20261105104639 +0900" channel="KRBB5000069BS">
-    <title lang="ko">무한도전, 479회 - 2016 무한상사</title>
-    <desc lang="ko">무한도전, 479회 - 2016 무한상사
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261105104639 +0900" stop="20261105121303 +0900" channel="KRBB5000069BS">
     <title lang="ko">무한도전, 480회 - 무한도전 &lt;웨딩싱어즈&gt; 두 번째 이야기</title>
     <desc lang="ko">무한도전, 480회 - 무한도전 &lt;웨딩싱어즈&gt; 두 번째 이야기
@@ -50439,30 +52324,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
 등급 : 12세 이상 관람가</desc>
     <rating system="KR">
       <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105074328 +0900" stop="20261105090352 +0900" channel="KRBB50000711L">
-    <title lang="ko">심야괴담회, 23회 - '공포의 울음소리' 특집</title>
-    <desc lang="ko">심야괴담회, 23회 - '공포의 울음소리' 특집
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105090352 +0900" stop="20261105102008 +0900" channel="KRBB50000711L">
-    <title lang="ko">심야괴담회, 24회 - ‘죽음의 전주곡’ 특집</title>
-    <desc lang="ko">심야괴담회, 24회 - ‘죽음의 전주곡’ 특집
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105102008 +0900" stop="20261105113910 +0900" channel="KRBB50000711L">
-    <title lang="ko">심야괴담회, 21회 - ‘고스트 스폿, 그곳에 가지 마시오’ 특집</title>
-    <desc lang="ko">심야괴담회, 21회 - ‘고스트 스폿, 그곳에 가지 마시오’ 특집
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261105113910 +0900" stop="20261105130336 +0900" channel="KRBB50000711L">
@@ -50689,22 +52550,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105075223 +0900" stop="20261105092115 +0900" channel="KRBB50000721W">
-    <title lang="ko">오은영 리포트 - 결혼 지옥, 21회 - 당신이 문제야! 네 탓 부부</title>
-    <desc lang="ko">오은영 리포트 - 결혼 지옥, 21회 - 당신이 문제야! 네 탓 부부
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105092115 +0900" stop="20261105104916 +0900" channel="KRBB50000721W">
-    <title lang="ko">오은영 리포트 - 결혼 지옥, 22회 - 닿을 수 없는 우리 평행선 부부</title>
-    <desc lang="ko">오은영 리포트 - 결혼 지옥, 22회 - 닿을 수 없는 우리 평행선 부부
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261105104916 +0900" stop="20261105121704 +0900" channel="KRBB50000721W">
     <title lang="ko">오은영 리포트 - 결혼 지옥, 23회 - 오은영 리포트 2022 결혼 지옥, 그 후</title>
     <desc lang="ko">오은영 리포트 - 결혼 지옥, 23회 - 오은영 리포트 2022 결혼 지옥, 그 후
@@ -50921,22 +52766,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105082609 +0900" stop="20261105100922 +0900" channel="KRBC20000418">
-    <title lang="ko">전지적 참견 시점, 282회 - 최강희♥최강희 매니저 &amp; 민우혁♥백예리 매니저</title>
-    <desc lang="ko">전지적 참견 시점, 282회 - 최강희♥최강희 매니저 &amp; 민우혁♥백예리 매니저
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105100922 +0900" stop="20261105115127 +0900" channel="KRBC20000418">
-    <title lang="ko">전지적 참견 시점, 284회 - 홍현희♥한현재 메이크업 아티스트 &amp; 곽튜브♥이승민 매니저</title>
-    <desc lang="ko">전지적 참견 시점, 284회 - 홍현희♥한현재 메이크업 아티스트 &amp; 곽튜브♥이승민 매니저
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261105115127 +0900" stop="20261105133025 +0900" channel="KRBC20000418">
     <title lang="ko">전지적 참견 시점, 285회 - 이국주♥이상수 매니저 &amp; 이재원♥한등규 매니저</title>
     <desc lang="ko">전지적 참견 시점, 285회 - 이국주♥이상수 매니저 &amp; 이재원♥한등규 매니저
@@ -51117,26 +52946,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">전지적 참견 시점, 293회 - 조혜련♥지소현 매니저 &amp; 채정안♥송동한 매니저</title>
     <desc lang="ko">전지적 참견 시점, 293회 - 조혜련♥지소현 매니저 &amp; 채정안♥송동한 매니저
 등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105082000 +0900" stop="20261105095600 +0900" channel="KRBC4100008Z6">
-    <title lang="ko">제목 없음 (31회)</title>
-    <desc lang="ko">제목 없음 (31회)
-회차 : 31회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="onscreen">31</episode-num>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105095600 +0900" stop="20261105113300 +0900" channel="KRBC4100008Z6">
-    <title lang="ko">제목 없음 (32회)</title>
-    <desc lang="ko">제목 없음 (32회)
-회차 : 32회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="onscreen">32</episode-num>
     <rating system="KR">
       <value>15세 이상 관람가</value>
     </rating>
