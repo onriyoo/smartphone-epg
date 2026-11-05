@@ -11,6 +11,7 @@
     "HTTP_PROXY": null
   },
   "KT": {
+    "ENABLED": false,
     "MY_CHANNELS": [
       {
         "ServiceId": "9",
