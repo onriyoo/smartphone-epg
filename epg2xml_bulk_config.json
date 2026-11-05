@@ -668,7 +668,82 @@
         "ServiceId": "케이블 KTV 국민방송",
         "Id": "AUTO.ktv국민방송",
         "Name": "KTV 국민방송"
-      }
+      },
+            {
+        "ServiceId": "케이블 채널i",
+        "Id": "AUTO.채널i",
+        "Name": "채널i"
+      },
+      {
+        "ServiceId": "케이블 실버아이TV",
+        "Id": "실버아이TV.kr",
+        "Name": "실버아이TV"
+      },
+      {
+        "ServiceId": "케이블 더라이프",
+        "Id": "더라이프.kr",
+        "Name": "더라이프"
+      },
+      {
+        "ServiceId": "케이블 OLIFE",
+        "Id": "OLIFE.kr",
+        "Name": "OLIFE"
+      },
+      {
+        "ServiceId": "케이블 코미디TV",
+        "Id": "코미디TV.kr",
+        "Name": "코미디TV"
+      },
+      {
+        "ServiceId": "지상파 OBS 경인TV",
+        "Id": "OBS.kr",
+        "Name": "OBS"
+      },
+      {
+        "ServiceId": "케이블 Asia N",
+        "Id": "AsiaN.kr",
+        "Name": "AsiaN"
+      },
+      {
+        "ServiceId": "케이블 ENA",
+        "Id": "ENA.kr",
+        "Name": "ENA"
+      },
+      {
+        "ServiceId": "케이블 K star",
+        "Id": "KSTAR.kr",
+        "Name": "K STAR"
+      },
+      {
+        "ServiceId": "케이블 브레인TV",
+        "Id": "AUTO.브레인tv",
+        "Name": "브레인TV"
+      },
+      {
+             "ServiceId": "케이블 바둑TV",
+          "Id": "바둑TV.kr",
+          "Name": "바둑TV"
+        },
+        {
+          "ServiceId": "케이블 K바둑",
+          "Id": "K바둑.kr",
+          "Name": "K바둑"
+        },
+        {
+          "ServiceId": "케이블 한국낚시방송",
+          "Id": "AUTO.한국낚시방송",
+          "Name": "한국낚시방송"
+        },
+        {
+          "ServiceId": "케이블 FTV",
+          "Id": "FTV.kr",
+          "Name": "FTV"
+        },
+        {
+          "ServiceId": "케이블 GTV",
+          "Id": "GTV.kr",
+          "Name": "GTV"
+        }
     ]
   },
   "NAVER": {
