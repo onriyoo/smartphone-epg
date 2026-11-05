@@ -1,0 +1,82 @@
+name: Build SkyLife Test EPG
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Checkout EPG source
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/epg
+          ref: master
+          path: epg-source
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+        working-directory: epg-source
+
+      - name: Create channel list
+        run: |
+          cat > skylife.channels.xml <<'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <channels>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="OBS.kr" site_id="4003#935">OBS</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="GTV.kr" site_id="4009#35">GTV</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="KSTAR.kr" site_id="4009#85">K STAR</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="코미디TV.kr" site_id="4009#100">코미디TV</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="더라이프.kr" site_id="4009#331">더라이프</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="ENA.kr" site_id="4006#783">ENA</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="AsiaN.kr" site_id="4006#976">AsiaN</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="바둑TV.kr" site_id="4010#164">바둑TV</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="K바둑.kr" site_id="4010#170">K바둑</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="AUTO.브레인tv" site_id="4010#488">브레인TV</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="OLIFE.kr" site_id="4010#934">OLIFE</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="FTV.kr" site_id="4010#969">FTV</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="OBSW.kr" site_id="4011#128">OBS W</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="실버아이TV.kr" site_id="4011#378">실버아이TV</channel>
+            <channel site="skylife.co.kr" lang="ko" xmltv_id="한국낚시방송.kr" site_id="4010#254">한국낚시방송</channel>
+          </channels>
+          EOF
+        working-directory: epg-source
+
+      - name: Download SkyLife EPG
+        run: npm run grab --- --channels=skylife.channels.xml --output=../skylife.xml
+        working-directory: epg-source
+
+      - name: Verify EPG
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          root = ET.parse("skylife.xml").getroot()
+          channels = root.findall("channel")
+          programmes = root.findall("programme")
+          print("채널 수:", len(channels))
+          print("편성표 수:", len(programmes))
+          if not channels or not programmes:
+              raise SystemExit("편성표 생성 실패")
+          PY
+
+      - name: Save EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add skylife.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Add SkyLife test EPG"
+            git push
+          fi
