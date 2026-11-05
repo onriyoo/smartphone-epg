@@ -620,6 +620,36 @@
         "ServiceId": "602",
         "Id": "KRBD5200002XY",
         "Name": "JTBC골프"
+      },
+      {
+        "ServiceId": "667",
+        "Id": "SPOTV.kr",
+        "Name": "SPOTV"
+      },
+      {
+        "ServiceId": "638",
+        "Id": "SPOTV2.kr",
+        "Name": "SPOTV2"
+      },
+      {
+        "ServiceId": "622",
+        "Id": "MBC스포츠 플러스.kr",
+        "Name": "MBC SPORTS+"
+      },
+      {
+        "ServiceId": "618",
+        "Id": "KBS N SPORTS.kr",
+        "Name": "KBS N Sports"
+      },
+      {
+        "ServiceId": "795",
+        "Id": "JTBC SPORTS.kr",
+        "Name": "JTBC SPORTS"
+      },
+      {
+        "ServiceId": "692",
+        "Id": "ENA SPORTS.kr",
+        "Name": "ENA SPORTS"
       }
     ]
   },
