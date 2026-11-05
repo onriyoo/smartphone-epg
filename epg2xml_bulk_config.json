@@ -73,29 +73,9 @@
         "Name": "연합뉴스TV"
       },
       {
-        "ServiceId": "51",
-        "Id": "SPOTV.kr",
-        "Name": "SPOTV"
-      },
-      {
-        "ServiceId": "52",
-        "Id": "SPOTV2.kr",
-        "Name": "SPOTV2"
-      },
-      {
         "ServiceId": "135",
         "Id": "AUTO.spotvplus",
         "Name": "SPOTV PLUS"
-      },
-      {
-        "ServiceId": "59",
-        "Id": "KBS N SPORTS.kr",
-        "Name": "KBS N Sports"
-      },
-      {
-        "ServiceId": "60",
-        "Id": "MBC스포츠 플러스.kr",
-        "Name": "MBC SPORTS+"
       },
       {
         "ServiceId": "58",
@@ -118,19 +98,9 @@
         "Name": "tvN SPORTS"
       },
       {
-        "ServiceId": "61",
-        "Id": "JTBC SPORTS.kr",
-        "Name": "JTBC SPORTS"
-      },
-      {
         "ServiceId": "56",
         "Id": "JTBCGolf.kr",
         "Name": "JTBC Golf"
-      },
-      {
-        "ServiceId": "70",
-        "Id": "ENA SPORTS.kr",
-        "Name": "ENA SPORTS"
       },
       {
         "ServiceId": "133",
