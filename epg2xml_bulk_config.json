@@ -677,7 +677,38 @@
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": []
+    "MY_CHANNELS": [
+  {
+    "ServiceId": "2876055",
+    "Id": "SPOTV.kr",
+    "Name": "SPOTV"
+  },
+  {
+    "ServiceId": "5286701",
+    "Id": "SPOTV2.kr",
+    "Name": "SPOTV2"
+  },
+  {
+    "ServiceId": "814861",
+    "Id": "MBC스포츠 플러스.kr",
+    "Name": "MBC SPORTS+"
+  },
+  {
+    "ServiceId": "814837",
+    "Id": "KBS N SPORTS.kr",
+    "Name": "KBS N SPORTS"
+  },
+  {
+    "ServiceId": "5561517",
+    "Id": "ENA SPORTS.kr",
+    "Name": "ENA SPORTS"
+  },
+  {
+    "ServiceId": "815499",
+    "Id": "JTBC SPORTS.kr",
+    "Name": "JTBC SPORTS"
+  }
+]
   },
   "TVING": {
     "MY_CHANNELS": [
