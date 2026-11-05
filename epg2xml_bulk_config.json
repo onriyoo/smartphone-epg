@@ -673,7 +673,33 @@
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": []
+    "MY_CHANNELS": [
+  {"ServiceId":"814837","Id":"KBS N SPORTS.kr","Name":"KBS N Sports"},
+  {"ServiceId":"814861","Id":"MBC스포츠 플러스.kr","Name":"MBC SPORTS+"},
+  {"ServiceId":"815499","Id":"JTBC SPORTS.kr","Name":"JTBC SPORTS"},
+  {"ServiceId":"5561517","Id":"ENA SPORTS.kr","Name":"ENA SPORTS"},
+  {"ServiceId":"2876055","Id":"SPOTV.kr","Name":"SPOTV"},
+  {"ServiceId":"5286701","Id":"SPOTV2.kr","Name":"SPOTV2"},
+  {"ServiceId":"1876333","Id":"AUTO.spotvplus","Name":"SPOTV PLUS"},
+  {"ServiceId":"815037","Id":"tvN SPORTS.kr","Name":"tvN SPORTS"},
+  {"ServiceId":"6251521","Id":"IBSPORTS.kr","Name":"IB SPORTS"},
+  {"ServiceId":"3173174","Id":"AUTO.채널i","Name":"채널i"},
+  {"ServiceId":"815075","Id":"실버아이TV.kr","Name":"실버아이TV"},
+  {"ServiceId":"16052614","Id":"더라이프.kr","Name":"더라이프"},
+  {"ServiceId":"815470","Id":"OLIFE.kr","Name":"OLIFE"},
+  {"ServiceId":"814835","Id":"코미디TV.kr","Name":"코미디TV"},
+  {"ServiceId":"814599","Id":"OBS.kr","Name":"OBS"},
+  {"ServiceId":"814748","Id":"AsiaN.kr","Name":"AsiaN"},
+  {"ServiceId":"814807","Id":"ENA.kr","Name":"ENA"},
+  {"ServiceId":"814827","Id":"KSTAR.kr","Name":"K STAR"},
+  {"ServiceId":"814900","Id":"AUTO.브레인tv","Name":"브레인TV"},
+  {"ServiceId":"814898","Id":"바둑TV.kr","Name":"바둑TV"},
+  {"ServiceId":"814894","Id":"K바둑.kr","Name":"K바둑"},
+  {"ServiceId":"814885","Id":"한국낚시방송.kr","Name":"FishingTV"},
+  {"ServiceId":"814887","Id":"FTV.kr","Name":"FTV"},
+  {"ServiceId":"815032","Id":"GTV.kr","Name":"GTV"},
+      {"ServiceId":"814863","Id":"SBS스포츠.kr","Name":"SBS Sports"}
+]
   },
   "TVING": {
     "MY_CHANNELS": [
