@@ -672,7 +672,13 @@
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": []
+    "MY_CHANNELS": [
+  {
+    "ServiceId": "2876055",
+    "Id": "SPOTV.kr",
+    "Name": "SPOTV"
+  }
+]
   },
   "TVING": {
     "MY_CHANNELS": [
