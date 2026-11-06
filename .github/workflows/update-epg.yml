@@ -86,8 +86,8 @@ jobs:
             "C51258.tving": "tvNStory.kr",
             "C17141.tving": "채널A플러스.kr",
             "C00544.tving": "중화TV.kr",
-                        "C51263.tving": "AUTO.국회방송"
-          }
+                        "C51263.tving": "AUTO.국회방송",
+          }"C01581.tving": "TV조선.kr"
 
           channels = []
           programmes = []
