@@ -170,6 +170,13 @@
     <display-name>3 KTV 국민방송</display-name>
     <display-name>3 DAUM</display-name>
   </channel>
+  <channel id="SPOTV.kr">
+    <display-name>SPOTV</display-name>
+    <display-name>NAVER</display-name>
+    <display-name>0</display-name>
+    <display-name>0 SPOTV</display-name>
+    <display-name>0 NAVER</display-name>
+  </channel>
   <channel id="AUTO.sbsno1뉴스라이브">
     <display-name>SBS No.1 뉴스라이브</display-name>
     <display-name>TVING</display-name>
@@ -16220,7 +16227,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107015000 +0900" stop="20261107023000 +0900" channel="kortv.dramacube">
+  <programme start="20261107015000 +0900" stop="20261107022800 +0900" channel="kortv.dramacube">
     <title lang="ko">만성: 시티 오브 로맨스 (8회)</title>
     <desc lang="ko">만성: 시티 오브 로맨스 (8회)
 회차 : 8회
@@ -16230,7 +16237,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107023000 +0900" stop="20261107031000 +0900" channel="kortv.dramacube">
+  <programme start="20261107022800 +0900" stop="20261107030600 +0900" channel="kortv.dramacube">
     <title lang="ko">만성: 시티 오브 로맨스 (9회)</title>
     <desc lang="ko">만성: 시티 오브 로맨스 (9회)
 회차 : 9회
@@ -16240,7 +16247,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107031000 +0900" stop="20261107040000 +0900" channel="kortv.dramacube">
+  <programme start="20261107030600 +0900" stop="20261107035700 +0900" channel="kortv.dramacube">
     <title lang="ko">토요일은 밥이 좋아 하이라이트 (10회)</title>
     <desc lang="ko">토요일은 밥이 좋아 하이라이트 (10회)
 회차 : 10회
@@ -16250,9 +16257,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107040000 +0900" stop="20261107054000 +0900" channel="kortv.dramacube">
+  <programme start="20261107035700 +0900" stop="20261107053900 +0900" channel="kortv.dramacube">
     <title lang="ko">솔로라서 (5회)</title>
+    <sub-title lang="ko">황정음 편집본</sub-title>
     <desc lang="ko">솔로라서 (5회)
+부제 : 황정음 편집본
 회차 : 5회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">5</episode-num>
@@ -16260,7 +16269,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107054000 +0900" stop="20261107071000 +0900" channel="kortv.dramacube">
+  <programme start="20261107053900 +0900" stop="20261107070900 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (24회)</title>
     <desc lang="ko">이호선 상담소 (24회)
 회차 : 24회
@@ -16270,9 +16279,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107071000 +0900" stop="20261107090000 +0900" channel="kortv.dramacube">
+  <programme start="20261107070900 +0900" stop="20261107085500 +0900" channel="kortv.dramacube">
     <title lang="ko">나 혼자 산다 (624회)</title>
+    <sub-title lang="ko">구성환, 서범준</sub-title>
     <desc lang="ko">나 혼자 산다 (624회)
+부제 : 구성환, 서범준
 회차 : 624회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">624</episode-num>
@@ -16280,7 +16291,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107090000 +0900" stop="20261107102000 +0900" channel="kortv.dramacube">
+  <programme start="20261107085500 +0900" stop="20261107101800 +0900" channel="kortv.dramacube">
     <title lang="ko">이십세기 힛-트쏭 (260회)</title>
     <desc lang="ko">이십세기 힛-트쏭 (260회)
 회차 : 260회
@@ -16290,7 +16301,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107102000 +0900" stop="20261107114000 +0900" channel="kortv.dramacube">
+  <programme start="20261107101800 +0900" stop="20261107114100 +0900" channel="kortv.dramacube">
     <title lang="ko">무엇이든 물어보살 (384회)</title>
     <desc lang="ko">무엇이든 물어보살 (384회)
 회차 : 384회
@@ -16300,7 +16311,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107114000 +0900" stop="20261107132000 +0900" channel="kortv.dramacube">
+  <programme start="20261107114100 +0900" stop="20261107132400 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (29회)</title>
     <desc lang="ko">이호선 상담소 (29회)
 회차 : 29회
@@ -16310,9 +16321,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107132000 +0900" stop="20261107151000 +0900" channel="kortv.dramacube">
+  <programme start="20261107132400 +0900" stop="20261107150700 +0900" channel="kortv.dramacube">
     <title lang="ko">나 혼자 산다 (638회)</title>
+    <sub-title lang="ko">기안84, 고강용</sub-title>
     <desc lang="ko">나 혼자 산다 (638회)
+부제 : 기안84, 고강용
 회차 : 638회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">638</episode-num>
@@ -16320,9 +16333,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107151000 +0900" stop="20261107162500 +0900" channel="kortv.dramacube">
-    <title lang="ko">태양의 후예 (7회)</title>
-    <desc lang="ko">태양의 후예 (7회)
+  <programme start="20261107150700 +0900" stop="20261107162900 +0900" channel="kortv.dramacube">
+    <title lang="ko">100일의 거짓말 (7회)</title>
+    <sub-title lang="ko">7-8회 연속방송</sub-title>
+    <desc lang="ko">100일의 거짓말 (7회)
+부제 : 7-8회 연속방송
 회차 : 7회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">7</episode-num>
@@ -16330,9 +16345,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107162500 +0900" stop="20261107175500 +0900" channel="kortv.dramacube">
-    <title lang="ko">태양의 후예 (8회)</title>
-    <desc lang="ko">태양의 후예 (8회)
+  <programme start="20261107162900 +0900" stop="20261107175300 +0900" channel="kortv.dramacube">
+    <title lang="ko">100일의 거짓말 (8회)</title>
+    <sub-title lang="ko">7-8회 연속방송</sub-title>
+    <desc lang="ko">100일의 거짓말 (8회)
+부제 : 7-8회 연속방송
 회차 : 8회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">8</episode-num>
@@ -16340,9 +16357,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107175500 +0900" stop="20261107191000 +0900" channel="kortv.dramacube">
+  <programme start="20261107175300 +0900" stop="20261107190900 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (10회)</title>
+    <sub-title lang="ko">10-12회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (10회)
+부제 : 10-12회 연속방송
 회차 : 10회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">10</episode-num>
@@ -16350,9 +16369,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107191000 +0900" stop="20261107202500 +0900" channel="kortv.dramacube">
+  <programme start="20261107190900 +0900" stop="20261107202400 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (11회)</title>
+    <sub-title lang="ko">10-12회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (11회)
+부제 : 10-12회 연속방송
 회차 : 11회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">11</episode-num>
@@ -16360,9 +16381,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107202500 +0900" stop="20261107214000 +0900" channel="kortv.dramacube">
+  <programme start="20261107202400 +0900" stop="20261107213900 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (12회)</title>
+    <sub-title lang="ko">10-12회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (12회)
+부제 : 10-12회 연속방송
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">12</episode-num>
@@ -16370,7 +16393,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107214000 +0900" stop="20261107230000 +0900" channel="kortv.dramacube">
+  <programme start="20261107213900 +0900" stop="20261107230100 +0900" channel="kortv.dramacube">
     <title lang="ko">이십세기 힛-트쏭 (260회)</title>
     <desc lang="ko">이십세기 힛-트쏭 (260회)
 회차 : 260회
@@ -16380,9 +16403,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107230000 +0900" stop="20261108005000 +0900" channel="kortv.dramacube">
+  <programme start="20261107230100 +0900" stop="20261108005500 +0900" channel="kortv.dramacube">
     <title lang="ko">나 혼자 산다 (638회)</title>
+    <sub-title lang="ko">기안84, 고강용</sub-title>
     <desc lang="ko">나 혼자 산다 (638회)
+부제 : 기안84, 고강용
 회차 : 638회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">638</episode-num>
@@ -16390,7 +16415,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108005000 +0900" stop="20261108023000 +0900" channel="kortv.dramacube">
+  <programme start="20261108005500 +0900" stop="20261108022700 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (29회)</title>
     <desc lang="ko">이호선 상담소 (29회)
 회차 : 29회
@@ -16400,7 +16425,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108023000 +0900" stop="20261108032500 +0900" channel="kortv.dramacube">
+  <programme start="20261108022700 +0900" stop="20261108031700 +0900" channel="kortv.dramacube">
     <title lang="ko">천추령 (27회)</title>
     <desc lang="ko">천추령 (27회)
 회차 : 27회
@@ -16410,7 +16435,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108032500 +0900" stop="20261108044000 +0900" channel="kortv.dramacube">
+  <programme start="20261108031700 +0900" stop="20261108043500 +0900" channel="kortv.dramacube">
     <title lang="ko">토요일은 밥이 좋아 하이라이트 (56회)</title>
     <desc lang="ko">토요일은 밥이 좋아 하이라이트 (56회)
 회차 : 56회
@@ -16420,7 +16445,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108044000 +0900" stop="20261108053000 +0900" channel="kortv.dramacube">
+  <programme start="20261108043500 +0900" stop="20261108052900 +0900" channel="kortv.dramacube">
     <title lang="ko">천추령 (28회)</title>
     <desc lang="ko">천추령 (28회)
 회차 : 28회
@@ -16430,7 +16455,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108053000 +0900" stop="20261108070000 +0900" channel="kortv.dramacube">
+  <programme start="20261108052900 +0900" stop="20261108065800 +0900" channel="kortv.dramacube">
     <title lang="ko">용감한 형사들5 (27회)</title>
     <desc lang="ko">용감한 형사들5 (27회)
 회차 : 27회
@@ -16440,9 +16465,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108070000 +0900" stop="20261108085000 +0900" channel="kortv.dramacube">
+  <programme start="20261108065800 +0900" stop="20261108084600 +0900" channel="kortv.dramacube">
     <title lang="ko">나 혼자 산다 (639회)</title>
+    <sub-title lang="ko">기안84, 배나라</sub-title>
     <desc lang="ko">나 혼자 산다 (639회)
+부제 : 기안84, 배나라
 회차 : 639회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">639</episode-num>
@@ -16450,7 +16477,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108085000 +0900" stop="20261108101000 +0900" channel="kortv.dramacube">
+  <programme start="20261108084600 +0900" stop="20261108101000 +0900" channel="kortv.dramacube">
     <title lang="ko">무엇이든 물어보살 (384회)</title>
     <desc lang="ko">무엇이든 물어보살 (384회)
 회차 : 384회
@@ -16460,7 +16487,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108101000 +0900" stop="20261108115000 +0900" channel="kortv.dramacube">
+  <programme start="20261108101000 +0900" stop="20261108115100 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (29회)</title>
     <desc lang="ko">이호선 상담소 (29회)
 회차 : 29회
@@ -16470,7 +16497,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108115000 +0900" stop="20261108134000 +0900" channel="kortv.dramacube">
+  <programme start="20261108115100 +0900" stop="20261108133800 +0900" channel="kortv.dramacube">
     <title lang="ko">말자쇼 (34회)</title>
     <desc lang="ko">말자쇼 (34회)
 회차 : 34회
@@ -16480,7 +16507,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108134000 +0900" stop="20261108150000 +0900" channel="kortv.dramacube">
+  <programme start="20261108133800 +0900" stop="20261108145900 +0900" channel="kortv.dramacube">
     <title lang="ko">무엇이든 물어보살 (368회)</title>
     <desc lang="ko">무엇이든 물어보살 (368회)
 회차 : 368회
@@ -16490,9 +16517,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108150000 +0900" stop="20261108161500 +0900" channel="kortv.dramacube">
+  <programme start="20261108145900 +0900" stop="20261108161600 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (11회)</title>
+    <sub-title lang="ko">11-16회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (11회)
+부제 : 11-16회 연속방송
 회차 : 11회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">11</episode-num>
@@ -16500,9 +16529,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108161500 +0900" stop="20261108173000 +0900" channel="kortv.dramacube">
+  <programme start="20261108161600 +0900" stop="20261108172800 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (12회)</title>
+    <sub-title lang="ko">11-16회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (12회)
+부제 : 11-16회 연속방송
 회차 : 12회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">12</episode-num>
@@ -16510,9 +16541,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108173000 +0900" stop="20261108184500 +0900" channel="kortv.dramacube">
+  <programme start="20261108172800 +0900" stop="20261108184300 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (13회)</title>
+    <sub-title lang="ko">11-16회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (13회)
+부제 : 11-16회 연속방송
 회차 : 13회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">13</episode-num>
@@ -16520,9 +16553,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108184500 +0900" stop="20261108200000 +0900" channel="kortv.dramacube">
+  <programme start="20261108184300 +0900" stop="20261108195600 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (14회)</title>
+    <sub-title lang="ko">11-16회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (14회)
+부제 : 11-16회 연속방송
 회차 : 14회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">14</episode-num>
@@ -16530,9 +16565,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108200000 +0900" stop="20261108211500 +0900" channel="kortv.dramacube">
+  <programme start="20261108195600 +0900" stop="20261108211100 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (15회)</title>
+    <sub-title lang="ko">11-16회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (15회)
+부제 : 11-16회 연속방송
 회차 : 15회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">15</episode-num>
@@ -16540,9 +16577,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108211500 +0900" stop="20261108223000 +0900" channel="kortv.dramacube">
+  <programme start="20261108211100 +0900" stop="20261108223000 +0900" channel="kortv.dramacube">
     <title lang="ko">태양의 후예 (16회)</title>
+    <sub-title lang="ko">11-16회 연속방송</sub-title>
     <desc lang="ko">태양의 후예 (16회)
+부제 : 11-16회 연속방송
 회차 : 16회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">16</episode-num>
@@ -16550,9 +16589,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108223000 +0900" stop="20261108234500 +0900" channel="kortv.dramacube">
+  <programme start="20261108223000 +0900" stop="20261108234600 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (9회)</title>
+    <sub-title lang="ko">김유정X박진영</sub-title>
     <desc lang="ko">100일의 거짓말 (9회)
+부제 : 김유정X박진영
 회차 : 9회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">9</episode-num>
@@ -16560,9 +16601,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261108234500 +0900" stop="20261109010000 +0900" channel="kortv.dramacube">
+  <programme start="20261108234600 +0900" stop="20261109010300 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (9회)</title>
+    <sub-title lang="ko">김유정X박진영</sub-title>
     <desc lang="ko">100일의 거짓말 (9회)
+부제 : 김유정X박진영
 회차 : 9회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">9</episode-num>
@@ -16570,7 +16613,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109010000 +0900" stop="20261109023000 +0900" channel="kortv.dramacube">
+  <programme start="20261109010300 +0900" stop="20261109023100 +0900" channel="kortv.dramacube">
     <title lang="ko">용감한 형사들5 (27회)</title>
     <desc lang="ko">용감한 형사들5 (27회)
 회차 : 27회
@@ -16580,7 +16623,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109023000 +0900" stop="20261109032500 +0900" channel="kortv.dramacube">
+  <programme start="20261109023100 +0900" stop="20261109032400 +0900" channel="kortv.dramacube">
     <title lang="ko">천추령 (29회)</title>
     <desc lang="ko">천추령 (29회)
 회차 : 29회
@@ -16590,7 +16633,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109032500 +0900" stop="20261109043000 +0900" channel="kortv.dramacube">
+  <programme start="20261109032400 +0900" stop="20261109043000 +0900" channel="kortv.dramacube">
     <title lang="ko">토요일은 밥이 좋아 하이라이트 (36회)</title>
     <desc lang="ko">토요일은 밥이 좋아 하이라이트 (36회)
 회차 : 36회
@@ -16600,9 +16643,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109043000 +0900" stop="20261109060500 +0900" channel="kortv.dramacube">
+  <programme start="20261109043000 +0900" stop="20261109060800 +0900" channel="kortv.dramacube">
     <title lang="ko">솔로라서 (6회)</title>
+    <sub-title lang="ko">황정음 편집본</sub-title>
     <desc lang="ko">솔로라서 (6회)
+부제 : 황정음 편집본
 회차 : 6회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">6</episode-num>
@@ -16610,7 +16655,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109060500 +0900" stop="20261109075500 +0900" channel="kortv.dramacube">
+  <programme start="20261109060800 +0900" stop="20261109075200 +0900" channel="kortv.dramacube">
     <title lang="ko">말자쇼 (34회)</title>
     <desc lang="ko">말자쇼 (34회)
 회차 : 34회
@@ -16620,7 +16665,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109075500 +0900" stop="20261109091500 +0900" channel="kortv.dramacube">
+  <programme start="20261109075200 +0900" stop="20261109091500 +0900" channel="kortv.dramacube">
     <title lang="ko">무엇이든 물어보살 (368회)</title>
     <desc lang="ko">무엇이든 물어보살 (368회)
 회차 : 368회
@@ -16630,9 +16675,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109091500 +0900" stop="20261109103000 +0900" channel="kortv.dramacube">
+  <programme start="20261109091500 +0900" stop="20261109103900 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (9회)</title>
+    <sub-title lang="ko">김유정X박진영</sub-title>
     <desc lang="ko">100일의 거짓말 (9회)
+부제 : 김유정X박진영
 회차 : 9회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">9</episode-num>
@@ -16640,7 +16687,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109103000 +0900" stop="20261109121000 +0900" channel="kortv.dramacube">
+  <programme start="20261109103900 +0900" stop="20261109121700 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (32회)</title>
     <desc lang="ko">이호선 상담소 (32회)
 회차 : 32회
@@ -16650,9 +16697,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109121000 +0900" stop="20261109133000 +0900" channel="kortv.dramacube">
+  <programme start="20261109121700 +0900" stop="20261109133400 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (9회)</title>
+    <sub-title lang="ko">김유정X박진영</sub-title>
     <desc lang="ko">100일의 거짓말 (9회)
+부제 : 김유정X박진영
 회차 : 9회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">9</episode-num>
@@ -16660,9 +16709,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109133000 +0900" stop="20261109144500 +0900" channel="kortv.dramacube">
+  <programme start="20261109133400 +0900" stop="20261109145500 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (9회)</title>
+    <sub-title lang="ko">김유정X박진영</sub-title>
     <desc lang="ko">100일의 거짓말 (9회)
+부제 : 김유정X박진영
 회차 : 9회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">9</episode-num>
@@ -16670,7 +16721,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109144500 +0900" stop="20261109162000 +0900" channel="kortv.dramacube">
+  <programme start="20261109145500 +0900" stop="20261109162900 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (25회)</title>
     <desc lang="ko">이호선 상담소 (25회)
 회차 : 25회
@@ -16680,7 +16731,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109162000 +0900" stop="20261109180000 +0900" channel="kortv.dramacube">
+  <programme start="20261109162900 +0900" stop="20261109180400 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (8회)</title>
     <desc lang="ko">이호선 상담소 (8회)
 회차 : 8회
@@ -16690,9 +16741,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109180000 +0900" stop="20261109193500 +0900" channel="kortv.dramacube">
+  <programme start="20261109180400 +0900" stop="20261109193600 +0900" channel="kortv.dramacube">
     <title lang="ko">아니 근데 진짜! (19회)</title>
+    <sub-title lang="ko">진선규,김지석</sub-title>
     <desc lang="ko">아니 근데 진짜! (19회)
+부제 : 진선규,김지석
 회차 : 19회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">19</episode-num>
@@ -16700,7 +16753,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109193500 +0900" stop="20261109211500 +0900" channel="kortv.dramacube">
+  <programme start="20261109193600 +0900" stop="20261109211300 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (32회)</title>
     <desc lang="ko">이호선 상담소 (32회)
 회차 : 32회
@@ -16710,9 +16763,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109211500 +0900" stop="20261109223000 +0900" channel="kortv.dramacube">
+  <programme start="20261109211300 +0900" stop="20261109223000 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (9회)</title>
+    <sub-title lang="ko">9-10회 연속방송</sub-title>
     <desc lang="ko">100일의 거짓말 (9회)
+부제 : 9-10회 연속방송
 회차 : 9회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">9</episode-num>
@@ -16720,9 +16775,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109223000 +0900" stop="20261109234500 +0900" channel="kortv.dramacube">
+  <programme start="20261109223000 +0900" stop="20261109234700 +0900" channel="kortv.dramacube">
     <title lang="ko">100일의 거짓말 (10회)</title>
+    <sub-title lang="ko">9-10회 연속방송</sub-title>
     <desc lang="ko">100일의 거짓말 (10회)
+부제 : 9-10회 연속방송
 회차 : 10회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">10</episode-num>
@@ -16730,7 +16787,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261109234500 +0900" stop="20261110012000 +0900" channel="kortv.dramacube">
+  <programme start="20261109234700 +0900" stop="20261110011600 +0900" channel="kortv.dramacube">
     <title lang="ko">이호선 상담소 (25회)</title>
     <desc lang="ko">이호선 상담소 (25회)
 회차 : 25회
@@ -16740,7 +16797,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261110012000 +0900" stop="20261110023000 +0900" channel="kortv.dramacube">
+  <programme start="20261110011600 +0900" stop="20261110023000 +0900" channel="kortv.dramacube">
     <title lang="ko">이십세기 힛-트쏭 (261회)</title>
     <desc lang="ko">이십세기 힛-트쏭 (261회)
 회차 : 261회
@@ -21522,6 +21579,306 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
 방송 : 재방송
 등급 : 전체 관람가</desc>
     <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106010000 +0900" stop="20261106013000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 배드민턴</title>
+    <sub-title lang="ko">10월 월간 리뷰</sub-title>
+    <desc lang="ko">스포타임 배드민턴
+부제 : 10월 월간 리뷰
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106013000 +0900" stop="20261106030000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106040000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔피언스리그 MD4 리뷰, 11/5</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔피언스리그 MD4 리뷰, 11/5
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106060000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 챔피언스리그 결승 히스토리</title>
+    <desc lang="ko">스포타임 챔피언스리그 결승 히스토리
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106080000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">2차전, 삼성:KT, 11/4</sub-title>
+    <desc lang="ko">2026 KBO리그 한국시리즈 하이라이트
+부제 : 2차전, 삼성:KT, 11/4
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106090000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106090000 +0900" stop="20261106100000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO 한국시리즈</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO 한국시리즈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0900" stop="20261106110000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">유로파-컨퍼런스리그</sub-title>
+    <desc lang="ko">[오늘 경기] 스포타임 풋볼 하이라이트
+부제 : 유로파-컨퍼런스리그
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106150000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식
+부제 : 2R
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106150000 +0900" stop="20261106170000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식
+부제 : 2R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106170000 +0900" stop="20261106185000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 하이라이트</title>
+    <sub-title lang="ko">챔스-유로파 주간 H/L, 11월 1주차</sub-title>
+    <desc lang="ko">스포타임 풋볼 하이라이트
+부제 : 챔스-유로파 주간 H/L, 11월 1주차
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106185000 +0900" stop="20261106210000 +0900" channel="SPOTV.kr">
+    <title lang="ko">26-27 여자프로농구</title>
+    <sub-title lang="ko">하나은행:KB스타즈</sub-title>
+    <desc lang="ko">26-27 여자프로농구
+부제 : 하나은행:KB스타즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼 하이라이트</title>
+    <sub-title lang="ko">KBO리그 역전 명승부</sub-title>
+    <desc lang="ko">스포타임 베이스볼 하이라이트
+부제 : KBO리그 역전 명승부
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107010000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">3차전, KT:삼성, 11/6</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 KBO리그 한국시리즈 하이라이트
+부제 : 3차전, KT:삼성, 11/6
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107010000 +0900" stop="20261107030000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107030000 +0900" stop="20261107050000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 메이저리그</title>
+    <sub-title lang="ko">오타니 2026 시즌 정주행</sub-title>
+    <desc lang="ko">스포타임 메이저리그
+부제 : 오타니 2026 시즌 정주행
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107050000 +0900" stop="20261107060000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트</title>
+    <desc lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107060000 +0900" stop="20261107070000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집, 11/6</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집, 11/6
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107070000 +0900" stop="20261107080000 +0900" channel="SPOTV.kr">
+    <title lang="ko">런 더 시티 시즌1</title>
+    <desc lang="ko">런 더 시티 시즌1
+방송 : 재방송
+등급 : 15세 이상 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107080000 +0900" stop="20261107090000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 풋볼 스페셜</title>
+    <sub-title lang="ko">챔피언스리그 MD4 GOALS</sub-title>
+    <desc lang="ko">스포타임 풋볼 스페셜
+부제 : 챔피언스리그 MD4 GOALS
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107090000 +0900" stop="20261107110000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107110000 +0900" stop="20261107123000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">3차전, KT:삼성, 11/6</sub-title>
+    <desc lang="ko">2026 KBO리그 한국시리즈 하이라이트
+부제 : 3차전, KT:삼성, 11/6
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107123000 +0900" stop="20261107153000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">3R</sub-title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식
+부제 : 3R
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107153000 +0900" stop="20261107173000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">3R</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 LPGA 토토 재팬 클래식
+부제 : 3R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107173000 +0900" stop="20261107183000 +0900" channel="SPOTV.kr">
+    <title lang="ko">스포타임 베이스볼</title>
+    <sub-title lang="ko">포스트시즌 특집</sub-title>
+    <desc lang="ko">스포타임 베이스볼
+부제 : 포스트시즌 특집
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107183000 +0900" stop="20261107203000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 KBO리그 한국시리즈 하이라이트</title>
+    <sub-title lang="ko">4차전, KT:삼성, 11/7</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 KBO리그 한국시리즈 하이라이트
+부제 : 4차전, KT:삼성, 11/7
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107203000 +0900" stop="20261107220000 +0900" channel="SPOTV.kr">
+    <title lang="ko">[오늘 경기] 2026 U-23 야구 월드컵</title>
+    <sub-title lang="ko">대한민국:쿠바, 11/7</sub-title>
+    <desc lang="ko">[오늘 경기] 2026 U-23 야구 월드컵
+부제 : 대한민국:쿠바, 11/7
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107220000 +0900" stop="20261108000000 +0900" channel="SPOTV.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
