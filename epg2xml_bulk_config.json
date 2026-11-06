@@ -739,11 +739,7 @@
     ]
   },
   "SPOTV": {
-    "MY_CHANNELS": [ {
-      "ServiceId": "9",
-      "Id": "SPOTV.kr",
-      "Name": "SPOTV"
-    }]
+    "MY_CHANNELS": []
   },
   "KBS": {
     "MY_CHANNELS": []
