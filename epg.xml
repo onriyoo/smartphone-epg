@@ -44,6 +44,13 @@
     <display-name>109 SPOTV PRIME+</display-name>
     <display-name>109 LG</display-name>
   </channel>
+  <channel id="SPOTV PRIME2.kr">
+    <display-name>SPOTV PRIME2</display-name>
+    <display-name>LG</display-name>
+    <display-name>111</display-name>
+    <display-name>111 SPOTV PRIME2</display-name>
+    <display-name>111 LG</display-name>
+  </channel>
   <channel id="빌리어즈TV.kr">
     <display-name>빌리어즈TV</display-name>
     <display-name>LG</display-name>
@@ -65,12 +72,26 @@
     <display-name>83 라이프타임</display-name>
     <display-name>83 LG</display-name>
   </channel>
+  <channel id="kortv.ishow">
+    <display-name>i show</display-name>
+    <display-name>LG</display-name>
+    <display-name>156</display-name>
+    <display-name>156 i show</display-name>
+    <display-name>156 LG</display-name>
+  </channel>
   <channel id="kortv.ib스포츠">
     <display-name>IB스포츠</display-name>
     <display-name>LG</display-name>
     <display-name>113</display-name>
     <display-name>113 IB스포츠</display-name>
     <display-name>113 LG</display-name>
+  </channel>
+  <channel id="kortv.iplay">
+    <display-name>i play</display-name>
+    <display-name>LG</display-name>
+    <display-name>190</display-name>
+    <display-name>190 i play</display-name>
+    <display-name>190 LG</display-name>
   </channel>
   <channel id="히스토리.kr">
     <display-name>히스토리</display-name>
@@ -379,6 +400,10 @@
   
 <channel id="TV조선.kr">
     <display-name>TV CHOSUN</display-name>
+  </channel>
+  
+<channel id="MBN플러스.kr">
+    <display-name>MBN 플러스</display-name>
   </channel>
   
 <programme start="20261106000000 +0900" stop="20261106013000 +0900" channel="kortv.kbs1대구">
@@ -821,7 +846,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106233000 +0900" stop="20261107000000 +0900" channel="kortv.kbs1대구">
+  <programme start="20261106233000 +0900" stop="20261107004000 +0900" channel="kortv.kbs1대구">
     <title lang="ko">독립영화관</title>
     <sub-title lang="ko">- 복순씨의 원데이 클라쓰 - 엄마딸</sub-title>
     <desc lang="ko">독립영화관
@@ -833,6 +858,464 @@
     <category lang="en">Movie / Drama</category>
     <rating system="KR">
       <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107004000 +0900" stop="20261107013500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">동네 한 바퀴</title>
+    <desc lang="ko">동네 한 바퀴
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107013500 +0900" stop="20261107014000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">국가유산순례 드오</title>
+    <desc lang="ko">국가유산순례 드오
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107014000 +0900" stop="20261107023500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
+    <desc lang="ko">걸어서 세계속으로 트래블홀릭
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107023500 +0900" stop="20261107034500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">무엇이든 물어보세요</title>
+    <desc lang="ko">무엇이든 물어보세요
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가
+실생활 속 필수아이템에 대한 정확한 지식을 전달 및 시청자참여 중심의 오랜 전통을 이어오고 있는 정통 교양정보 프로그램</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107034500 +0900" stop="20261107050000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">아침마당</title>
+    <desc lang="ko">아침마당
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가
+이 시대를 다양하게 살아가는 일상에서 만나는 평범한 사람들의 거짓 없는 삶을 통해서 즐거운 아침, 건강한 아침, 감동이 함께 한다.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107050000 +0900" stop="20261107051000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 재난방송센터</title>
+    <desc lang="ko">KBS 재난방송센터
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107051000 +0900" stop="20261107060000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">트레킹노트 세상을 걷다</title>
+    <desc lang="ko">트레킹노트 세상을 걷다
+장르 : 뉴스/정보
+등급 : 전체 관람가
+UHD 개국특집</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107060000 +0900" stop="20261107075000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스광장</title>
+    <desc lang="ko">KBS 뉴스광장
+장르 : 뉴스/정보
+등급 : 전체 관람가
+밤사이 국내외뉴스 종합보도뉴스 심층해설각종 생활정보 전달</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107075000 +0900" stop="20261107083000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">남북의 창</title>
+    <desc lang="ko">남북의 창
+장르 : 뉴스/정보
+등급 : 전체 관람가
+1989년 시작된 남북의 창은 수십년 동안 다른 체제를 유지해 온 남북이 서로에 대한 이해와 화합의 공감대를 넓히도록 기여하고, 이를 통해 궁극적으로 민족의 지상 과제인 통일에 대비해 동질성을 회복하는 가교..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107083000 +0900" stop="20261107092500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">가요무대</title>
+    <desc lang="ko">가요무대
+방송 : 재방송
+장르 : 공연/음악
+등급 : 전체 관람가
+1985년부터 이어오고 있는 가요무대, 잔잔한 향수와 추억이 담겨있는 전통가요의 무대가 펼쳐진다.</desc>
+    <category lang="ko">공연/음악</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107092500 +0900" stop="20261107093000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">국가유산순례 드오</title>
+    <desc lang="ko">국가유산순례 드오
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107093000 +0900" stop="20261107094000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스</title>
+    <desc lang="ko">KBS 뉴스
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107094000 +0900" stop="20261107103000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">걸어서 세계속으로</title>
+    <desc lang="ko">걸어서 세계속으로
+장르 : 뉴스/정보
+등급 : 전체 관람가
+순수한 여행자의 시각으로 한 도시가 가지고 있는 생활 문화를 특징적으로 보여 줄 수 있는 그들의 생활, 공간, 건축물 등 다양한 모습들을 카메라에 담아 볼거리와 재미 속에 차분하고 여유로운 터치로 보여주는..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107103000 +0900" stop="20261107111000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">팔도밥상</title>
+    <desc lang="ko">팔도밥상
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107111000 +0900" stop="20261107120000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">사랑의 가족</title>
+    <desc lang="ko">사랑의 가족
+장르 : 뉴스/정보
+등급 : 전체 관람가
+우리의 이웃, 우리의 가족인 사회의 같은 구성원인 장애인의 삶과 희망을 진솔한 시선으로 전해주는 지상파 유일의 장애인 전문 프로그램이다. 사회에 참여하는 당당한 장애인의 삶과 모습을 조명하고 비장애인과..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107120000 +0900" stop="20261107121000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스</title>
+    <desc lang="ko">KBS 뉴스
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107121000 +0900" stop="20261107130500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">국악 한마당</title>
+    <desc lang="ko">국악 한마당
+장르 : 공연/음악
+등급 : 전체 관람가
+우리의 국악, 공연, 교육 등의 정보와 이야기를 나누는 국내 최장수 국악 전문 프로그램</desc>
+    <category lang="ko">공연/음악</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107130500 +0900" stop="20261107135500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 네트워크 기획</title>
+    <sub-title lang="ko">청소년 소통 프로젝트 [춘천총국]</sub-title>
+    <desc lang="ko">KBS 네트워크 기획
+부제 : 청소년 소통 프로젝트 [춘천총국]
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107135500 +0900" stop="20261107141000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">쫑알쫑알 똘똘이 네번째 이야기</title>
+    <desc lang="ko">쫑알쫑알 똘똘이 네번째 이야기
+장르 : 만화
+등급 : 전체 관람가</desc>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107141000 +0900" stop="20261107142500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">지구의 주인은 고양이다 2</title>
+    <desc lang="ko">지구의 주인은 고양이다 2
+장르 : 만화
+등급 : 7세 이상 관람가</desc>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KR">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107142500 +0900" stop="20261107145500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">주섬주섬 이야기보따리</title>
+    <desc lang="ko">주섬주섬 이야기보따리
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107145500 +0900" stop="20261107151000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">키키팝팝</title>
+    <desc lang="ko">키키팝팝
+장르 : 만화
+등급 : 전체 관람가</desc>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107151000 +0900" stop="20261107160000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">시사기획 창</title>
+    <desc lang="ko">시사기획 창
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107160000 +0900" stop="20261107161000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">생활의 발견 스페셜</title>
+    <desc lang="ko">생활의 발견 스페셜
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가
+생활 속에서 직면하게 되는 때로는 간단하기도. 때로는 버겁기도 한 문제들을 해결하기 위한 살림 노하우와 생활정보, 건강, 음식 정보등 실생활에 꼭 필요한 정보들을 소개한다.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107161000 +0900" stop="20261107170000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">일꾼의 탄생 3 (3회)</title>
+    <desc lang="ko">일꾼의 탄생 3 (3회)
+방송 : 재방송
+회차 : 3회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107170000 +0900" stop="20261107171000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스</title>
+    <desc lang="ko">KBS 뉴스
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107171000 +0900" stop="20261107180000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">동물의 왕국</title>
+    <desc lang="ko">동물의 왕국
+장르 : 다큐
+등급 : 전체 관람가
+BBC, 내셔널지오그래픽, NHK, 유럽의 최고 다큐제작사 등 세계 일류의 다큐멘터리 전문 제작사들이 제작한 고급 다큐멘터리들을 엄선하고, 우리말로 더빙하여 정확한 해설로 일반 시청자들에게 소개하여 생태계 이..</desc>
+    <category lang="ko">다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107180000 +0900" stop="20261107185500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">동행</title>
+    <desc lang="ko">동행
+장르 : 뉴스/정보
+등급 : 전체 관람가
+빈곤층의 가난한 삶보다 그들의 재건에 초점을 맞추고자 한다. 빈곤층들을 주인공으로 한 프로그램들은 그들의 처절한 현실을 보여주는데 주력해왔고, 가난이 만든 일상의 나열은 따뜻한 성원과 모금으로 이어졌으..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107185500 +0900" stop="20261107190000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">숨터 스페셜</title>
+    <desc lang="ko">숨터 스페셜
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가
+우리주변의 살아 숨 쉬는 자연의 모습을 통해 빠르게 움직이는 일상생활 속에서 삶의 여유를 찾고 힐링할 수 있는 시간을 제공한다. 기존 다큐멘터리의 문법을 벗어나 아름다운 길, 삶의 현장, 비경 등을 내레이션..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107190000 +0900" stop="20261107191000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스</title>
+    <desc lang="ko">KBS 뉴스
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107191000 +0900" stop="20261107200500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">동네 한 바퀴</title>
+    <desc lang="ko">동네 한 바퀴
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107200500 +0900" stop="20261107201000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">국가유산순례 드오</title>
+    <desc lang="ko">국가유산순례 드오
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107201000 +0900" stop="20261107210000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">한국인의 밥상</title>
+    <desc lang="ko">한국인의 밥상
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가
+매일 우리는 밥상을 마주한다. 우리의 밥상 속 이야기를 통해 한국인들의 다양한 음식 문화를 보여주고, 식품과 식재료에 대한 영양학적 고찰을 통하여 올바른 정보를 제공하는 프로그램이다.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107210000 +0900" stop="20261107212000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스 9</title>
+    <desc lang="ko">KBS 뉴스 9
+장르 : 뉴스/정보
+등급 : 전체 관람가
+당일발생 사안을 시청자들에게 신속히 전달하고 관련 현안을 종합 정리해 분석보도.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107212000 +0900" stop="20261107212500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS뉴스9(대구)</title>
+    <desc lang="ko">KBS뉴스9(대구)
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107212500 +0900" stop="20261107213000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">KBS 뉴스 9</title>
+    <desc lang="ko">KBS 뉴스 9
+장르 : 뉴스/정보
+등급 : 전체 관람가
+당일발생 사안을 시청자들에게 신속히 전달하고 관련 현안을 종합 정리해 분석보도.</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107213000 +0900" stop="20261107221500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">특파원 보고 세계는 지금</title>
+    <desc lang="ko">특파원 보고 세계는 지금
+장르 : 뉴스/정보
+등급 : 전체 관람가
+세계 곳곳에서 일어나고 있는 사건들을 알기 쉽게 소개해 주는 프로그램</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107221500 +0900" stop="20261107230500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">다큐 온</title>
+    <desc lang="ko">다큐 온
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107230500 +0900" stop="20261107235500 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">백투더뮤직 시즌 2</title>
+    <sub-title lang="ko">[전주총국]</sub-title>
+    <desc lang="ko">백투더뮤직 시즌 2
+부제 : [전주총국]
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107235500 +0900" stop="20261108000000 +0900" channel="kortv.kbs1대구">
+    <title lang="ko">숨터 스페셜</title>
+    <desc lang="ko">숨터 스페셜
+방송 : 재방송
+장르 : 뉴스/정보
+등급 : 전체 관람가
+우리주변의 살아 숨 쉬는 자연의 모습을 통해 빠르게 움직이는 일상생활 속에서 삶의 여유를 찾고 힐링할 수 있는 시간을 제공한다. 기존 다큐멘터리의 문법을 벗어나 아름다운 길, 삶의 현장, 비경 등을 내레이션..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20261106000000 +0900" stop="20261106002000 +0900" channel="kortv.mbc대구">
@@ -4494,6 +4977,418 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
       <value>전체 관람가</value>
     </rating>
   </programme>
+  <programme start="20261106000000 +0900" stop="20261106010000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 BWF 배드민턴 하이라이트</title>
+    <desc lang="ko">2026 BWF 배드민턴 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106010000 +0900" stop="20261106013000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 H/L</title>
+    <desc lang="ko">26-27 챔피언스리그 H/L
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106013000 +0900" stop="20261106023500 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106023500 +0900" stop="20261106045000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">[영어중계] 26-27 유로파리그 매치데이 4</title>
+    <desc lang="ko">[영어중계] 26-27 유로파리그 매치데이 4
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106045000 +0900" stop="20261106070000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">[영어중계] 26-27 유로파리그 매치데이 4</title>
+    <desc lang="ko">[영어중계] 26-27 유로파리그 매치데이 4
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106070000 +0900" stop="20261106090000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 유로파리그 매치데이 4</title>
+    <desc lang="ko">26-27 유로파리그 매치데이 4
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106090000 +0900" stop="20261106110000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 컨퍼런스리그 매치데이 3</title>
+    <desc lang="ko">26-27 컨퍼런스리그 매치데이 3
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106110000 +0900" stop="20261106120000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 유로파리그 하이라이트</title>
+    <desc lang="ko">26-27 유로파리그 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106120000 +0900" stop="20261106130000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 컨퍼런스리그 하이라이트</title>
+    <desc lang="ko">26-27 컨퍼런스리그 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106130000 +0900" stop="20261106150000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106150000 +0900" stop="20261106170000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 유로파리그 매치데이 4</title>
+    <desc lang="ko">26-27 유로파리그 매치데이 4
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106170000 +0900" stop="20261106190000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 컨퍼런스리그 매치데이 3</title>
+    <desc lang="ko">26-27 컨퍼런스리그 매치데이 3
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106190000 +0900" stop="20261106200000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 유로파리그 하이라이트</title>
+    <desc lang="ko">26-27 유로파리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106200000 +0900" stop="20261106210000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 컨퍼런스리그 하이라이트</title>
+    <desc lang="ko">26-27 컨퍼런스리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">SPOTIME FOOTBALL 하이라이트</title>
+    <desc lang="ko">SPOTIME FOOTBALL 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 컨퍼런스리그 하이라이트</title>
+    <desc lang="ko">26-27 컨퍼런스리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107000000 +0900" stop="20261107020000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107020000 +0900" stop="20261107030000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107030000 +0900" stop="20261107040000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 유로파리그 하이라이트</title>
+    <desc lang="ko">26-27 유로파리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107040000 +0900" stop="20261107050000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 컨퍼런스리그 하이라이트</title>
+    <desc lang="ko">26-27 컨퍼런스리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107050000 +0900" stop="20261107070000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">SPOTIME FOOTBALL 하이라이트</title>
+    <desc lang="ko">SPOTIME FOOTBALL 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107070000 +0900" stop="20261107090000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107090000 +0900" stop="20261107100000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">SPOTIME FOOTBALL 스페셜</title>
+    <desc lang="ko">SPOTIME FOOTBALL 스페셜
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107100000 +0900" stop="20261107110000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107110000 +0900" stop="20261107120000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107120000 +0900" stop="20261107140000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 메이저리그 사커</title>
+    <desc lang="ko">2026 메이저리그 사커
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107140000 +0900" stop="20261107150000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 유로파리그 하이라이트</title>
+    <desc lang="ko">26-27 유로파리그 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107150000 +0900" stop="20261107155000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107155000 +0900" stop="20261107180000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 여자프로농구</title>
+    <desc lang="ko">26-27 여자프로농구
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107180000 +0900" stop="20261107190000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">SPOTIME FOOTBALL 스페셜</title>
+    <desc lang="ko">SPOTIME FOOTBALL 스페셜
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107190000 +0900" stop="20261107210000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">SPOTIME 손흥민 스페셜</title>
+    <desc lang="ko">SPOTIME 손흥민 스페셜
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107210000 +0900" stop="20261107225000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
+    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107225000 +0900" stop="20261108000000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">[영어중계] 26-27 세리에A 11R</title>
+    <desc lang="ko">[영어중계] 26-27 세리에A 11R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20261106013000 +0900" stop="20261106030000 +0900" channel="빌리어즈TV.kr">
     <title lang="ko">26-27시즌 TOP PICK (4회)</title>
     <sub-title lang="ko">상반기 최고의 투어경기</sub-title>
@@ -5493,7 +6388,7 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106225400 +0900" stop="20261107000000 +0900" channel="라이프타임.kr">
+  <programme start="20261106225400 +0900" stop="20261107001800 +0900" channel="라이프타임.kr">
     <title lang="ko">그것이 알고싶다 (2회)</title>
     <desc lang="ko">그것이 알고싶다 (2회)
 회차 : 2회
@@ -5503,6 +6398,1609 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
     <episode-num system="onscreen">2</episode-num>
     <rating system="KR">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107001800 +0900" stop="20261107011600 +0900" channel="라이프타임.kr">
+    <title lang="ko">건썰다방2</title>
+    <sub-title lang="ko">8,9회</sub-title>
+    <desc lang="ko">건썰다방2
+부제 : 8,9회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107011600 +0900" stop="20261107020000 +0900" channel="라이프타임.kr">
+    <title lang="ko">더도슨트 시즌2 (12회)</title>
+    <desc lang="ko">더도슨트 시즌2 (12회)
+회차 : 12회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">12</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107020000 +0900" stop="20261107030000 +0900" channel="라이프타임.kr">
+    <title lang="ko">위대한 미스터리 (65회)</title>
+    <desc lang="ko">위대한 미스터리 (65회)
+회차 : 65회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">65</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107030000 +0900" stop="20261107040000 +0900" channel="라이프타임.kr">
+    <title lang="ko">늪지대의 악어사냥꾼 17 (12회)</title>
+    <desc lang="ko">늪지대의 악어사냥꾼 17 (12회)
+회차 : 12회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">12</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107040000 +0900" stop="20261107050000 +0900" channel="라이프타임.kr">
+    <title lang="ko">위대한 미스터리 시즌6 (한국어 더빙) (10회)</title>
+    <desc lang="ko">위대한 미스터리 시즌6 (한국어 더빙) (10회)
+회차 : 10회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">10</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107050000 +0900" stop="20261107061000 +0900" channel="라이프타임.kr">
+    <title lang="ko">뮤직앤조이 (18회)</title>
+    <desc lang="ko">뮤직앤조이 (18회)
+회차 : 18회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">18</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107061000 +0900" stop="20261107072000 +0900" channel="라이프타임.kr">
+    <title lang="ko">뮤직앤조이 (19회)</title>
+    <desc lang="ko">뮤직앤조이 (19회)
+회차 : 19회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">19</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107072000 +0900" stop="20261107075000 +0900" channel="라이프타임.kr">
+    <title lang="ko">데이트플래너 (4회)</title>
+    <desc lang="ko">데이트플래너 (4회)
+회차 : 4회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107075000 +0900" stop="20261107090000 +0900" channel="라이프타임.kr">
+    <title lang="ko">오페라하우스 시즌3 (5회)</title>
+    <desc lang="ko">오페라하우스 시즌3 (5회)
+회차 : 5회
+장르 : 공연/음악
+등급 : 전체 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107090000 +0900" stop="20261107095000 +0900" channel="라이프타임.kr">
+    <title lang="ko">더도슨트 시즌2 (13회)</title>
+    <desc lang="ko">더도슨트 시즌2 (13회)
+회차 : 13회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">13</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107095000 +0900" stop="20261107111000 +0900" channel="라이프타임.kr">
+    <title lang="ko">태군노래자랑 2 (22회)</title>
+    <desc lang="ko">태군노래자랑 2 (22회)
+회차 : 22회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+태군 노래자랑에 욕망 요요미가 나타났다! 축제~ 축제 열렸네!! 마산어시장에 축제 열렸네~!!! 박군, 요요미! 북적북적 흥나는 축제장을 홀려 참가자를 발굴하라!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">22</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107111000 +0900" stop="20261107124000 +0900" channel="라이프타임.kr">
+    <title lang="ko">모던인물사 미스터리 (32회)</title>
+    <desc lang="ko">모던인물사 미스터리 (32회)
+회차 : 32회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">32</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107124000 +0900" stop="20261107140000 +0900" channel="라이프타임.kr">
+    <title lang="ko">TV 동물농장 (4회)</title>
+    <desc lang="ko">TV 동물농장 (4회)
+회차 : 4회
+장르 : 뉴스/정보
+등급 : 전체 관람가
+인간사만큼이나 무궁무진한 동물들 삶의 애환과 고뇌, 기적과 운명이 교차하는 동물의 세계를 그들의 입장에서 이해하고 공감하도록 유도하는 동물 전문 프로그램. 인간 중심의 사회에서 벗어나 인간과 동물의 진..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107140000 +0900" stop="20261107152000 +0900" channel="라이프타임.kr">
+    <title lang="ko">그것이 알고 싶다 (2회)</title>
+    <desc lang="ko">그것이 알고 싶다 (2회)
+방송 : 재방송
+회차 : 2회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107152000 +0900" stop="20261107164000 +0900" channel="라이프타임.kr">
+    <title lang="ko">용감한 형사들 4 (66회)</title>
+    <desc lang="ko">용감한 형사들 4 (66회)
+방송 : 재방송
+회차 : 66회
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">66</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107164000 +0900" stop="20261107174000 +0900" channel="라이프타임.kr">
+    <title lang="ko">과학수사대 스모킹 건 시즌2 (79회)</title>
+    <desc lang="ko">과학수사대 스모킹 건 시즌2 (79회)
+방송 : 재방송
+회차 : 79회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">79</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107174000 +0900" stop="20261107191000 +0900" channel="라이프타임.kr">
+    <title lang="ko">탐정들의 영업비밀 (117회)</title>
+    <desc lang="ko">탐정들의 영업비밀 (117회)
+방송 : 재방송
+회차 : 117회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+홈스, 코난처럼 대한민국에도 탐정이 있다? 집계된 탐정 수만 약 2만 명! 베일에 싸여있던 탐정들의 영업비밀 공개</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">117</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107191000 +0900" stop="20261107203000 +0900" channel="라이프타임.kr">
+    <title lang="ko">그것이 알고 싶다 (2회)</title>
+    <desc lang="ko">그것이 알고 싶다 (2회)
+방송 : 재방송
+회차 : 2회
+장르 : 뉴스/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107203000 +0900" stop="20261107213000 +0900" channel="라이프타임.kr">
+    <title lang="ko">과학수사대 스모킹 건 시즌2 (79회)</title>
+    <desc lang="ko">과학수사대 스모킹 건 시즌2 (79회)
+방송 : 재방송
+회차 : 79회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">79</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107213000 +0900" stop="20261107225000 +0900" channel="라이프타임.kr">
+    <title lang="ko">TV 동물농장 (4회)</title>
+    <desc lang="ko">TV 동물농장 (4회)
+방송 : 재방송
+회차 : 4회
+장르 : 뉴스/정보
+등급 : 전체 관람가
+인간사만큼이나 무궁무진한 동물들 삶의 애환과 고뇌, 기적과 운명이 교차하는 동물의 세계를 그들의 입장에서 이해하고 공감하도록 유도하는 동물 전문 프로그램. 인간 중심의 사회에서 벗어나 인간과 동물의 진..</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107225000 +0900" stop="20261108000000 +0900" channel="라이프타임.kr">
+    <title lang="ko">밑도 끝도 없이, 너다 (5회)</title>
+    <desc lang="ko">밑도 끝도 없이, 너다 (5회)
+회차 : 5회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106004100 +0900" stop="20261106004500 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (9회)</title>
+    <desc lang="ko">시간의 기억 (9회)
+방송 : 재방송
+회차 : 9회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">9</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106004500 +0900" stop="20261106013000 +0900" channel="kortv.ishow">
+    <title lang="ko">미스쓰리랑 (4회)</title>
+    <desc lang="ko">미스쓰리랑 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106013000 +0900" stop="20261106013400 +0900" channel="kortv.ishow">
+    <title lang="ko">심취 (4회)</title>
+    <desc lang="ko">심취 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106013400 +0900" stop="20261106021700 +0900" channel="kortv.ishow">
+    <title lang="ko">트로트 차차차 (2회)</title>
+    <desc lang="ko">트로트 차차차 (2회)
+회차 : 2회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106021700 +0900" stop="20261106030000 +0900" channel="kortv.ishow">
+    <title lang="ko">심취 (4회)</title>
+    <desc lang="ko">심취 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106040200 +0900" channel="kortv.ishow">
+    <title lang="ko">심취 (10회)</title>
+    <desc lang="ko">심취 (10회)
+방송 : 재방송
+회차 : 10회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040200 +0900" stop="20261106044700 +0900" channel="kortv.ishow">
+    <title lang="ko">불타는 장미단 (23회)</title>
+    <desc lang="ko">불타는 장미단 (23회)
+회차 : 23회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+붉은 장미가 탄생시킨 뜨거운 남자들! 불타는 트롯맨 TOP7! 장미 꽃잎보다 뜨겁고 가시보다 아찔하다! 눈을 뗄 수 없는 7인 7색의 매력으로 화요일 밤을 붉게 물들일 불타는 쇼가 펼쳐진다!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">23</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106044700 +0900" stop="20261106045000 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (5회)</title>
+    <desc lang="ko">시간의 기억 (5회)
+방송 : 재방송
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106045000 +0900" stop="20261106053600 +0900" channel="kortv.ishow">
+    <title lang="ko">불타는 장미단 (23회)</title>
+    <desc lang="ko">불타는 장미단 (23회)
+회차 : 23회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+붉은 장미가 탄생시킨 뜨거운 남자들! 불타는 트롯맨 TOP7! 장미 꽃잎보다 뜨겁고 가시보다 아찔하다! 눈을 뗄 수 없는 7인 7색의 매력으로 화요일 밤을 붉게 물들일 불타는 쇼가 펼쳐진다!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">23</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106053600 +0900" stop="20261106054000 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (6회)</title>
+    <desc lang="ko">시간의 기억 (6회)
+방송 : 재방송
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106054000 +0900" stop="20261106062300 +0900" channel="kortv.ishow">
+    <title lang="ko">불타는 장미단 (23회)</title>
+    <desc lang="ko">불타는 장미단 (23회)
+회차 : 23회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+붉은 장미가 탄생시킨 뜨거운 남자들! 불타는 트롯맨 TOP7! 장미 꽃잎보다 뜨겁고 가시보다 아찔하다! 눈을 뗄 수 없는 7인 7색의 매력으로 화요일 밤을 붉게 물들일 불타는 쇼가 펼쳐진다!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">23</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106062300 +0900" stop="20261106070500 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (5회)</title>
+    <desc lang="ko">미스트롯 4 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106070500 +0900" stop="20261106070800 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (7회)</title>
+    <desc lang="ko">시간의 기억 (7회)
+방송 : 재방송
+회차 : 7회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106070800 +0900" stop="20261106075100 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (5회)</title>
+    <desc lang="ko">미스트롯 4 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106075100 +0900" stop="20261106075500 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (8회)</title>
+    <desc lang="ko">시간의 기억 (8회)
+방송 : 재방송
+회차 : 8회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">8</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106075500 +0900" stop="20261106083800 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (5회)</title>
+    <desc lang="ko">미스트롯 4 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106083800 +0900" stop="20261106084200 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (9회)</title>
+    <desc lang="ko">시간의 기억 (9회)
+방송 : 재방송
+회차 : 9회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">9</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106084200 +0900" stop="20261106092500 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (5회)</title>
+    <desc lang="ko">미스트롯 4 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106092500 +0900" stop="20261106092900 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (10회)</title>
+    <desc lang="ko">시간의 기억 (10회)
+방송 : 재방송
+회차 : 10회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106092900 +0900" stop="20261106101300 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (5회)</title>
+    <desc lang="ko">미스트롯 4 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106101300 +0900" stop="20261106105800 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (2회)</title>
+    <desc lang="ko">전설의 사내 (2회)
+방송 : 재방송
+회차 : 2회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106105800 +0900" stop="20261106110100 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (11회)</title>
+    <desc lang="ko">시간의 기억 (11회)
+방송 : 재방송
+회차 : 11회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">11</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106110100 +0900" stop="20261106114700 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (2회)</title>
+    <desc lang="ko">전설의 사내 (2회)
+방송 : 재방송
+회차 : 2회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106114700 +0900" stop="20261106115000 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (12회)</title>
+    <desc lang="ko">시간의 기억 (12회)
+방송 : 재방송
+회차 : 12회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">12</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106115000 +0900" stop="20261106123300 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (2회)</title>
+    <desc lang="ko">전설의 사내 (2회)
+방송 : 재방송
+회차 : 2회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106123300 +0900" stop="20261106123700 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (13회)</title>
+    <desc lang="ko">시간의 기억 (13회)
+방송 : 재방송
+회차 : 13회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">13</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106123700 +0900" stop="20261106131900 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (2회)</title>
+    <desc lang="ko">전설의 사내 (2회)
+방송 : 재방송
+회차 : 2회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106131900 +0900" stop="20261106140200 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (5회)</title>
+    <desc lang="ko">무명전설 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106140200 +0900" stop="20261106140600 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (14회)</title>
+    <desc lang="ko">시간의 기억 (14회)
+방송 : 재방송
+회차 : 14회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">14</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106140600 +0900" stop="20261106144900 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (5회)</title>
+    <desc lang="ko">무명전설 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106144900 +0900" stop="20261106145300 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (15회)</title>
+    <desc lang="ko">시간의 기억 (15회)
+방송 : 재방송
+회차 : 15회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">15</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106145300 +0900" stop="20261106153500 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (5회)</title>
+    <desc lang="ko">무명전설 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106153500 +0900" stop="20261106153900 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (16회)</title>
+    <desc lang="ko">시간의 기억 (16회)
+방송 : 재방송
+회차 : 16회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">16</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106153900 +0900" stop="20261106162000 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (5회)</title>
+    <desc lang="ko">무명전설 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106162000 +0900" stop="20261106162400 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (17회)</title>
+    <desc lang="ko">시간의 기억 (17회)
+방송 : 재방송
+회차 : 17회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">17</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106162400 +0900" stop="20261106170600 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (5회)</title>
+    <desc lang="ko">무명전설 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106170600 +0900" stop="20261106174700 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106174700 +0900" stop="20261106175100 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (18회)</title>
+    <desc lang="ko">시간의 기억 (18회)
+방송 : 재방송
+회차 : 18회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">18</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106175100 +0900" stop="20261106183300 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106183300 +0900" stop="20261106183700 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (19회)</title>
+    <desc lang="ko">시간의 기억 (19회)
+방송 : 재방송
+회차 : 19회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">19</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106183700 +0900" stop="20261106191800 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106191800 +0900" stop="20261106192200 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (20회)</title>
+    <desc lang="ko">시간의 기억 (20회)
+방송 : 재방송
+회차 : 20회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">20</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106192200 +0900" stop="20261106200200 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106200200 +0900" stop="20261106204600 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (5회)</title>
+    <desc lang="ko">현역가왕 3 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106204600 +0900" stop="20261106205000 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (21회)</title>
+    <desc lang="ko">시간의 기억 (21회)
+방송 : 재방송
+회차 : 21회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">21</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106205000 +0900" stop="20261106213300 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (5회)</title>
+    <desc lang="ko">현역가왕 3 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106213300 +0900" stop="20261106213600 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (22회)</title>
+    <desc lang="ko">시간의 기억 (22회)
+방송 : 재방송
+회차 : 22회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">22</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106213600 +0900" stop="20261106222300 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (5회)</title>
+    <desc lang="ko">현역가왕 3 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106222300 +0900" stop="20261106222600 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (1회)</title>
+    <desc lang="ko">시간의 기억 (1회)
+방송 : 재방송
+회차 : 1회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">1</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106222600 +0900" stop="20261106231400 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (5회)</title>
+    <desc lang="ko">현역가왕 3 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106231400 +0900" stop="20261107000500 +0900" channel="kortv.ishow">
+    <title lang="ko">미스쓰리랑 (5회)</title>
+    <desc lang="ko">미스쓰리랑 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107000500 +0900" stop="20261107000900 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (9회)</title>
+    <desc lang="ko">시간의 기억 (9회)
+방송 : 재방송
+회차 : 9회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">9</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107000900 +0900" stop="20261107005900 +0900" channel="kortv.ishow">
+    <title lang="ko">미스쓰리랑 (5회)</title>
+    <desc lang="ko">미스쓰리랑 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107005900 +0900" stop="20261107010300 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (10회)</title>
+    <desc lang="ko">시간의 기억 (10회)
+방송 : 재방송
+회차 : 10회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107010300 +0900" stop="20261107015300 +0900" channel="kortv.ishow">
+    <title lang="ko">미스쓰리랑 (5회)</title>
+    <desc lang="ko">미스쓰리랑 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107015300 +0900" stop="20261107023600 +0900" channel="kortv.ishow">
+    <title lang="ko">미니 콘서트 (4회)</title>
+    <desc lang="ko">미니 콘서트 (4회)
+회차 : 4회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107023600 +0900" stop="20261107030000 +0900" channel="kortv.ishow">
+    <title lang="ko">가요를 부탁해 (2회)</title>
+    <desc lang="ko">가요를 부탁해 (2회)
+회차 : 2회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107030000 +0900" stop="20261107040400 +0900" channel="kortv.ishow">
+    <title lang="ko">심취 (5회)</title>
+    <desc lang="ko">심취 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107040400 +0900" stop="20261107045300 +0900" channel="kortv.ishow">
+    <title lang="ko">미니 콘서트 (110회)</title>
+    <desc lang="ko">미니 콘서트 (110회)
+회차 : 110회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">110</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107045300 +0900" stop="20261107053500 +0900" channel="kortv.ishow">
+    <title lang="ko">불타는 장미단 (24회)</title>
+    <desc lang="ko">불타는 장미단 (24회)
+회차 : 24회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+붉은 장미가 탄생시킨 뜨거운 남자들! 불타는 트롯맨 TOP7! 장미 꽃잎보다 뜨겁고 가시보다 아찔하다! 눈을 뗄 수 없는 7인 7색의 매력으로 화요일 밤을 붉게 물들일 불타는 쇼가 펼쳐진다!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">24</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107053500 +0900" stop="20261107053900 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (6회)</title>
+    <desc lang="ko">시간의 기억 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107053900 +0900" stop="20261107062000 +0900" channel="kortv.ishow">
+    <title lang="ko">불타는 장미단 (24회)</title>
+    <desc lang="ko">불타는 장미단 (24회)
+회차 : 24회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+붉은 장미가 탄생시킨 뜨거운 남자들! 불타는 트롯맨 TOP7! 장미 꽃잎보다 뜨겁고 가시보다 아찔하다! 눈을 뗄 수 없는 7인 7색의 매력으로 화요일 밤을 붉게 물들일 불타는 쇼가 펼쳐진다!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">24</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107062000 +0900" stop="20261107062400 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (7회)</title>
+    <desc lang="ko">시간의 기억 (7회)
+회차 : 7회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">7</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107062400 +0900" stop="20261107070700 +0900" channel="kortv.ishow">
+    <title lang="ko">불타는 장미단 (24회)</title>
+    <desc lang="ko">불타는 장미단 (24회)
+회차 : 24회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+붉은 장미가 탄생시킨 뜨거운 남자들! 불타는 트롯맨 TOP7! 장미 꽃잎보다 뜨겁고 가시보다 아찔하다! 눈을 뗄 수 없는 7인 7색의 매력으로 화요일 밤을 붉게 물들일 불타는 쇼가 펼쳐진다!</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">24</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107070700 +0900" stop="20261107075300 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (6회)</title>
+    <desc lang="ko">미스트롯 4 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107075300 +0900" stop="20261107075700 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (8회)</title>
+    <desc lang="ko">시간의 기억 (8회)
+회차 : 8회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">8</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107075700 +0900" stop="20261107084400 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (6회)</title>
+    <desc lang="ko">미스트롯 4 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107084400 +0900" stop="20261107084700 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (9회)</title>
+    <desc lang="ko">시간의 기억 (9회)
+회차 : 9회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">9</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107084700 +0900" stop="20261107093200 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (6회)</title>
+    <desc lang="ko">미스트롯 4 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107093200 +0900" stop="20261107093600 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (10회)</title>
+    <desc lang="ko">시간의 기억 (10회)
+회차 : 10회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">10</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107093600 +0900" stop="20261107102000 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (6회)</title>
+    <desc lang="ko">미스트롯 4 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107102000 +0900" stop="20261107102400 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (11회)</title>
+    <desc lang="ko">시간의 기억 (11회)
+회차 : 11회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">11</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107102400 +0900" stop="20261107110700 +0900" channel="kortv.ishow">
+    <title lang="ko">미스트롯 4 (6회)</title>
+    <desc lang="ko">미스트롯 4 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107110700 +0900" stop="20261107114800 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107114800 +0900" stop="20261107115200 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (12회)</title>
+    <desc lang="ko">시간의 기억 (12회)
+회차 : 12회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">12</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107115200 +0900" stop="20261107123500 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107123500 +0900" stop="20261107123800 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (13회)</title>
+    <desc lang="ko">시간의 기억 (13회)
+회차 : 13회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">13</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107123800 +0900" stop="20261107132000 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107132000 +0900" stop="20261107132300 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (14회)</title>
+    <desc lang="ko">시간의 기억 (14회)
+회차 : 14회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">14</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107132300 +0900" stop="20261107140400 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (3회)</title>
+    <desc lang="ko">전설의 사내 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107140400 +0900" stop="20261107145000 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (6회)</title>
+    <desc lang="ko">무명전설 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107145000 +0900" stop="20261107145400 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (20회)</title>
+    <desc lang="ko">시간의 기억 (20회)
+회차 : 20회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">20</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107145400 +0900" stop="20261107154100 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (6회)</title>
+    <desc lang="ko">무명전설 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107154100 +0900" stop="20261107154500 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (22회)</title>
+    <desc lang="ko">시간의 기억 (22회)
+회차 : 22회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">22</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107154500 +0900" stop="20261107163100 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (6회)</title>
+    <desc lang="ko">무명전설 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107163100 +0900" stop="20261107163500 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (1회)</title>
+    <desc lang="ko">시간의 기억 (1회)
+회차 : 1회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">1</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107163500 +0900" stop="20261107172000 +0900" channel="kortv.ishow">
+    <title lang="ko">무명전설 (6회)</title>
+    <desc lang="ko">무명전설 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107172000 +0900" stop="20261107180300 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (4회)</title>
+    <desc lang="ko">전설의 사내 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107180300 +0900" stop="20261107180700 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (2회)</title>
+    <desc lang="ko">시간의 기억 (2회)
+회차 : 2회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107180700 +0900" stop="20261107184600 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (4회)</title>
+    <desc lang="ko">전설의 사내 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107184600 +0900" stop="20261107184900 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (3회)</title>
+    <desc lang="ko">시간의 기억 (3회)
+회차 : 3회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107184900 +0900" stop="20261107192800 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (4회)</title>
+    <desc lang="ko">전설의 사내 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107192800 +0900" stop="20261107193200 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (4회)</title>
+    <desc lang="ko">시간의 기억 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107193200 +0900" stop="20261107200500 +0900" channel="kortv.ishow">
+    <title lang="ko">전설의 사내 (4회)</title>
+    <desc lang="ko">전설의 사내 (4회)
+회차 : 4회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+무명전설 TOP7이 진정한 전설이 되어가는 노래 여정을 담는 음악쇼 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107200500 +0900" stop="20261107204600 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (6회)</title>
+    <desc lang="ko">현역가왕 3 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107204600 +0900" stop="20261107205000 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (5회)</title>
+    <desc lang="ko">시간의 기억 (5회)
+회차 : 5회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107205000 +0900" stop="20261107213100 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (6회)</title>
+    <desc lang="ko">현역가왕 3 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107213100 +0900" stop="20261107213500 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 좌표 (6회)</title>
+    <desc lang="ko">시간의 좌표 (6회)
+회차 : 6회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107213500 +0900" stop="20261107221500 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (6회)</title>
+    <desc lang="ko">현역가왕 3 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107221500 +0900" stop="20261107221900 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (7회)</title>
+    <desc lang="ko">시간의 기억 (7회)
+회차 : 7회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">7</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107221900 +0900" stop="20261107225700 +0900" channel="kortv.ishow">
+    <title lang="ko">현역가왕 3 (6회)</title>
+    <desc lang="ko">현역가왕 3 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가
+현역가왕 시리즈의 놀라운 기록을 경신하는 것은 물론 2026년 한일가왕전3로까지 이어지며, 전 세계를 뒤집을 K-현역 여제들의 습격을 선사할 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107225700 +0900" stop="20261107234700 +0900" channel="kortv.ishow">
+    <title lang="ko">미스쓰리랑 (6회)</title>
+    <desc lang="ko">미스쓰리랑 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107234700 +0900" stop="20261107235100 +0900" channel="kortv.ishow">
+    <title lang="ko">시간의 기억 (8회)</title>
+    <desc lang="ko">시간의 기억 (8회)
+회차 : 8회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">8</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107235100 +0900" stop="20261108000000 +0900" channel="kortv.ishow">
+    <title lang="ko">미스쓰리랑 (6회)</title>
+    <desc lang="ko">미스쓰리랑 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261106001000 +0900" stop="20261106020000 +0900" channel="kortv.ib스포츠">
@@ -5821,6 +8319,667 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
     <episode-num system="onscreen">44</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106005000 +0900" stop="20261106020000 +0900" channel="kortv.iplay">
+    <title lang="ko">이십세기 힛트쏭 (327회)</title>
+    <desc lang="ko">이십세기 힛트쏭 (327회)
+방송 : 재방송
+회차 : 327회
+장르 : 공연/음악
+등급 : 15세 이상 관람가
+대한민국 가요사가 고스란히 담긴 추억의 곡들을 재구성하여 8090의 색다름에 끌리는 현세대의 뉴트로 감성의 갈증을 해소한다!</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">327</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106034000 +0900" channel="kortv.iplay">
+    <title lang="ko">맛있는 녀석들 (584회)</title>
+    <desc lang="ko">맛있는 녀석들 (584회)
+방송 : 재방송
+회차 : 584회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+소문난 맛집?! 이미 가 볼 만큼 가 봤고, 먹을 만큼 먹어 봤다! 먹어 본 사람이 제대로 된 맛을 아는 법! 맛을 좀 아는 녀석들의 친절한 고급먹방! 맛있는 녀석들 본능적으로 맛있는 것을 찾아내고, 맛없는(?) ..</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">584</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106034000 +0900" stop="20261106043000 +0900" channel="kortv.iplay">
+    <title lang="ko">이부영앤유예진의 음악캠프 (24회)</title>
+    <desc lang="ko">이부영앤유예진의 음악캠프 (24회)
+방송 : 재방송
+회차 : 24회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">24</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106043000 +0900" stop="20261106050000 +0900" channel="kortv.iplay">
+    <title lang="ko">오늘부터 운동뚱 (65회)</title>
+    <desc lang="ko">오늘부터 운동뚱 (65회)
+방송 : 재방송
+회차 : 65회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+맛있는 녀석들의 김민경의 건강한 먹방을 위해 운동을 하는 모습을 담은 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">65</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106050000 +0900" stop="20261106061000 +0900" channel="kortv.iplay">
+    <title lang="ko">맛있는 녀석들 (421회)</title>
+    <desc lang="ko">맛있는 녀석들 (421회)
+방송 : 재방송
+회차 : 421회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+소문난 맛집?! 이미 가 볼 만큼 가 봤고, 먹을 만큼 먹어 봤다! 먹어 본 사람이 제대로 된 맛을 아는 법! 맛을 좀 아는 녀석들의 친절한 고급먹방! 맛있는 녀석들 본능적으로 맛있는 것을 찾아내고, 맛없는(?) ..</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">421</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106061000 +0900" stop="20261106064000 +0900" channel="kortv.iplay">
+    <title lang="ko">데이트 플래너 (6회)</title>
+    <desc lang="ko">데이트 플래너 (6회)
+회차 : 6회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106064000 +0900" stop="20261106075000 +0900" channel="kortv.iplay">
+    <title lang="ko">100세 동행 (56회)</title>
+    <desc lang="ko">100세 동행 (56회)
+방송 : 재방송
+회차 : 56회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">56</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106075000 +0900" stop="20261106085500 +0900" channel="kortv.iplay">
+    <title lang="ko">100세 동행 (57회)</title>
+    <desc lang="ko">100세 동행 (57회)
+방송 : 재방송
+회차 : 57회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">57</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106085500 +0900" stop="20261106101500 +0900" channel="kortv.iplay">
+    <title lang="ko">이십세기 힛트쏭 (327회)</title>
+    <desc lang="ko">이십세기 힛트쏭 (327회)
+방송 : 재방송
+회차 : 327회
+장르 : 공연/음악
+등급 : 15세 이상 관람가
+대한민국 가요사가 고스란히 담긴 추억의 곡들을 재구성하여 8090의 색다름에 끌리는 현세대의 뉴트로 감성의 갈증을 해소한다!</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">327</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106101500 +0900" stop="20261106105500 +0900" channel="kortv.iplay">
+    <title lang="ko">데이트 플래너 (6회)</title>
+    <desc lang="ko">데이트 플래너 (6회)
+방송 : 재방송
+회차 : 6회
+장르 : 뉴스/정보
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">6</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106105500 +0900" stop="20261106121500 +0900" channel="kortv.iplay">
+    <title lang="ko">스파이크 워-스타들의 배구 전쟁 (6회)</title>
+    <desc lang="ko">스파이크 워-스타들의 배구 전쟁 (6회)
+회차 : 6회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+18 X 9m 코트에서 펼쳐지는 스타들의 배구 전쟁을 담은 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106121500 +0900" stop="20261106131500 +0900" channel="kortv.iplay">
+    <title lang="ko">최선규의 이제는 지방시대 시즌3 (12회)</title>
+    <desc lang="ko">최선규의 이제는 지방시대 시즌3 (12회)
+회차 : 12회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">12</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106131500 +0900" stop="20261106142500 +0900" channel="kortv.iplay">
+    <title lang="ko">100세 동행 (55회)</title>
+    <desc lang="ko">100세 동행 (55회)
+방송 : 재방송
+회차 : 55회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">55</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106142500 +0900" stop="20261106152000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (1회)</title>
+    <desc lang="ko">니비성광미려 (1회)
+회차 : 1회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">1</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106152000 +0900" stop="20261106161500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (2회)</title>
+    <desc lang="ko">니비성광미려 (2회)
+회차 : 2회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106161500 +0900" stop="20261106171000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (3회)</title>
+    <desc lang="ko">니비성광미려 (3회)
+회차 : 3회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106171000 +0900" stop="20261106180500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (4회)</title>
+    <desc lang="ko">니비성광미려 (4회)
+회차 : 4회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106180500 +0900" stop="20261106190000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (5회)</title>
+    <desc lang="ko">니비성광미려 (5회)
+회차 : 5회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106190000 +0900" stop="20261106195000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (6회)</title>
+    <desc lang="ko">니비성광미려 (6회)
+회차 : 6회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">6</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106195000 +0900" stop="20261106204500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (7회)</title>
+    <desc lang="ko">니비성광미려 (7회)
+회차 : 7회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">7</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106204500 +0900" stop="20261106213500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (8회)</title>
+    <desc lang="ko">니비성광미려 (8회)
+회차 : 8회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">8</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106213500 +0900" stop="20261106222000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (9회)</title>
+    <desc lang="ko">니비성광미려 (9회)
+회차 : 9회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">9</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106222000 +0900" stop="20261106231000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (10회)</title>
+    <desc lang="ko">니비성광미려 (10회)
+회차 : 10회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">10</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106231000 +0900" stop="20261107000500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (11회)</title>
+    <desc lang="ko">니비성광미려 (11회)
+회차 : 11회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">11</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107000500 +0900" stop="20261107005500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (12회)</title>
+    <desc lang="ko">니비성광미려 (12회)
+회차 : 12회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">12</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107005500 +0900" stop="20261107020000 +0900" channel="kortv.iplay">
+    <title lang="ko">스파이크 워-스타들의 배구 전쟁 (6회)</title>
+    <desc lang="ko">스파이크 워-스타들의 배구 전쟁 (6회)
+방송 : 재방송
+회차 : 6회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+18 X 9m 코트에서 펼쳐지는 스타들의 배구 전쟁을 담은 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107020000 +0900" stop="20261107025500 +0900" channel="kortv.iplay">
+    <title lang="ko">최선규의 이제는 지방시대 시즌3 (12회)</title>
+    <desc lang="ko">최선규의 이제는 지방시대 시즌3 (12회)
+방송 : 재방송
+회차 : 12회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">12</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107025500 +0900" stop="20261107034000 +0900" channel="kortv.iplay">
+    <title lang="ko">오늘부터 운동뚱 (12회)</title>
+    <desc lang="ko">오늘부터 운동뚱 (12회)
+방송 : 재방송
+회차 : 12회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+맛있는 녀석들의 김민경의 건강한 먹방을 위해 운동을 하는 모습을 담은 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">12</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107034000 +0900" stop="20261107044000 +0900" channel="kortv.iplay">
+    <title lang="ko">쇼 가요중심 (65회)</title>
+    <desc lang="ko">쇼 가요중심 (65회)
+회차 : 65회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">65</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107044000 +0900" stop="20261107054000 +0900" channel="kortv.iplay">
+    <title lang="ko">쇼!33 트로트 (197회)</title>
+    <desc lang="ko">쇼!33 트로트 (197회)
+회차 : 197회
+장르 : 공연/음악
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">공연/음악</category>
+    <episode-num system="onscreen">197</episode-num>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107054000 +0900" stop="20261107070000 +0900" channel="kortv.iplay">
+    <title lang="ko">맛있는 녀석들 (420회)</title>
+    <desc lang="ko">맛있는 녀석들 (420회)
+방송 : 재방송
+회차 : 420회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+소문난 맛집?! 이미 가 볼 만큼 가 봤고, 먹을 만큼 먹어 봤다! 먹어 본 사람이 제대로 된 맛을 아는 법! 맛을 좀 아는 녀석들의 친절한 고급먹방! 맛있는 녀석들 본능적으로 맛있는 것을 찾아내고, 맛없는(?) ..</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">420</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107070000 +0900" stop="20261107080000 +0900" channel="kortv.iplay">
+    <title lang="ko">100세 동행 (57회)</title>
+    <desc lang="ko">100세 동행 (57회)
+방송 : 재방송
+회차 : 57회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">57</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107080000 +0900" stop="20261107085500 +0900" channel="kortv.iplay">
+    <title lang="ko">최선규의 이제는 지방시대 시즌3 (12회)</title>
+    <desc lang="ko">최선규의 이제는 지방시대 시즌3 (12회)
+방송 : 재방송
+회차 : 12회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">12</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107085500 +0900" stop="20261107100000 +0900" channel="kortv.iplay">
+    <title lang="ko">100세 동행 (55회)</title>
+    <desc lang="ko">100세 동행 (55회)
+방송 : 재방송
+회차 : 55회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">55</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107100000 +0900" stop="20261107111500 +0900" channel="kortv.iplay">
+    <title lang="ko">스파이크 워-스타들의 배구 전쟁 (6회)</title>
+    <desc lang="ko">스파이크 워-스타들의 배구 전쟁 (6회)
+방송 : 재방송
+회차 : 6회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+18 X 9m 코트에서 펼쳐지는 스타들의 배구 전쟁을 담은 예능 프로그램</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">6</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107111500 +0900" stop="20261107122000 +0900" channel="kortv.iplay">
+    <title lang="ko">100세 동행 (56회)</title>
+    <desc lang="ko">100세 동행 (56회)
+방송 : 재방송
+회차 : 56회
+장르 : 뉴스/정보
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">뉴스/정보</category>
+    <episode-num system="onscreen">56</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107122000 +0900" stop="20261107140000 +0900" channel="kortv.iplay">
+    <title lang="ko">맛있는 녀석들 (585회)</title>
+    <desc lang="ko">맛있는 녀석들 (585회)
+회차 : 585회
+장르 : 연예/오락
+등급 : 15세 이상 관람가
+소문난 맛집?! 이미 가 볼 만큼 가 봤고, 먹을 만큼 먹어 봤다! 먹어 본 사람이 제대로 된 맛을 아는 법! 맛을 좀 아는 녀석들의 친절한 고급먹방! 맛있는 녀석들 본능적으로 맛있는 것을 찾아내고, 맛없는(?) ..</desc>
+    <category lang="ko">연예/오락</category>
+    <episode-num system="onscreen">585</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107140000 +0900" stop="20261107145000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (13회)</title>
+    <desc lang="ko">니비성광미려 (13회)
+회차 : 13회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">13</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107145000 +0900" stop="20261107154000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (14회)</title>
+    <desc lang="ko">니비성광미려 (14회)
+회차 : 14회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">14</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107154000 +0900" stop="20261107163500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (15회)</title>
+    <desc lang="ko">니비성광미려 (15회)
+회차 : 15회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">15</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107163500 +0900" stop="20261107172500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (16회)</title>
+    <desc lang="ko">니비성광미려 (16회)
+회차 : 16회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">16</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107172500 +0900" stop="20261107181500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (17회)</title>
+    <desc lang="ko">니비성광미려 (17회)
+회차 : 17회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">17</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107181500 +0900" stop="20261107190500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (18회)</title>
+    <desc lang="ko">니비성광미려 (18회)
+회차 : 18회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">18</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107190500 +0900" stop="20261107195500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (19회)</title>
+    <desc lang="ko">니비성광미려 (19회)
+회차 : 19회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">19</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107195500 +0900" stop="20261107204500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (20회)</title>
+    <desc lang="ko">니비성광미려 (20회)
+회차 : 20회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">20</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107204500 +0900" stop="20261107213500 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (21회)</title>
+    <desc lang="ko">니비성광미려 (21회)
+회차 : 21회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">21</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107213500 +0900" stop="20261107223000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (22회)</title>
+    <desc lang="ko">니비성광미려 (22회)
+회차 : 22회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">22</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107223000 +0900" stop="20261107232000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (23회)</title>
+    <desc lang="ko">니비성광미려 (23회)
+회차 : 23회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">23</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107232000 +0900" stop="20261108000000 +0900" channel="kortv.iplay">
+    <title lang="ko">니비성광미려 (24회)</title>
+    <desc lang="ko">니비성광미려 (24회)
+회차 : 24회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="onscreen">24</episode-num>
     <rating system="KR">
       <value>15세 이상 관람가</value>
     </rating>
@@ -9314,7 +12473,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107010000 +0900" stop="20261107043000 +0900" channel="SPOTV Golf &amp; Health.kr">
+  <programme start="20261107010000 +0900" stop="20261107040000 +0900" channel="SPOTV Golf &amp; Health.kr">
     <title lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십</title>
     <sub-title lang="ko">2R</sub-title>
     <desc lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십
@@ -9326,17 +12485,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107043000 +0900" stop="20261107080000 +0900" channel="SPOTV Golf &amp; Health.kr">
-    <title lang="ko">2026 LET 아람코 차이나 챔피언십</title>
-    <sub-title lang="ko">2R</sub-title>
-    <desc lang="ko">2026 LET 아람코 차이나 챔피언십
-부제 : 2R
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261107080000 +0900" stop="20261107113000 +0900" channel="SPOTV Golf &amp; Health.kr">
+  <programme start="20261107040000 +0900" stop="20261107063000 +0900" channel="SPOTV Golf &amp; Health.kr">
     <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
     <sub-title lang="ko">2R</sub-title>
     <desc lang="ko">2026 LPGA 토토 재팬 클래식
@@ -9348,7 +12497,31 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107113000 +0900" stop="20261107153000 +0900" channel="SPOTV Golf &amp; Health.kr">
+  <programme start="20261107063000 +0900" stop="20261107093000 +0900" channel="SPOTV Golf &amp; Health.kr">
+    <title lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십
+부제 : 2R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107093000 +0900" stop="20261107123000 +0900" channel="SPOTV Golf &amp; Health.kr">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식
+부제 : 2R
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107123000 +0900" stop="20261107153000 +0900" channel="SPOTV Golf &amp; Health.kr">
     <title lang="ko">2026 LPGA 토토 재팬 클래식</title>
     <sub-title lang="ko">3R</sub-title>
     <desc lang="ko">2026 LPGA 토토 재팬 클래식
@@ -9401,13 +12574,11 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     </rating>
   </programme>
   <programme start="20261108010000 +0900" stop="20261108043000 +0900" channel="SPOTV Golf &amp; Health.kr">
-    <title lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십</title>
+    <title lang="ko">2026 LET 아람코 차이나 챔피언십</title>
     <sub-title lang="ko">3R</sub-title>
-    <desc lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십
+    <desc lang="ko">2026 LET 아람코 차이나 챔피언십
 부제 : 3R
-방송 : 재방송
 등급 : 전체 관람가</desc>
-    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
@@ -18346,38 +21517,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106024600 +0900" stop="20261106032100 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">SBS 뉴스토리</title>
-    <desc lang="ko">SBS 뉴스토리
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106032100 +0900" stop="20261106035500 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">SBS 뉴스토리</title>
-    <desc lang="ko">SBS 뉴스토리
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106035500 +0900" stop="20261106050800 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">뉴스브리핑(재)</title>
-    <desc lang="ko">뉴스브리핑(재)
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106050800 +0900" stop="20261106060000 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">뉴스브리핑(재)</title>
-    <desc lang="ko">뉴스브리핑(재)
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106060000 +0900" stop="20261106062500 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">모닝와이드</title>
     <sub-title lang="ko">1부</sub-title>
@@ -18906,14 +22045,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     </credits>
     <rating system="KR">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106050000 +0900" stop="20261106053112 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 64회 - 윤호- 회자정리 / 해미*민용 (윷놀이)</title>
-    <desc lang="ko">거침없이 하이킥, 64회 - 윤호- 회자정리 / 해미*민용 (윷놀이)
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261106053112 +0900" stop="20261106060216 +0900" channel="KRBC2000010X">
@@ -21104,26 +24235,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">전지적 참견 시점, 300회 - 송지은♥박위 매니저 &amp; 풍자♥김대영 메이크업 아티스트</title>
     <desc lang="ko">전지적 참견 시점, 300회 - 송지은♥박위 매니저 &amp; 풍자♥김대영 메이크업 아티스트
 등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106023300 +0900" stop="20261106040900 +0900" channel="KRBC4100008Z6">
-    <title lang="ko">제목 없음 (43회)</title>
-    <desc lang="ko">제목 없음 (43회)
-회차 : 43회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="onscreen">43</episode-num>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106040900 +0900" stop="20261106050000 +0900" channel="KRBC4100008Z6">
-    <title lang="ko">제목 없음 (44회)</title>
-    <desc lang="ko">제목 없음 (44회)
-회차 : 44회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="onscreen">44</episode-num>
     <rating system="KR">
       <value>15세 이상 관람가</value>
     </rating>
@@ -23746,6 +26857,50 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
   
 <programme start="20261107070000 +0900" stop="20261107080000 +0900" channel="TV조선.kr">
     <title lang="ko">메디컬 스토리 주어진 시간 (31회)</title>
+  </programme>
+  
+<programme start="20261106133000 +0900" stop="20261106154000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">인생앨범 예스터데이 (5회)</title>
+  </programme>
+  
+<programme start="20261106154000 +0900" stop="20261106165000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">나는 자연인이다 (722회)</title>
+  </programme>
+  
+<programme start="20261106165000 +0900" stop="20261106201000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">특종세상 (299회)</title>
+  </programme>
+  
+<programme start="20261106201000 +0900" stop="20261106221000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">전설의 사내 (17회)</title>
+  </programme>
+  
+<programme start="20261106221000 +0900" stop="20261106232000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">휴먼다큐 사노라면 (764회)</title>
+  </programme>
+  
+<programme start="20261106232000 +0900" stop="20261107003000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">나는 자연인이다 (732회)</title>
+  </programme>
+  
+<programme start="20261107003000 +0900" stop="20261107021000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">디스이즈 현무로드 (6회)</title>
+  </programme>
+  
+<programme start="20261107021000 +0900" stop="20261107031000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">알토란 레시피 (213회)</title>
+  </programme>
+  
+<programme start="20261107031000 +0900" stop="20261107041000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">엄지의 제왕 (717회)</title>
+  </programme>
+  
+<programme start="20261107041000 +0900" stop="20261107060000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">상남자의 여행법 in 대만 (4회)</title>
+  </programme>
+  
+<programme start="20261107060000 +0900" stop="20261107074000 +0900" channel="MBN플러스.kr">
+    <title lang="ko">디스이즈 현무로드 (7회)</title>
   </programme>
   
 </tv>
