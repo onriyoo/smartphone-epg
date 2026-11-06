@@ -73,6 +73,11 @@
         "Name": "연합뉴스TV"
       },
       {
+        "ServiceId": "51",
+        "Id": "SPOTV.kr",
+        "Name": "SPOTV"
+      },
+      {
         "ServiceId": "52",
         "Id": "SPOTV2.kr",
         "Name": "SPOTV2"
@@ -667,13 +672,7 @@
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": [
-  {
-    "ServiceId": "2876055",
-    "Id": "SPOTV.kr",
-    "Name": "SPOTV"
-  }
-]
+    "MY_CHANNELS": []
   },
   "TVING": {
     "MY_CHANNELS": [
