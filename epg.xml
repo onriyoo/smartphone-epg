@@ -5143,22 +5143,31 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106210000 +0900" stop="20261106220000 +0900" channel="SPOTV PRIME2.kr">
-    <title lang="ko">2026 BWF 배드민턴 코리아 오픈</title>
-    <desc lang="ko">2026 BWF 배드민턴 코리아 오픈
-방송 : 재방송
+  <programme start="20261106210000 +0900" stop="20261106213000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트</title>
+    <desc lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
-    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106220000 +0900" stop="20261106230000 +0900" channel="SPOTV PRIME2.kr">
-    <title lang="ko">SPOTIME FOOTBALL 하이라이트</title>
-    <desc lang="ko">SPOTIME FOOTBALL 하이라이트
+  <programme start="20261106213000 +0900" stop="20261106223000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">26-27 챔피언스리그 하이라이트</title>
+    <desc lang="ko">26-27 챔피언스리그 하이라이트
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106223000 +0900" stop="20261106230000 +0900" channel="SPOTV PRIME2.kr">
+    <title lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트</title>
+    <desc lang="ko">2026 WTT 탁구 챔피언스 프랑크푸르트
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="ko">스포츠</category>
@@ -5168,14 +5177,12 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
     </rating>
   </programme>
   <programme start="20261106230000 +0900" stop="20261107000000 +0900" channel="SPOTV PRIME2.kr">
-    <title lang="ko">26-27 컨퍼런스리그 하이라이트</title>
-    <desc lang="ko">26-27 컨퍼런스리그 하이라이트
-방송 : 재방송
+    <title lang="ko">SPOTIME FOOTBALL 하이라이트</title>
+    <desc lang="ko">SPOTIME FOOTBALL 하이라이트
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
-    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
@@ -5196,10 +5203,12 @@ EBS Space에서 이루어지는 공연 실황을 엄선하여 방송하는 프�
   <programme start="20261107020000 +0900" stop="20261107030000 +0900" channel="SPOTV PRIME2.kr">
     <title lang="ko">26-27 챔피언스리그 하이라이트</title>
     <desc lang="ko">26-27 챔피언스리그 하이라이트
+방송 : 재방송
 장르 : 스포츠
 등급 : 전체 관람가</desc>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
+    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
@@ -21517,59 +21526,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106060000 +0900" stop="20261106062500 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">모닝와이드</title>
-    <sub-title lang="ko">1부</sub-title>
-    <desc lang="ko">모닝와이드
-부제 : 1부
-출연 : 김석재,최혜림
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김석재</actor>
-      <actor>최혜림</actor>
-    </credits>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106062500 +0900" stop="20261106074000 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">모닝와이드</title>
-    <sub-title lang="ko">2부</sub-title>
-    <desc lang="ko">모닝와이드
-부제 : 2부
-출연 : 김석재,최혜림
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김석재</actor>
-      <actor>최혜림</actor>
-    </credits>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106074000 +0900" stop="20261106084000 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">모닝와이드</title>
-    <sub-title lang="ko">3부</sub-title>
-    <desc lang="ko">모닝와이드
-부제 : 3부
-출연 : 김석재,최혜림
-등급 : 전체 관람가</desc>
-    <credits>
-      <actor>김석재</actor>
-      <actor>최혜림</actor>
-    </credits>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106084000 +0900" stop="20261106084900 +0900" channel="AUTO.sbsno1뉴스라이브">
-    <title lang="ko">[뉴스브리핑 인터뷰] 권익현 부안군수</title>
-    <desc lang="ko">[뉴스브리핑 인터뷰] 권익현 부안군수
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106084900 +0900" stop="20261106090400 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">[뉴스브리핑 인터뷰] 윤상현 국민의힘 의원</title>
     <desc lang="ko">[뉴스브리핑 인터뷰] 윤상현 국민의힘 의원
@@ -21993,7 +21949,7 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107062500 +0900" stop="20261107080000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261107062500 +0900" stop="20261107071000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">모닝와이드</title>
     <sub-title lang="ko">2부</sub-title>
     <desc lang="ko">모닝와이드
@@ -22008,7 +21964,37 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107080000 +0900" stop="20261107121000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261107071000 +0900" stop="20261107073400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리 (582회)</title>
+    <desc lang="ko">SBS 뉴스토리 (582회)
+회차 : 582회
+등급 : 전체 관람가</desc>
+    <episode-num system="onscreen">582</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107073400 +0900" stop="20261107075900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리 (581회)</title>
+    <desc lang="ko">SBS 뉴스토리 (581회)
+회차 : 581회
+등급 : 전체 관람가</desc>
+    <episode-num system="onscreen">581</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107075900 +0900" stop="20261107080000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리 (582회)</title>
+    <desc lang="ko">SBS 뉴스토리 (582회)
+회차 : 582회
+등급 : 전체 관람가</desc>
+    <episode-num system="onscreen">582</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107080000 +0900" stop="20261107083000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 뉴스토리</title>
     <desc lang="ko">SBS 뉴스토리
 등급 : 전체 관람가</desc>
@@ -22016,7 +22002,103 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107121000 +0900" stop="20261107144000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261107083000 +0900" stop="20261107085500 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">모닝와이드
+부제 : 1부
+출연 : 김석재,최혜림
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>김석재</actor>
+      <actor>최혜림</actor>
+    </credits>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107085500 +0900" stop="20261107094000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">모닝와이드
+부제 : 2부
+출연 : 김석재,최혜림
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>김석재</actor>
+      <actor>최혜림</actor>
+    </credits>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107094000 +0900" stop="20261107100400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리 (582회)</title>
+    <desc lang="ko">SBS 뉴스토리 (582회)
+회차 : 582회
+등급 : 전체 관람가</desc>
+    <episode-num system="onscreen">582</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107100400 +0900" stop="20261107102900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리 (581회)</title>
+    <desc lang="ko">SBS 뉴스토리 (581회)
+회차 : 581회
+등급 : 전체 관람가</desc>
+    <episode-num system="onscreen">581</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107102900 +0900" stop="20261107110300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리</title>
+    <desc lang="ko">SBS 뉴스토리
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107110300 +0900" stop="20261107113700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">SBS 뉴스토리</title>
+    <desc lang="ko">SBS 뉴스토리
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107113700 +0900" stop="20261107120200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">모닝와이드
+부제 : 1부
+출연 : 김석재,최혜림
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>김석재</actor>
+      <actor>최혜림</actor>
+    </credits>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107120200 +0900" stop="20261107121000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">모닝와이드
+부제 : 2부
+출연 : 김석재,최혜림
+등급 : 전체 관람가</desc>
+    <credits>
+      <actor>김석재</actor>
+      <actor>최혜림</actor>
+    </credits>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107121000 +0900" stop="20261107122000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 뉴스(주말 12시)</title>
     <desc lang="ko">SBS 뉴스(주말 12시)
 등급 : 전체 관람가</desc>
@@ -22024,7 +22106,127 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107144000 +0900" stop="20261107200000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261107122000 +0900" stop="20261107122600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[나이트라인 초대석] 가수 웅산</title>
+    <desc lang="ko">[나이트라인 초대석] 가수 웅산
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107122600 +0900" stop="20261107123300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[나이트라인 초대석] '데뷔 30주년' 음악인 장사익</title>
+    <desc lang="ko">[나이트라인 초대석] '데뷔 30주년' 음악인 장사익
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107123300 +0900" stop="20261107123900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[나이트라인 초대석] 배드민턴 국가대표 이소희, 백하나 선수</title>
+    <desc lang="ko">[나이트라인 초대석] 배드민턴 국가대표 이소희, 백하나 선수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107123900 +0900" stop="20261107124600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[나이트라인 초대석] 아시안게임 농구 '금메달' - 국가대표 이승현, 이정현</title>
+    <desc lang="ko">[나이트라인 초대석] 아시안게임 농구 '금메달' - 국가대표 이승현, 이정현
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107124600 +0900" stop="20261107125200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[나이트라인 초대석] 아시안게임 '테크볼' 금메달 - 국가대표 이준석</title>
+    <desc lang="ko">[나이트라인 초대석] 아시안게임 '테크볼' 금메달 - 국가대표 이준석
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107125200 +0900" stop="20261107125900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[나이트라인 초대석] '퇴사할게여' - 가수 소연</title>
+    <desc lang="ko">[나이트라인 초대석] '퇴사할게여' - 가수 소연
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107125900 +0900" stop="20261107130200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">fivegraph</title>
+    <desc lang="ko">fivegraph
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107130200 +0900" stop="20261107131600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">fivegraph</title>
+    <desc lang="ko">fivegraph
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107131600 +0900" stop="20261107132300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">fivegraph</title>
+    <desc lang="ko">fivegraph
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107132300 +0900" stop="20261107133700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">fivegraph</title>
+    <desc lang="ko">fivegraph
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107133700 +0900" stop="20261107134900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">fivegraph</title>
+    <desc lang="ko">fivegraph
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107134900 +0900" stop="20261107140800 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[뉴스브리핑 인터뷰] 김양팽 산업연구원 전문연구원</title>
+    <desc lang="ko">[뉴스브리핑 인터뷰] 김양팽 산업연구원 전문연구원
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107140800 +0900" stop="20261107141800 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[인터뷰] 리센느</title>
+    <desc lang="ko">[인터뷰] 리센느
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107141800 +0900" stop="20261107142700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[뉴스브리핑 인터뷰] 권익현 부안군수</title>
+    <desc lang="ko">[뉴스브리핑 인터뷰] 권익현 부안군수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107142700 +0900" stop="20261107144000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[뉴스브리핑 인터뷰] 윤상현 국민의힘 의원</title>
+    <desc lang="ko">[뉴스브리핑 인터뷰] 윤상현 국민의힘 의원
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107144000 +0900" stop="20261107145000 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 뉴스(주말 오후)</title>
     <desc lang="ko">SBS 뉴스(주말 오후)
 등급 : 전체 관람가</desc>
@@ -22032,7 +22234,143 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261107200000 +0900" stop="20261108070000 +0900" channel="AUTO.sbsno1뉴스라이브">
+  <programme start="20261107145000 +0900" stop="20261107150600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 치매-이승훈 서울대병원 교수</title>
+    <desc lang="ko">[지식의 발견] 치매-이승훈 서울대병원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107150600 +0900" stop="20261107152100 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 영양제-이승훈 서울대병원 교수</title>
+    <desc lang="ko">[지식의 발견] 영양제-이승훈 서울대병원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107152100 +0900" stop="20261107153700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 이란-인남식 국립외교원 교수</title>
+    <desc lang="ko">[지식의 발견] 이란-인남식 국립외교원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107153700 +0900" stop="20261107160600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 미국, 이란, 사우디-인남식 국립외교원 교수</title>
+    <desc lang="ko">[지식의 발견] 미국, 이란, 사우디-인남식 국립외교원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107160600 +0900" stop="20261107163400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 후티 반군</title>
+    <desc lang="ko">[지식의 발견] 후티 반군
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107163400 +0900" stop="20261107170500 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107170500 +0900" stop="20261107172400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107172400 +0900" stop="20261107174200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107174200 +0900" stop="20261107180400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107180400 +0900" stop="20261107181500 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107181500 +0900" stop="20261107184000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107184000 +0900" stop="20261107185200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107185200 +0900" stop="20261107191400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107191400 +0900" stop="20261107192200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">디지털 뉴스 클립</title>
+    <desc lang="ko">디지털 뉴스 클립
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107192200 +0900" stop="20261107193900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 치매-이승훈 서울대병원 교수</title>
+    <desc lang="ko">[지식의 발견] 치매-이승훈 서울대병원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107193900 +0900" stop="20261107195300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 영양제-이승훈 서울대병원 교수</title>
+    <desc lang="ko">[지식의 발견] 영양제-이승훈 서울대병원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107195300 +0900" stop="20261107200000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[지식의 발견] 이란-인남식 국립외교원 교수</title>
+    <desc lang="ko">[지식의 발견] 이란-인남식 국립외교원 교수
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107200000 +0900" stop="20261107203500 +0900" channel="AUTO.sbsno1뉴스라이브">
     <title lang="ko">SBS 8 뉴스</title>
     <desc lang="ko">SBS 8 뉴스
 출연 : 신동욱,김소원,박진호,박선영
@@ -22047,52 +22385,180 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106053112 +0900" stop="20261106060216 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 65회</title>
-    <desc lang="ko">거침없이 하이킥, 65회
-등급 : 12세 이상 관람가</desc>
+  <programme start="20261107203500 +0900" stop="20261107204000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106060216 +0900" stop="20261106063335 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 66회 - 문희의 애교(여봉~)/ 신지- 준이 옷사기</title>
-    <desc lang="ko">거침없이 하이킥, 66회 - 문희의 애교(여봉~)/ 신지- 준이 옷사기
-등급 : 12세 이상 관람가</desc>
+  <programme start="20261107204000 +0900" stop="20261107204600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106063335 +0900" stop="20261106070444 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 67회 - 일용잡부 처지 준하 회사에서 데려오는 순재/신지에게 반한 이형사</title>
-    <desc lang="ko">거침없이 하이킥, 67회 - 일용잡부 처지 준하 회사에서 데려오는 순재/신지에게 반한 이형사
-등급 : 12세 이상 관람가</desc>
+  <programme start="20261107204600 +0900" stop="20261107205100 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106070444 +0900" stop="20261106073520 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 68회 - 문희*준하- 순재 앞에서 잠꼬대하기 / 샤론스톤 유미*수영복 입은 유미 상...</title>
-    <desc lang="ko">거침없이 하이킥, 68회 - 문희*준하- 순재 앞에서 잠꼬대하기 / 샤론스톤 유미*수영복 입은 유미 상...
-등급 : 12세 이상 관람가</desc>
+  <programme start="20261107205100 +0900" stop="20261107205700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106073520 +0900" stop="20261106080626 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 69회 - 살림 은퇴선언하는 문희 / 순재가족 남자끼리 산장 MT/순재옆엔 다 쓸모없...</title>
-    <desc lang="ko">거침없이 하이킥, 69회 - 살림 은퇴선언하는 문희 / 순재가족 남자끼리 산장 MT/순재옆엔 다 쓸모없...
-등급 : 12세 이상 관람가</desc>
+  <programme start="20261107205700 +0900" stop="20261107210400 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106080626 +0900" stop="20261106083712 +0900" channel="KRBC2000010X">
-    <title lang="ko">거침없이 하이킥, 70회 - 체면 구긴 순재의 해방구 (방방순재) /신지가 한 턱 낸다는 말에 식신준하...</title>
-    <desc lang="ko">거침없이 하이킥, 70회 - 체면 구긴 순재의 해방구 (방방순재) /신지가 한 턱 낸다는 말에 식신준하...
-등급 : 12세 이상 관람가</desc>
+  <programme start="20261107210400 +0900" stop="20261107211200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107211200 +0900" stop="20261107211600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">트럼프 NOW</title>
+    <desc lang="ko">트럼프 NOW
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107211600 +0900" stop="20261107211900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 공군 술판</title>
+    <desc lang="ko">[AFTER 8NEWS] 공군 술판
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107211900 +0900" stop="20261107212600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 아이폰 듀오</title>
+    <desc lang="ko">[AFTER 8NEWS] 아이폰 듀오
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107212600 +0900" stop="20261107213500 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 일본의 외국인 정책</title>
+    <desc lang="ko">[AFTER 8NEWS] 일본의 외국인 정책
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107213500 +0900" stop="20261107214200 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 슝안</title>
+    <desc lang="ko">[AFTER 8NEWS] 슝안
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107214200 +0900" stop="20261107214900 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8 SPECIAL] 스마트 안경</title>
+    <desc lang="ko">[AFTER 8 SPECIAL] 스마트 안경
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107214900 +0900" stop="20261107215500 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 한국 드라마</title>
+    <desc lang="ko">[AFTER 8NEWS] 한국 드라마
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107215500 +0900" stop="20261107220000 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 농지법</title>
+    <desc lang="ko">[AFTER 8NEWS] 농지법
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107220000 +0900" stop="20261107220700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 반쪽 아킬레스건</title>
+    <desc lang="ko">[AFTER 8NEWS] 반쪽 아킬레스건
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107220700 +0900" stop="20261107221300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 누리호</title>
+    <desc lang="ko">[AFTER 8NEWS] 누리호
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107221300 +0900" stop="20261107221800 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">[AFTER 8NEWS] 부캉이</title>
+    <desc lang="ko">[AFTER 8NEWS] 부캉이
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107221800 +0900" stop="20261107223300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">이슈라이브-부캉이</title>
+    <desc lang="ko">이슈라이브-부캉이
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107223300 +0900" stop="20261107225600 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">이슈라이브-부동산</title>
+    <desc lang="ko">이슈라이브-부동산
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107225600 +0900" stop="20261107231300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">이슈라이브-사이버 공격에 유럽 '발칵'</title>
+    <desc lang="ko">이슈라이브-사이버 공격에 유럽 '발칵'
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107231300 +0900" stop="20261107235300 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">이슈라이브-마라톤</title>
+    <desc lang="ko">이슈라이브-마라톤
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261107235300 +0900" stop="20261108002700 +0900" channel="AUTO.sbsno1뉴스라이브">
+    <title lang="ko">이슈라이브-바이낸스</title>
+    <desc lang="ko">이슈라이브-바이낸스
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20261106083712 +0900" stop="20261106090800 +0900" channel="KRBC2000010X">
@@ -22711,30 +23177,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106050000 +0900" stop="20261106061212 +0900" channel="KRBC200002I0">
-    <title lang="ko">나 혼자 산다, 30회 - 원 플러스 원</title>
-    <desc lang="ko">나 혼자 산다, 30회 - 원 플러스 원
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106061212 +0900" stop="20261106072549 +0900" channel="KRBC200002I0">
-    <title lang="ko">나 혼자 산다, 31회 - 혼자남들의 특별한 응원/더 무지개 라이브 김도균</title>
-    <desc lang="ko">나 혼자 산다, 31회 - 혼자남들의 특별한 응원/더 무지개 라이브 김도균
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106072549 +0900" stop="20261106083821 +0900" channel="KRBC200002I0">
-    <title lang="ko">나 혼자 산다, 32회 - 혼자남들의 즐거운 일상</title>
-    <desc lang="ko">나 혼자 산다, 32회 - 혼자남들의 즐거운 일상
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106083821 +0900" stop="20261106095530 +0900" channel="KRBC200002I0">
     <title lang="ko">나 혼자 산다, 33회 - 혼자남들의 이별하기</title>
     <desc lang="ko">나 혼자 산다, 33회 - 혼자남들의 이별하기
@@ -22999,30 +23441,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106050000 +0900" stop="20261106061628 +0900" channel="KRBB5000073UD">
-    <title lang="ko">놀면 뭐하니?, 141회 - WSG 워너비</title>
-    <desc lang="ko">놀면 뭐하니?, 141회 - WSG 워너비
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106061628 +0900" stop="20261106073635 +0900" channel="KRBB5000073UD">
-    <title lang="ko">놀면 뭐하니?, 142회 - WSG 워너비</title>
-    <desc lang="ko">놀면 뭐하니?, 142회 - WSG 워너비
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106073635 +0900" stop="20261106085150 +0900" channel="KRBB5000073UD">
-    <title lang="ko">놀면 뭐하니?, 143회 - WSG 워너비</title>
-    <desc lang="ko">놀면 뭐하니?, 143회 - WSG 워너비
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106085150 +0900" stop="20261106101100 +0900" channel="KRBB5000073UD">
     <title lang="ko">놀면 뭐하니?, 144회 - WSG 워너비</title>
     <desc lang="ko">놀면 뭐하니?, 144회 - WSG 워너비
@@ -23263,22 +23681,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106050000 +0900" stop="20261106062714 +0900" channel="KRBB5000069BS">
-    <title lang="ko">무한도전, 483회 - 무한도전 &lt;릴레이 툰&gt;</title>
-    <desc lang="ko">무한도전, 483회 - 무한도전 &lt;릴레이 툰&gt;
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106062714 +0900" stop="20261106075343 +0900" channel="KRBB5000069BS">
-    <title lang="ko">무한도전, 484회 - 무한도전 &lt;릴레이 툰&gt; 두 번째 이야기</title>
-    <desc lang="ko">무한도전, 484회 - 무한도전 &lt;릴레이 툰&gt; 두 번째 이야기
-등급 : 12세 이상 관람가</desc>
-    <rating system="KR">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106075343 +0900" stop="20261106091947 +0900" channel="KRBB5000069BS">
     <title lang="ko">무한도전, 485회 - 무한도전 &lt;오늘 뭐하지?&gt;</title>
     <desc lang="ko">무한도전, 485회 - 무한도전 &lt;오늘 뭐하지?&gt;
@@ -23509,22 +23911,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
 등급 : 12세 이상 관람가</desc>
     <rating system="KR">
       <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106050000 +0900" stop="20261106062818 +0900" channel="KRBB50000711L">
-    <title lang="ko">심야괴담회, 25회 - '위험한 그녀' 특집</title>
-    <desc lang="ko">심야괴담회, 25회 - '위험한 그녀' 특집
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106062818 +0900" stop="20261106074553 +0900" channel="KRBB50000711L">
-    <title lang="ko">심야괴담회, 26회 - ‘극한직업’ 특집</title>
-    <desc lang="ko">심야괴담회, 26회 - ‘극한직업’ 특집
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261106074553 +0900" stop="20261106090010 +0900" channel="KRBB50000711L">
@@ -23783,22 +24169,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106050000 +0900" stop="20261106062844 +0900" channel="KRBB50000721W">
-    <title lang="ko">오은영 리포트 - 결혼 지옥, 26회 - 네 말은 다 틀려! 태클 부부</title>
-    <desc lang="ko">오은영 리포트 - 결혼 지옥, 26회 - 네 말은 다 틀려! 태클 부부
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106062844 +0900" stop="20261106074641 +0900" channel="KRBB50000721W">
-    <title lang="ko">오은영 리포트 - 결혼 지옥, 27회 - 결혼지옥 그 후 오은영 리포트</title>
-    <desc lang="ko">오은영 리포트 - 결혼 지옥, 27회 - 결혼지옥 그 후 오은영 리포트
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106074641 +0900" stop="20261106091745 +0900" channel="KRBB50000721W">
     <title lang="ko">오은영 리포트 - 결혼 지옥, 28회 - 언제까지 술이 들어가나 술래(來) 부부</title>
     <desc lang="ko">오은영 리포트 - 결혼 지옥, 28회 - 언제까지 술이 들어가나 술래(來) 부부
@@ -24023,22 +24393,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261106050000 +0900" stop="20261106064233 +0900" channel="KRBC20000418">
-    <title lang="ko">전지적 참견 시점, 288회 - 스윙스♥김진혁 매니저 &amp; 류경수♥강주희 매니저</title>
-    <desc lang="ko">전지적 참견 시점, 288회 - 스윙스♥김진혁 매니저 &amp; 류경수♥강주희 매니저
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106064233 +0900" stop="20261106082004 +0900" channel="KRBC20000418">
-    <title lang="ko">전지적 참견 시점, 289회 - ‘영자 미식회’ 해외 진출! 미식의 나라 ‘싱가포르’ 1탄!</title>
-    <desc lang="ko">전지적 참견 시점, 289회 - ‘영자 미식회’ 해외 진출! 미식의 나라 ‘싱가포르’ 1탄!
-등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
   <programme start="20261106082004 +0900" stop="20261106100748 +0900" channel="KRBC20000418">
     <title lang="ko">전지적 참견 시점, 290회 - 정승제♥김현기 수학 매니저 &amp; ‘영자 미식회’ 해외 진출!</title>
     <desc lang="ko">전지적 참견 시점, 290회 - 정승제♥김현기 수학 매니저 &amp; ‘영자 미식회’ 해외 진출!
@@ -24235,26 +24589,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
     <title lang="ko">전지적 참견 시점, 300회 - 송지은♥박위 매니저 &amp; 풍자♥김대영 메이크업 아티스트</title>
     <desc lang="ko">전지적 참견 시점, 300회 - 송지은♥박위 매니저 &amp; 풍자♥김대영 메이크업 아티스트
 등급 : 15세 이상 관람가</desc>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106050000 +0900" stop="20261106063000 +0900" channel="KRBC4100008Z6">
-    <title lang="ko">제목 없음 (45회)</title>
-    <desc lang="ko">제목 없음 (45회)
-회차 : 45회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="onscreen">45</episode-num>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106063000 +0900" stop="20261106075600 +0900" channel="KRBC4100008Z6">
-    <title lang="ko">제목 없음 (46회)</title>
-    <desc lang="ko">제목 없음 (46회)
-회차 : 46회
-등급 : 15세 이상 관람가</desc>
-    <episode-num system="onscreen">46</episode-num>
     <rating system="KR">
       <value>15세 이상 관람가</value>
     </rating>
@@ -24515,14 +24849,6 @@ C Music TV가 독점적으로 제공하는 최고의 클래식, 영화음악, �
 회차 : 73회
 등급 : 15세 이상 관람가</desc>
     <episode-num system="onscreen">73</episode-num>
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261106000000 +0900" stop="20261106084400 +0900" channel="KRBB4200009C3">
-    <title lang="ko">나는 SOLO 10기, 끝사랑을 찾아요. 돌싱특집!</title>
-    <desc lang="ko">나는 SOLO 10기, 끝사랑을 찾아요. 돌싱특집!
-등급 : 15세 이상 관람가</desc>
     <rating system="KR">
       <value>15세 이상 관람가</value>
     </rating>
