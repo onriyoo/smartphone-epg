@@ -734,7 +734,7 @@
   },
   "SPOTV": {
     "MY_CHANNELS": [ {
-      "ServiceId": "51",
+      "ServiceId": "9",
       "Id": "SPOTV.kr",
       "Name": "SPOTV"
     }]
