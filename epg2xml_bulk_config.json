@@ -73,11 +73,6 @@
         "Name": "연합뉴스TV"
       },
       {
-        "ServiceId": "51",
-        "Id": "SPOTV.kr",
-        "Name": "SPOTV"
-      },
-      {
         "ServiceId": "52",
         "Id": "SPOTV2.kr",
         "Name": "SPOTV2"
